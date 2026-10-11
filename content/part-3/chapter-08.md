@@ -56,7 +56,7 @@ Saussure thereby analyzed language as a self-regulating network of relations rat
 
 Saussure sought to identify the structural principles that make communication possible across a linguistic community. He viewed language as a social institution governed by conventions. These conventions exist independently of any particular act of speech.<sup><a href="../../references/notes/chapter-08.md#note-28">28</a></sup> In formulating the dyadic sign, he intended to isolate the internal logic by which a linguistic system generates stable meanings through structural opposition. His model provides a descriptive foundation for how signs function collectively to ensure shared intelligibility.<sup><a href="../../references/notes/chapter-08.md#note-29">29</a></sup>
 
-![Illustration from Chapter 8](../images/chapter-08/ch08-e34fcee32740.png)
+![Illustration from Chapter 8](../../assets/figures/chapter-08/ch08-e34fcee32740.png)
 
 Figure 8-1. Saussure's Dyadic Sign
 
@@ -152,7 +152,7 @@ To accomplish this, Peirce expanded the sign beyond Saussure’s dyadic relation
 
 In Figure 8-2, Charles Sanders Peirce presents a triadic model of the sign, which differs from Saussure’s dyadic approach by introducing a third element to mediate meaning. This structure is often represented as a triangle to show that meaning is not fixed but arises through the dynamic process of semiosis.<sup><a href="../../references/notes/chapter-08.md#note-73">73</a></sup>
 
-![Illustration from Chapter 8](../images/chapter-08/ch08-aed635a8c4c1.png)
+![Illustration from Chapter 8](../../assets/figures/chapter-08/ch08-aed635a8c4c1.png)
 
 Figure 8-2. Peirce's Triadic Sign
 
@@ -274,7 +274,7 @@ Constructivist Semiotics therefore accounts for the formal conditions required t
 
 The preceding analysis isolates a common architectural gap in classical semiotic theories. Saussure and Peirce each capture essential aspects of meaning: structure, difference, mediation, and process. Yet neither supplies a model that preserves these distinctions under execution. What is missing is not insight, but architecture: a formally articulated system that separates concepts from instances, anchors interpretation to referents, assigns agency to an interpreter, and supplies goal-relative conditions for success and termination. Figure 8-3 introduces the Constructivist Semiotic Sign, which integrates these requirements into a single executable architecture.<sup><a href="../../references/notes/chapter-08.md#note-122">122</a></sup>
 
-![Illustration from Chapter 8](../images/chapter-08/ch08-e9f444abc6a5.png)
+![Illustration from Chapter 8](../../assets/figures/chapter-08/ch08-e9f444abc6a5.png)
 
 Figure 8-3. Constructivist Semiotic Sign UML Class Diagram
 
