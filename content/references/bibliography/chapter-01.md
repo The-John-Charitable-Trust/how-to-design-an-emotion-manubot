@@ -1,6 +1,6 @@
 # Chapter 1 — Bibliography
 
-[Back to Chapter 1](../part-1/chapter-01.md)
+[Back to Chapter 1](../../part-1/chapter-01.md)
 
 Roger Crisp, "Hedonism," in The Stanford Encyclopedia of Philosophy, Winter 2021 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/hedonism/. Access basis: Open scholarly reference.
 

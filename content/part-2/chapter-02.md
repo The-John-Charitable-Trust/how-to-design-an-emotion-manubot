@@ -20,7 +20,7 @@
 
 ## Why Our Most Cherished Beliefs Rest on Shaky Ground
 
-[Notes](../notes-archive/chapter-02.md) · [Bibliography](../bibliography/chapter-02.md)
+[Notes](../references/notes/chapter-02.md) · [Bibliography](../references/bibliography/chapter-02.md)
 
 
 Chapter 1 exposed the first problem: I do not believe we disagree about emotion merely because the evidence is incomplete. We disagree because we do not yet know what kind of thing we are trying to define. In this chapter, I directly address that problem. I ask what an idea is before I ask what emotion is, because no theory of feeling, value, morality, or rights can stand on concepts whose identity conditions remain vague.

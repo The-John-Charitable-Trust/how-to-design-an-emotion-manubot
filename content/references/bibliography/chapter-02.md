@@ -1,6 +1,6 @@
 # Chapter 2 — Bibliography
 
-[Back to Chapter 2](../part-2/chapter-02.md)
+[Back to Chapter 2](../../part-2/chapter-02.md)
 
 Gottlob Frege, "On Sense and Reference," trans. Max Black, in Translations from the Philosophical Writings of Gottlob Frege, ed. Peter Geach and Max Black (Oxford: Blackwell, 1952), 56-78; see also Edward N. Zalta, "Gottlob Frege," in The Stanford Encyclopedia of Philosophy, https://plato.stanford.edu/entries/frege/. Access basis: Open scholarly reference for verification.
 
