@@ -57,8 +57,12 @@
 
 /* Page breaks for print/PDF */
 .page-break {
-  page-break-after: always;
   height: 0;
+}
+@media print {
+  .page-break {
+    page-break-after: always;
+  }
 }
 
 /* Centered captions */
