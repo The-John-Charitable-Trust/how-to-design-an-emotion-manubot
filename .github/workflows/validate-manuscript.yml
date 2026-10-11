@@ -1,0 +1,38 @@
+name: Validate manuscript
+
+on:
+  pull_request:
+    paths:
+      - "content/**"
+      - "publishing/**"
+      - "scripts/**"
+  push:
+    branches: [main]
+    paths:
+      - "content/**"
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Validate manuscript manifest
+        run: python scripts/validate_manuscript.py --manifest publishing/manuscript.yml
+
+      - name: Validate citations
+        run: python scripts/validate_citations.py --content-dir content/
+
+      - name: Check figure paths
+        run: python scripts/validate_manuscript.py --check-figures

@@ -1,0 +1,4 @@
+# Protect critical publishing infrastructure
+/.github/workflows/ @cezjah
+/publishing/ @cezjah
+/scripts/ @cezjah
