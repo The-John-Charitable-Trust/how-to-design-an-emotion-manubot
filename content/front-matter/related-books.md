@@ -2,7 +2,7 @@
 
 ## Universal Moral Concepts I
 
-![God Father](../../assets/covers/related-books/god-father.jpg)
+![God Father](../images/covers/related-books/god-father.jpg)
 
 ### God Father
 
@@ -10,7 +10,7 @@
 
 ## Universal Moral Concepts II
 
-![The Art of Sovereignty](../../assets/covers/related-books/the-art-of-sovereignty.jpg)
+![The Art of Sovereignty](../images/covers/related-books/the-art-of-sovereignty.jpg)
 
 ### The Art of Sovereignty
 

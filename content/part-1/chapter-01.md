@@ -26,7 +26,7 @@
 
 *If we intend to define emotion, we must stop accepting superficial slogans and begin constructing an objective architecture. That architecture rests upon conceptual foundation. The following chapter therefore begins where every serious theory of emotion must begin, with the fragile structure of belief itself.*
 
-[Notes](notes-archive/chapter-01.md) · [Bibliography](bibliography/chapter-01.md)
+[Notes](../notes-archive/chapter-01.md) · [Bibliography](../bibliography/chapter-01.md)
 
 I OPEN THIS CHAPTER with a refusal: I will not add one more definition of emotion to a field cluttered with unexamined terms. Instead, I ask a prior and far more demanding question: what must any definition of emotion preserve if it is to possess ontological validity? I do not offer a premature label here. I establish the non-negotiable conditions that any adequate theory of emotion must satisfy.
 

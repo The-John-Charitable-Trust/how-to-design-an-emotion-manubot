@@ -1,6 +1,6 @@
 # Chapter 2 — Notes
 
-[← Chapter 2](../11.chapter-02.md) · [Bibliography](../bibliography/chapter-02.md)
+[← Chapter 2](../part-2/chapter-02.md) · [Bibliography](../bibliography/chapter-02.md)
 
 
 <a id="note-1"></a>

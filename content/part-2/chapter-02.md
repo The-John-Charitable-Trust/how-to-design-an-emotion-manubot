@@ -20,7 +20,7 @@
 
 ## Why Our Most Cherished Beliefs Rest on Shaky Ground
 
-[Notes](notes-archive/chapter-02.md) · [Bibliography](bibliography/chapter-02.md)
+[Notes](../notes-archive/chapter-02.md) · [Bibliography](../bibliography/chapter-02.md)
 
 
 Chapter 1 exposed the first problem: I do not believe we disagree about emotion merely because the evidence is incomplete. We disagree because we do not yet know what kind of thing we are trying to define. In this chapter, I directly address that problem. I ask what an idea is before I ask what emotion is, because no theory of feeling, value, morality, or rights can stand on concepts whose identity conditions remain vague.
@@ -199,13 +199,13 @@ By adopting UML, I make it possible to diagram, compare, and analyze the structu
 
 The corresponding C# executables for the projects below appear in the downloaded ZIP file under the matching project folder. Each folder includes a README with instructions for building, running, and reproducing the sample outputs.
 
-![Chapter 2 figure 01](images/chapter-02/figure-01.png)
+![Chapter 2 figure 01](../images/chapter-02/figure-01.png)
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 Figure 2-1. Integer Concept UML Class Diagram
 
-![Chapter 2 figure 02](images/chapter-02/figure-02.png)
+![Chapter 2 figure 02](../images/chapter-02/figure-02.png)
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
@@ -215,7 +215,7 @@ To illustrate my use of object-oriented architecture and UML to model the ontolo
 
 The numeral “7” or the word “Seven” functions only as an identifier. The label does not supply meaning. The concept int supplies identity conditions as constraints because it declares what counts as an integer. The instantiation of that concept into a construct supplies determinate meaning by assigning values within those constraints. The object diagram in figure 2-2 then shows how declared structure becomes a construct when omitted measurements receive determinate values. In C#, this corresponds to initialization.
 
-![Chapter 2 figure 03](images/chapter-02/figure-03.png)
+![Chapter 2 figure 03](../images/chapter-02/figure-03.png)
 
 Or, in a single unified form:
 
@@ -225,15 +225,15 @@ Project 1 uses runtime parameters documented in its README. The project passes t
 
 This is the corresponding output:
 
-![Chapter 2 figure 04](images/chapter-02/figure-04.png)
+![Chapter 2 figure 04](../images/chapter-02/figure-04.png)
 
-![Chapter 2 figure 05](images/chapter-02/figure-05.png)
+![Chapter 2 figure 05](../images/chapter-02/figure-05.png)
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 Figure 2-3. Right Concept UML Class Diagram
 
-![Chapter 2 figure 06](images/chapter-02/figure-06.png)
+![Chapter 2 figure 06](../images/chapter-02/figure-06.png)
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -249,29 +249,29 @@ Project 2 uses runtime parameters documented in its README. The project passes t
 
 This is the corresponding output:
 
-![Chapter 2 figure 07](images/chapter-02/figure-07.png)
+![Chapter 2 figure 07](../images/chapter-02/figure-07.png)
 
 Figures 2-5 through 2-8 model core affect as the physiological substrate of feeling prior to emotion construction. In this framework, I define CoreAffect as a concept and implement it as a UML class. It declares the essential dimensions that constitute affective state as such: valence, arousal, and motivational intensity. These are not emotions, meanings, or attitudes. They fix only the identity conditions of affect at the most fundamental level.
 
-![Chapter 2 figure 08](images/chapter-02/figure-08.png)
+![Chapter 2 figure 08](../images/chapter-02/figure-08.png)
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 Figure 2-5. Core Affect Concept UML Class Diagram
 
-![Chapter 2 figure 09](images/chapter-02/figure-09.png)
+![Chapter 2 figure 09](../images/chapter-02/figure-09.png)
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 Figure 2-6. Calm State UML Object Diagram
 
-![Chapter 2 figure 10](images/chapter-02/figure-10.png)
+![Chapter 2 figure 10](../images/chapter-02/figure-10.png)
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 Figure 2-7. Excited State UML Object Diagram
 
-![Chapter 2 figure 11](images/chapter-02/figure-11.png)
+![Chapter 2 figure 11](../images/chapter-02/figure-11.png)
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
@@ -287,7 +287,7 @@ Project 3 uses runtime parameters documented in its README. The project passes d
 
 This is the corresponding output:
 
-![Chapter 2 figure 12](images/chapter-02/figure-12.png)
+![Chapter 2 figure 12](../images/chapter-02/figure-12.png)
 
 Appendix B extends the framework through more complex UML diagrams. It uses associations such as inheritance and composition to model how affective states such as emotions, moods, and drives derive from feeling as a common structural base. It also applies structuralist syntagmatic relations to show how ordered association, not isolated elements, produces meaning. Finally, it introduces GoF creational patterns, including Factory and Prototype, to model the construction of emotional instances from stable conceptual structure rather than their discovery as natural kinds.[@posner1968genesis]
 

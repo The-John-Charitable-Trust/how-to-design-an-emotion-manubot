@@ -44,7 +44,7 @@ The Interpretive Systems constitute only one component of the broader cognitive-
 
 I now return to the deceased-parent-as-referent scenario I introduced throughout the preceding analysis. In many cultures, grief functions as the expected emotional response. Family, friends, and society often regard grief not merely as a common reaction but as the appropriate emotional interpretation of bereavement. Cultural convention often establishes grief as the default emotional construction.<sup><a href="../references/notes/appendix-l.md#note-17">17</a></sup> Emotional Constructivism does not deny the legitimacy of grief. Rather, it asks whether grief remains the emotional construction that best advances the individual’s governing goals. This common scenario provides the foundation for both the Emotional Constructivism Prototype, which models the intrapersonal architecture of intentional emotional construction, and the Emotional Constructivism Stereotype, which models the interpersonal architecture through which another rational agent may assist in intentionally redesigning it.
 
-<img src="images/appendix-l/figure-al-1.svg" />
+<img src="../images/appendix-l/figure-al-1.svg" />
 <p align="center">**Figure AL-1. The Emotional Constructivism Prototype: The Intentional Architecture of Emotional Meaning**</p>
 
 Figure AL-1 presents the Emotional Constructivism Prototype. It first models the intrapersonal cognitive-semiotic architecture through which a rational agent arrives at the default automatic emotional construction. Beginning with the deceased parent as the object of evaluation, physiological affect gives rise to phenomenological feeling. As I established in the Constructivist Semiotic Model of Emotion, I depart from Charles Sanders Peirce’s use of the term referent. Rather than denoting the external object itself, the referent is the phenomenological feeling once it becomes semiotically available for interpretation.<sup><a href="../references/notes/appendix-l.md#note-18">18</a></sup> The agent then evaluates and interprets that referent in accordance with governing goals before entering into a first-person binding resolution with themselves that commits them to a particular emotional construction.
@@ -79,7 +79,7 @@ The Stereotype therefore models a voluntary therapeutic partnership  between two
 
 In this appendix, I have focused on the constructive application of Emotional Constructivism. In Appendix O, I examine the ethical boundaries of the same architecture by considering its potential misuse through manipulation, coercion, disinformation, emotional exploitation, and other forms of psychological harm, together with the normative constraints required to prevent such abuse.
 
-<img src="images/appendix-l/figure-al-2.svg" />
+<img src="../images/appendix-l/figure-al-2.svg" />
 <p align="center">**Figure AL-2. The Emotional Constructivism Stereotype: The Interpersonal Architecture of Emotional Meaning**</p>
 
 Table AL-1. Shared Goals and Reciprocal Value Propositions in the Emotional Constructivism Stereotype
