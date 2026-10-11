@@ -230,7 +230,7 @@ Alongside the treatise and the novel, I bring this architecture into public disc
 
 # About the NFT
 
-![Complimentary NFT Claim Guide](../../assets/nft/complimentary-nft-claim-guide.jpg)
+![Complimentary NFT Claim Guide](assets/nft/complimentary-nft-claim-guide.jpg)
 
 
 
@@ -270,7 +270,7 @@ Father Abel, a devout Catholic priest, emerges as a formidable intellectual adve
 
 ## Universal Moral Concepts I
 
-![God Father](../../assets/covers/related-books/god-father.jpg)
+![God Father](assets/covers/related-books/god-father.jpg)
 
 ### God Father
 
@@ -278,7 +278,7 @@ Father Abel, a devout Catholic priest, emerges as a formidable intellectual adve
 
 ## Universal Moral Concepts II
 
-![The Art of Sovereignty](../../assets/covers/related-books/the-art-of-sovereignty.jpg)
+![The Art of Sovereignty](assets/covers/related-books/the-art-of-sovereignty.jpg)
 
 ### The Art of Sovereignty
 
@@ -619,7 +619,7 @@ I turn to Chapter 2 not as a detour from emotion, but as the necessary path towa
 
 *How to Design an Emotion*
 
-@Cézjah
+\@Cézjah
 
 
 </div>
@@ -842,13 +842,13 @@ By adopting UML, I make it possible to diagram, compare, and analyze the structu
 
 The corresponding C# executables for the projects below appear in the downloaded ZIP file under the matching project folder. Each folder includes a README with instructions for building, running, and reproducing the sample outputs.
 
-![Chapter 2 figure 01](../../assets/figures/chapter-02/figure-01.png)
+![Chapter 2 figure 01](assets/figures/chapter-02/figure-01.png)
 
 
 
 <p align="center">Figure 2-1. Integer Concept UML Class Diagram</p>
 
-![Chapter 2 figure 02](../../assets/figures/chapter-02/figure-02.png)
+![Chapter 2 figure 02](assets/figures/chapter-02/figure-02.png)
 
 
 
@@ -858,7 +858,7 @@ To illustrate my use of object-oriented architecture and UML to model the ontolo
 
 The numeral “7” or the word “Seven” functions only as an identifier. The label does not supply meaning. The concept int supplies identity conditions as constraints because it declares what counts as an integer. The instantiation of that concept into a construct supplies determinate meaning by assigning values within those constraints. The object diagram in figure 2-2 then shows how declared structure becomes a construct when omitted measurements receive determinate values. In C#, this corresponds to initialization.
 
-![Chapter 2 figure 03](../../assets/figures/chapter-02/figure-03.png)
+![Chapter 2 figure 03](assets/figures/chapter-02/figure-03.png)
 
 Or, in a single unified form:
 
@@ -868,15 +868,15 @@ Project 1 uses runtime parameters documented in its README. The project passes t
 
 This is the corresponding output:
 
-![Chapter 2 figure 04](../../assets/figures/chapter-02/figure-04.png)
+![Chapter 2 figure 04](assets/figures/chapter-02/figure-04.png)
 
-![Chapter 2 figure 05](../../assets/figures/chapter-02/figure-05.png)
+![Chapter 2 figure 05](assets/figures/chapter-02/figure-05.png)
 
 
 
 <p align="center">Figure 2-3. Right Concept UML Class Diagram</p>
 
-![Chapter 2 figure 06](../../assets/figures/chapter-02/figure-06.png)
+![Chapter 2 figure 06](assets/figures/chapter-02/figure-06.png)
 
 
 
@@ -892,29 +892,29 @@ Project 2 uses runtime parameters documented in its README. The project passes t
 
 This is the corresponding output:
 
-![Chapter 2 figure 07](../../assets/figures/chapter-02/figure-07.png)
+![Chapter 2 figure 07](assets/figures/chapter-02/figure-07.png)
 
 Figures 2-5 through 2-8 model core affect as the physiological substrate of feeling prior to emotion construction. In this framework, I define CoreAffect as a concept and implement it as a UML class. It declares the essential dimensions that constitute affective state as such: valence, arousal, and motivational intensity. These are not emotions, meanings, or attitudes. They fix only the identity conditions of affect at the most fundamental level.
 
-![Chapter 2 figure 08](../../assets/figures/chapter-02/figure-08.png)
+![Chapter 2 figure 08](assets/figures/chapter-02/figure-08.png)
 
 
 
 <p align="center">Figure 2-5. Core Affect Concept UML Class Diagram</p>
 
-![Chapter 2 figure 09](../../assets/figures/chapter-02/figure-09.png)
+![Chapter 2 figure 09](assets/figures/chapter-02/figure-09.png)
 
 
 
 <p align="center">Figure 2-6. Calm State UML Object Diagram</p>
 
-![Chapter 2 figure 10](../../assets/figures/chapter-02/figure-10.png)
+![Chapter 2 figure 10](assets/figures/chapter-02/figure-10.png)
 
 
 
 <p align="center">Figure 2-7. Excited State UML Object Diagram</p>
 
-![Chapter 2 figure 11](../../assets/figures/chapter-02/figure-11.png)
+![Chapter 2 figure 11](assets/figures/chapter-02/figure-11.png)
 
 
 
@@ -930,7 +930,7 @@ Project 3 uses runtime parameters documented in its README. The project passes d
 
 This is the corresponding output:
 
-![Chapter 2 figure 12](../../assets/figures/chapter-02/figure-12.png)
+![Chapter 2 figure 12](assets/figures/chapter-02/figure-12.png)
 
 Appendix B extends the framework through more complex UML diagrams. It uses associations such as inheritance and composition to model how affective states such as emotions, moods, and drives derive from feeling as a common structural base. It also applies structuralist syntagmatic relations to show how ordered association, not isolated elements, produces meaning. Finally, it introduces GoF creational patterns, including Factory and Prototype, to model the construction of emotional instances from stable conceptual structure rather than their discovery as natural kinds.[@posner1968genesis]
 
@@ -1191,11 +1191,11 @@ I begin with a simple experimental pattern that Barrett references in How Emotio
 
 The case matters because it seems to show that the mind can derive a central pattern from examples without retrieving a fixed intensional definition. I accept that lesson. But the experiment also hides a deeper constraint. Subjects can infer a central pattern only because the experiment already supplies a structured representational space within which the examples can vary.[@posner1968genesis] The dots can move, but they do not cease to belong to the same task. The mind can infer a central tendency because the experiment has already fixed the underlying space within which variation occurs.
 
-![Figure 1](../../assets/figures/chapter-04/figure-01.png)
+![Figure 1](assets/figures/chapter-04/figure-01.png)
 
 <p align="center">Figure 4-1. Dot-Pattern Distortions and Prototype Abstraction</p>
 
-![Figure 2](../../assets/figures/chapter-04/figure-02.png)
+![Figure 2](assets/figures/chapter-04/figure-02.png)
 
 <p align="center">Figure 4-2. Dot-Pattern Central Tendency and Inferred Prototype</p>
 
@@ -1223,15 +1223,15 @@ Project 1 establishes the core thesis of the chapter by formalizing the distinct
 
 The color-boundary example clarifies the distinction. Viewed rhetorically, the example critiques naive essentialism. Viewed architecturally, it reveals a more specific confusion: treating partitioning behavior as conceptual identity. I introduce the color case not as an independent case study but as part of Barrett's own exposition of her theory of concepts.[@lisa2017theory]
 
-![Figure 3](../../assets/figures/chapter-04/figure-03.png)
+![Figure 3](assets/figures/chapter-04/figure-03.png)
 
 <p align="center">Figure 4-3. Color Concept UML Class Diagram</p>
 
-![Figure 4](../../assets/figures/chapter-04/figure-04.png)
+![Figure 4](assets/figures/chapter-04/figure-04.png)
 
 <p align="center">Figure 4-4. Color Constructs UML Object Diagrams</p>
 
-![Figure 5](../../assets/figures/chapter-04/figure-05.png)
+![Figure 5](assets/figures/chapter-04/figure-05.png)
 
 <p align="center">Figure 4-5. Color Category UML Object Diagram</p>
 
@@ -1251,11 +1251,11 @@ Only after a valid instance exists does classification occur. The category is a 
 
 The sequence matters. Figure 4-6 presents the Grub concept as the class-level structure that fixes the relevant admissibility conditions: whether the organism can function as edible and whether it can function as a pest. Figure 4-7 presents a concrete grub instance, grub_boston, with determinate values for those conditions. The instance realizes the concept before any downstream category applies. Concept constrains. Instance realizes. Category groups.
 
-![Figure 6](../../assets/figures/chapter-04/figure-06.png)
+![Figure 6](assets/figures/chapter-04/figure-06.png)
 
 <p align="center">Figure 4-6. Grub Concept UML Class Diagram</p>
 
-![Figure 7](../../assets/figures/chapter-04/figure-07.png)
+![Figure 7](assets/figures/chapter-04/figure-07.png)
 
 <p align="center">Figure 4-7. Grub Constructs UML Object Diagrams</p>
 
@@ -1614,7 +1614,7 @@ That is the task of Chapter 7. I now move from the architecture of conceptual id
 
 *How to Design an Emotion*
 
-@Cézjah
+\@Cézjah
 
 
 </div>
@@ -1875,19 +1875,19 @@ The goal of this project is to show that meaning does not reside inside a symbol
 
 Figure 7-1 presents the UML Class Diagram for the Integer Constructivist Semiotic Sign. It defines the architectural roles and their relationships. The Interpreter functions as the central coordinating agent: it consumes the Identifier, Concept, Construct, and Referent, then produces meaning through a governed method. This structure enforces ontological separability: each constituent retains its distinct role, and the system breaks if one constituent collapses into another.
 
-![Chapter 7 illustration 1](../../assets/figures/chapter-07/figure-01.png)
+![Chapter 7 illustration 1](assets/figures/chapter-07/figure-01.png)
 
 
 *Figure 7-1. Foundational Integer Constructivist Semiotic Sign UML Class Diagram*
 
-![Chapter 7 illustration 2](../../assets/figures/chapter-07/figure-02.png)
+![Chapter 7 illustration 2](assets/figures/chapter-07/figure-02.png)
 
 
 *Figure 7-2. Foundational Integer Constructivist Semiotic Sign UML Object Diagram*
 
 Figure 7-2 presents the UML Object Diagram, showing a concrete execution of the architecture. Here, the model assigns specific values to each abstract class. This demonstrates instantiation integrity: the system preserves the distinction between definition (Concept) and instance (Construct) under execution.
 
-![Chapter 7 illustration 3](../../assets/figures/chapter-07/figure-03.png)
+![Chapter 7 illustration 3](assets/figures/chapter-07/figure-03.png)
 
 (Meaning: '7' refers to the value 7 (int) in the context of days in a week, for the goal of Determine how many days are in a week. Interpreter: Cezjah.)
 
@@ -1905,15 +1905,15 @@ Two cases test the boundary.
 
 Valid instantiation:
 
-![Chapter 7 illustration 4](../../assets/figures/chapter-07/figure-04.png)
+![Chapter 7 illustration 4](assets/figures/chapter-07/figure-04.png)
 
 Invalid instantiation:
 
-![Chapter 7 illustration 5](../../assets/figures/chapter-07/figure-05.png)
+![Chapter 7 illustration 5](assets/figures/chapter-07/figure-05.png)
 
 Output:
 
-![Chapter 7 illustration 6](../../assets/figures/chapter-07/figure-06.png)
+![Chapter 7 illustration 6](assets/figures/chapter-07/figure-06.png)
 
 This distinction demonstrates instantiation integrity. The Concept defines the admissibility conditions that govern whether the system can form a Construct. The system does not interpret arbitrarily. It rejects inputs that fail to satisfy the Concept’s type requirements.
 
@@ -1931,17 +1931,17 @@ The project preserves the same architectural structure used in Projects 1 and 2.
 
 The project evaluates three contexts.
 
-![Chapter 7 illustration 7](../../assets/figures/chapter-07/figure-07.png)
+![Chapter 7 illustration 7](assets/figures/chapter-07/figure-07.png)
 
-![Chapter 7 illustration 8](../../assets/figures/chapter-07/figure-08.png)
+![Chapter 7 illustration 8](assets/figures/chapter-07/figure-08.png)
 
-![Chapter 7 illustration 9](../../assets/figures/chapter-07/figure-09.png)
+![Chapter 7 illustration 9](assets/figures/chapter-07/figure-09.png)
 
-![Chapter 7 illustration 10](../../assets/figures/chapter-07/figure-10.png)
+![Chapter 7 illustration 10](assets/figures/chapter-07/figure-10.png)
 
-![Chapter 7 illustration 11](../../assets/figures/chapter-07/figure-11.png)
+![Chapter 7 illustration 11](assets/figures/chapter-07/figure-11.png)
 
-![Chapter 7 illustration 12](../../assets/figures/chapter-07/figure-12.png)
+![Chapter 7 illustration 12](assets/figures/chapter-07/figure-12.png)
 
 Case 1:  Meaning: '7' refers to the value 7 (int) in the context of days in a week, for the goal of Interpret the meaning of the symbol under context. Interpreter: Cezjah.
 
@@ -1963,17 +1963,17 @@ The project preserves the same architecture and scenario from prior projects. Th
 
 The project evaluates three goals.
 
-![Chapter 7 illustration 13](../../assets/figures/chapter-07/figure-13.png)
+![Chapter 7 illustration 13](assets/figures/chapter-07/figure-13.png)
 
-![Chapter 7 illustration 14](../../assets/figures/chapter-07/figure-14.png)
+![Chapter 7 illustration 14](assets/figures/chapter-07/figure-14.png)
 
-![Chapter 7 illustration 15](../../assets/figures/chapter-07/figure-15.png)
+![Chapter 7 illustration 15](assets/figures/chapter-07/figure-15.png)
 
-![Chapter 7 illustration 16](../../assets/figures/chapter-07/figure-16.png)
+![Chapter 7 illustration 16](assets/figures/chapter-07/figure-16.png)
 
-![Chapter 7 illustration 17](../../assets/figures/chapter-07/figure-17.png)
+![Chapter 7 illustration 17](assets/figures/chapter-07/figure-17.png)
 
-![Chapter 7 illustration 18](../../assets/figures/chapter-07/figure-18.png)
+![Chapter 7 illustration 18](assets/figures/chapter-07/figure-18.png)
 
 Case 1: Meaning: '7' refers to the value 7 (int) in the context of days in a week, for the goal of Determine how many days are in a week. Interpreter: Cezjah.
 
@@ -1999,9 +1999,9 @@ The project preserves the same architecture and scenario from the prior demonstr
 
 Execution:
 
-![Chapter 7 illustration 19](../../assets/figures/chapter-07/figure-19.png)
+![Chapter 7 illustration 19](assets/figures/chapter-07/figure-19.png)
 
-![Chapter 7 illustration 20](../../assets/figures/chapter-07/figure-20.png)
+![Chapter 7 illustration 20](assets/figures/chapter-07/figure-20.png)
 
 In the first mode, the system performs signal processing. It parses the input and produces a value. This operation detects structure and correlation, but it does not determine what the symbol is for. The system evaluates no context, applies no goal, and invokes no standard of success. It produces an output, but nothing is at stake.
 
@@ -2013,14 +2013,14 @@ The result completes the sequence of demonstrations. Project 1 builds the archit
 
 With these demonstrations complete, the Constructivist Semiotic Sign has survived formal execution. The architecture preserves its distinctions, enforces its constraints, and produces accountable outcomes. Meaning is therefore not a metaphor, not an assumption, and not a byproduct of correlation. It is an achievement.
 
-![Chapter 7 illustration 21](../../assets/figures/chapter-07/figure-21.png)
+![Chapter 7 illustration 21](assets/figures/chapter-07/figure-21.png)
 
 
 *Figure 7-3. Formal Integer Constructivist Semiotic Sign UML Class Diagram*
 
 Figure 7-3 represents the Class Diagram, the foundational architecture for this theory of meaning. It defines the necessary constituents: Identifier, Concept, Construct, Referent, and Interpreter, and the specific relationships between them. The Interpreter coordinates the architecture by consuming the Identifier, Concept, Construct, and Referent and generating meaning under a governing goal. This structure shows that meaning is not a physical object to be found, but a result produced by an agent under constraint. By defining the GenerateMeaning() method within the Interpreter, the architecture ensures that interpretation remains a governed cognitive act rather than a subjective feeling.
 
-![Chapter 7 illustration 22](../../assets/figures/chapter-07/figure-22.png)
+![Chapter 7 illustration 22](assets/figures/chapter-07/figure-22.png)
 
 
 *Figure 7-4. Formal Integer Constructivist Semiotic Sign UML Object Diagram*
@@ -2170,7 +2170,7 @@ Saussure thereby analyzed language as a self-regulating network of relations rat
 
 Saussure sought to identify the structural principles that make communication possible across a linguistic community. He viewed language as a social institution governed by conventions. These conventions exist independently of any particular act of speech.[@gottlob1952on] In formulating the dyadic sign, he intended to isolate the internal logic by which a linguistic system generates stable meanings through structural opposition. His model provides a descriptive foundation for how signs function collectively to ensure shared intelligibility.[@eric2023concepts]
 
-![Illustration from Chapter 8](../../assets/figures/chapter-08/ch08-e34fcee32740.png)
+![Illustration from Chapter 8](assets/figures/chapter-08/ch08-e34fcee32740.png)
 
 <p align="center">Figure 8-1. Saussure's Dyadic Sign</p>
 
@@ -2266,7 +2266,7 @@ To accomplish this, Peirce expanded the sign beyond Saussure’s dyadic relation
 
 In Figure 8-2, Charles Sanders Peirce presents a triadic model of the sign, which differs from Saussure’s dyadic approach by introducing a third element to mediate meaning. This structure is often represented as a triangle to show that meaning is not fixed but arises through the dynamic process of semiosis.[@peirce1955logic]
 
-![Illustration from Chapter 8](../../assets/figures/chapter-08/ch08-aed635a8c4c1.png)
+![Illustration from Chapter 8](assets/figures/chapter-08/ch08-aed635a8c4c1.png)
 
 <p align="center">Figure 8-2. Peirce's Triadic Sign</p>
 
@@ -2388,7 +2388,7 @@ Constructivist Semiotics therefore accounts for the formal conditions required t
 
 The preceding analysis isolates a common architectural gap in classical semiotic theories. Saussure and Peirce each capture essential aspects of meaning: structure, difference, mediation, and process. Yet neither supplies a model that preserves these distinctions under execution. What is missing is not insight, but architecture: a formally articulated system that separates concepts from instances, anchors interpretation to referents, assigns agency to an interpreter, and supplies goal-relative conditions for success and termination. Figure 8-3 introduces the Constructivist Semiotic Sign, which integrates these requirements into a single executable architecture.[@object2017work, p. 126]
 
-![Illustration from Chapter 8](../../assets/figures/chapter-08/ch08-e9f444abc6a5.png)
+![Illustration from Chapter 8](assets/figures/chapter-08/ch08-e9f444abc6a5.png)
 
 <p align="center">Figure 8-3. Constructivist Semiotic Sign UML Class Diagram</p>
 
@@ -2428,7 +2428,7 @@ This is the task of the next chapter:
 
 *How to Design an Emotion*
 
-@Cézjah
+\@Cézjah
 
 
 </div>
@@ -2799,9 +2799,9 @@ The Constructivist Semiotic Sign specifies the structural constituents required 
 
 Together, these semantic operations explain how emotional meaning emerges from the structural constituents of the Constructivist Semiotic Sign without collapsing physiology into consciousness, consciousness into interpretation, or interpretation into emotion.
 
-<img src="../../assets/figures/chapter-09/figure-01.png" />  
+<img src="assets/figures/chapter-09/figure-01.png" />  
 —---------------------------------------------------------------------------------------------------------------------------------------------------------  
-<img src="../../assets/figures/chapter-09/figure-02.png" />
+<img src="assets/figures/chapter-09/figure-02.png" />
 <p align="center">**Figure 9-1. Emotion Concept UML Class Diagram**</p>  
 —--------------------------------------------------------------------------------------------------------------------------------------------------------  
 **Figure 9-2. Emotion Semiotic Sign UML Object Diagram**
@@ -2818,7 +2818,7 @@ I can clarify the model by applying it to a familiar case: love. In this simplif
 
 The point is not that Romance, Lust, and Attachment name three unrelated emotions. The point is that the same general concept, Love, can generate different constructs when the agent interprets a felt state under different contextual and purposive constraints. A candlelight dinner, a sexually charged setting, and a caregiving scene do not merely decorate the emotion. They help specify what kind of love the agent constructs.
 
-<img src="../../assets/figures/chapter-09/figure-03.png" />  
+<img src="assets/figures/chapter-09/figure-03.png" />  
 —--------------------------------------------------------------------------------------------------------------------------------------------------------  
 **Figure 9-3. Love Concept UML Class Diagram**
 
@@ -2838,11 +2838,11 @@ The point is not that Romance, Lust, and Attachment name three unrelated emotion
 </tr>
 <tr class="even">
 <td>Referent</td>
-<td><img src="../../assets/figures/chapter-09/figure-04.png" /><strong><br />
+<td><img src="assets/figures/chapter-09/figure-04.png" /><strong><br />
 </strong>Romantic encounter</td>
-<td><img src="../../assets/figures/chapter-09/figure-05.png" /><br />
+<td><img src="assets/figures/chapter-09/figure-05.png" /><br />
 Sexually charged environment</td>
-<td><img src="../../assets/figures/chapter-09/figure-06.png" /><br />
+<td><img src="assets/figures/chapter-09/figure-06.png" /><br />
 Parents with child and dog</td>
 </tr>
 <tr class="odd">
@@ -2892,29 +2892,29 @@ The implementation defines an emotion concept with explicit constraint propertie
 
 Two parameters are accepted at runtime: context and arousal level.
 
-Input<img src="../../assets/figures/chapter-09/figure-07.png" />
+Input<img src="assets/figures/chapter-09/figure-07.png" />
 
-Output<img src="../../assets/figures/chapter-09/figure-08.png" />
+Output<img src="assets/figures/chapter-09/figure-08.png" />
 
-Input<img src="../../assets/figures/chapter-09/figure-09.png" />
+Input<img src="assets/figures/chapter-09/figure-09.png" />
 
-Output<img src="../../assets/figures/chapter-09/figure-10.png" />
+Output<img src="assets/figures/chapter-09/figure-10.png" />
 
 The run danger 7 passes because the instance satisfies both conditions: its context matches danger, and its arousal level exceeds the stipulated minimum of 6. The run safe 3 fails because the context does not match danger and the arousal level falls below 6. This demonstration does not claim that fear has a fixed psychological arousal threshold. It uses a stipulated threshold to show how a concept can govern admissible instances. Project 1 therefore demonstrates that identity depends on constraint satisfaction rather than resemblance or categorization. The structure accepts or rejects an instance according to whether the instance satisfies the concept’s admissibility conditions.
 
-<img src="../../assets/figures/chapter-09/figure-11.png" />  
+<img src="assets/figures/chapter-09/figure-11.png" />  
 —---------------------------------------------------------------------------------------------------------------------------------------------------------  
 **Figure 9-4. Emotion Concept–Emotion Instance Validation UML Class Diagram**
 
 Project 1 uses this validation structure to show how a concept governs an instance. The EmotionConcept supplies admissibility conditions, while IsValid(instance) tests whether a concrete EmotionInstance satisfies them. The example stipulates MinimumArousal = 6 only to make the validation executable; it does not claim that fear has a universal arousal threshold.
 
-<img src="../../assets/figures/chapter-09/figure-12.png" />  
+<img src="assets/figures/chapter-09/figure-12.png" />  
 —---------------------------------------------------------------------------------------------------------------------------------------------------------  
 **Figure 9-5.** **Fear Instance (Valid) UML Object Diagram  
   
 **
 
-<img src="../../assets/figures/chapter-09/figure-13.png" />  
+<img src="assets/figures/chapter-09/figure-13.png" />  
 —---------------------------------------------------------------------------------------------------------------------------------------------------------  
 **Figure 9-6. Fear Instance (Invalid) UML Object Diagram**
 
@@ -2927,32 +2927,32 @@ The implementation defines a feeling state through context and arousal. As Figur
 The program accepts three runtime inputs: context, arousal level, and mode. Figure 9-8 shows the contrast between the two conditions. The mode controls whether the program stops at semiotic availability or proceeds to semantic achievement. In this way, Project 2 shows that feelings do not become meaningful by default. Meaning appears only when a separate interpretive step occurs.
 
 Input  
-<img src="../../assets/figures/chapter-09/figure-14.png" />
+<img src="assets/figures/chapter-09/figure-14.png" />
 
 Output  
-<img src="../../assets/figures/chapter-09/figure-15.png" />
+<img src="assets/figures/chapter-09/figure-15.png" />
 
 Input  
-<img src="../../assets/figures/chapter-09/figure-16.png" />
+<img src="assets/figures/chapter-09/figure-16.png" />
 
 Output  
-<img src="../../assets/figures/chapter-09/figure-17.png" />
+<img src="assets/figures/chapter-09/figure-17.png" />
 
 The contrast between these two outputs is the whole argument in executable form. Nothing in the underlying feeling changes. The contextualized arousal remains constant. The only change is whether interpretation has occurred. This demonstrates that feeling can function as sign-material without yet counting as an emotion.
 
-<img src="../../assets/figures/chapter-09/figure-18.png" />  
+<img src="assets/figures/chapter-09/figure-18.png" />  
 -----------------------------------------------------------------------------------------------------------------------------------------------------------  
 **Figure 9-7. Feeling State–Emotional Meaning Bridge UML Class Diagram**
 
-<img src="../../assets/figures/chapter-09/figure-19.png" />  
+<img src="assets/figures/chapter-09/figure-19.png" />  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------  
 **Figure 9-8. Feeling State (Before Interpretation) UML Object Diagram**
 
-<img src="../../assets/figures/chapter-09/figure-20.png" />  
+<img src="assets/figures/chapter-09/figure-20.png" />  
 ------------------------------------------------------------------------------------------------------------------------------------------------------------  
 **Figure 9-9. Emotional Meaning UML Object Diagram**
 
-<img src="../../assets/figures/chapter-09/figure-21.png" />  
+<img src="assets/figures/chapter-09/figure-21.png" />  
 --------------------------------------------------------------------------------------------------------------------------------------------------------  
 **Figure 9-10. Feeling State (Before Interpretation) UML Object Diagram**
 
@@ -2965,52 +2965,52 @@ Figures 9-15 through 9-18 show the concrete object executions. Figure 9-15 holds
 The program accepts three runtime inputs: context, arousal level, and goal. In both executions, the feeling remains unchanged. Only the goal changes. That change produces a different emotional meaning. Project 3 therefore demonstrates that the body does not carry emotional meaning within itself. Meaning arises when an interpreter takes up a felt state under a governing aim.
 
 Input  
-<img src="../../assets/figures/chapter-09/figure-22.png" />
+<img src="assets/figures/chapter-09/figure-22.png" />
 
 Output  
-<img src="../../assets/figures/chapter-09/figure-23.png" />
+<img src="assets/figures/chapter-09/figure-23.png" />
 
 Input  
-<img src="../../assets/figures/chapter-09/figure-24.png" />
+<img src="assets/figures/chapter-09/figure-24.png" />
 
 Output  
-<img src="../../assets/figures/chapter-09/figure-25.png" />
+<img src="assets/figures/chapter-09/figure-25.png" />
 
 The contrast between these outputs demonstrates the core argument in executable form. Nothing in the feeling changes. The context remains backstage. The arousal remains high. Only the goal changes. Yet the meaning shifts from excitement to anxiety. This shows that emotional meaning is not found in the feeling alone but is constructed through goal-governed interpretation.
 
-<img src="../../assets/figures/chapter-09/figure-26.png" />  
+<img src="assets/figures/chapter-09/figure-26.png" />  
 —----------------------------------------------------------------------------------------------------------------------------------------------------  
 **Figure 9-11. Feeling State UML Class Diagram  
 **
 
-<img src="../../assets/figures/chapter-09/figure-27.png" />  
+<img src="assets/figures/chapter-09/figure-27.png" />  
 —----------------------------------------------------------------------------------------------------------------------------------------------------  
 **Figure 9-12. Goal UML Class Diagram**
 
-<img src="../../assets/figures/chapter-09/figure-28.png" />  
+<img src="assets/figures/chapter-09/figure-28.png" />  
 —----------------------------------------------------------------------------------------------------------------------------------------------------  
 **Figure 9-13. Emotional Interpretation UML Class Diagram**
 
-<img src="../../assets/figures/chapter-09/figure-29.png" />  
+<img src="assets/figures/chapter-09/figure-29.png" />  
 —----------------------------------------------------------------------------------------------------------------------------------------------------  
 **Figure 9-14. Interpreter UML Class Diagram**
 
-<img src="../../assets/figures/chapter-09/figure-30.png" />  
+<img src="assets/figures/chapter-09/figure-30.png" />  
 —----------------------------------------------------------------------------------------------------------------------------------------------------  
 **Figure 9-15. Feeling State UML Object Diagram**
 
-<img src="../../assets/figures/chapter-09/figure-31.png" />  
+<img src="assets/figures/chapter-09/figure-31.png" />  
 —----------------------------------------------------------------------------------------------------------------------------------------------------  
-<img src="../../assets/figures/chapter-09/figure-32.png" />
+<img src="assets/figures/chapter-09/figure-32.png" />
 <p align="center">**Figure 9-16. Performance Goal UML Object Diagram**</p>  
 —----------------------------------------------------------------------------------------------------------------------------------------------------  
 **Figure 9-17. Excitement Interpretation UML Object Diagram**
 
-<img src="../../assets/figures/chapter-09/figure-33.png" />  
+<img src="assets/figures/chapter-09/figure-33.png" />  
 —----------------------------------------------------------------------------------------------------------------------------------------------------  
 **Figure 9-18. Avoidance Goal UML Object Diagram**
 
-<img src="../../assets/figures/chapter-09/figure-34.png" />  
+<img src="assets/figures/chapter-09/figure-34.png" />  
 —---------------------------------------------------------------------------------------------------------------------------------------------------------  
 **Figure 9-19. Anxiety Interpretation UML Object Diagram**
 
@@ -3020,56 +3020,56 @@ Figures 9-25 through 9-28 show the corresponding object-level execution. Figure 
 
 Project 4 therefore demonstrates phase separation. The external situation does not contain emotional meaning by itself. The situation first gives rise to feeling. The agent then interprets that feeling under a goal. Emotion appears only after that interpretive act.
 
-Input<img src="../../assets/figures/chapter-09/figure-35.png" />
+Input<img src="assets/figures/chapter-09/figure-35.png" />
 
 Output  
-<img src="../../assets/figures/chapter-09/figure-36.png" />
+<img src="assets/figures/chapter-09/figure-36.png" />
 
 Input  
-<img src="../../assets/figures/chapter-09/figure-9-37.svg" />
+<img src="assets/figures/chapter-09/figure-9-37.svg" />
 
 Output  
-<img src="../../assets/figures/chapter-09/figure-38.png" />
+<img src="assets/figures/chapter-09/figure-38.png" />
 
 The contrast between these outputs demonstrates the architectural point. The external event does not contain emotional meaning within itself. It first produces a feeling state. That feeling then becomes emotionally meaningful only when interpreted under a governing goal. This preserves the chapter’s distinction between causal sequence and semantic achievement.
 
-<img src="../../assets/figures/chapter-09/figure-39.png" />  
+<img src="assets/figures/chapter-09/figure-39.png" />  
 —----------------------------------------------------------------------------------------------------------------------------------------------------  
 **Figure 9-20. External Situation UML Class Diagram**
 
-<img src="../../assets/figures/chapter-09/figure-26.png" />  
+<img src="assets/figures/chapter-09/figure-26.png" />  
 —----------------------------------------------------------------------------------------------------------------------------------------------------  
 **Figure 9-21. Feeling State UML Class Diagram**
 
-<img src="../../assets/figures/chapter-09/figure-27.png" />  
+<img src="assets/figures/chapter-09/figure-27.png" />  
 —----------------------------------------------------------------------------------------------------------------------------------------------------  
 **Figure 9-22. Goal UML Class Diagram**
 
-<img src="../../assets/figures/chapter-09/figure-40.png" />  
+<img src="assets/figures/chapter-09/figure-40.png" />  
 —----------------------------------------------------------------------------------------------------------------------------------------------------  
 **Figure 9-23. Emotional Meaning UML Class Diagram**
 
-<img src="../../assets/figures/chapter-09/figure-41.png" />  
+<img src="assets/figures/chapter-09/figure-41.png" />  
 —----------------------------------------------------------------------------------------------------------------------------------------------------  
 **Figure 9-24. Emotion Pipeline UML Class Diagram**
 
-<img src="../../assets/figures/chapter-09/figure-42.png" />  
+<img src="assets/figures/chapter-09/figure-42.png" />  
 —----------------------------------------------------------------------------------------------------------------------------------------------------  
 **Figure 9-25. External Situation UML Object Diagram**
 
-<img src="../../assets/figures/chapter-09/figure-43.png" />  
+<img src="assets/figures/chapter-09/figure-43.png" />  
 —----------------------------------------------------------------------------------------------------------------------------------------------------  
 **Figure 9-26. Feeling State UML Object Diagram**
 
-<img src="../../assets/figures/chapter-09/figure-44.png" />  
+<img src="assets/figures/chapter-09/figure-44.png" />  
 —----------------------------------------------------------------------------------------------------------------------------------------------------  
 **Figure 9-27. Safety Goal UML Object Diagram**
 
-<img src="../../assets/figures/chapter-09/figure-45.png" />  
+<img src="assets/figures/chapter-09/figure-45.png" />  
 —----------------------------------------------------------------------------------------------------------------------------------------------------  
 **Figure 9-28. Fear Meaning UML Object Diagram**
 
-<img src="../../assets/figures/chapter-09/figure-46.png" />  
+<img src="assets/figures/chapter-09/figure-46.png" />  
 —----------------------------------------------------------------------------------------------------------------------------------------------------  
 **Figure 9-29. Relief Meaning UML Object Diagram**
 
@@ -3080,47 +3080,47 @@ Figures 9-34 through 9-36 show the object-level execution. Figure 9-34 holds the
 Project 5 therefore demonstrates revisability. The feeling does not change, and the governing goal does not change. Updated contextual knowledge changes the interpretation. Emotional meaning therefore does not reside inside the bodily state; an agent constructs it through interpretation and can revise it when context warrants correction.
 
 Input  
-<img src="../../assets/figures/chapter-09/figure-47.png" />
+<img src="assets/figures/chapter-09/figure-47.png" />
 
 Output  
-<img src="../../assets/figures/chapter-09/figure-48.png" />
+<img src="assets/figures/chapter-09/figure-48.png" />
 
 Input  
-<img src="../../assets/figures/chapter-09/figure-49.png" />
+<img src="assets/figures/chapter-09/figure-49.png" />
 
 Output  
-<img src="../../assets/figures/chapter-09/figure-50.png" />
+<img src="assets/figures/chapter-09/figure-50.png" />
 
 The contrast between these outputs demonstrates the argument in executable form. The feeling remains constant. The governing goal remains constant. Only contextual knowledge changes. Yet the meaning shifts from fear to relief. This shows that emotional meaning is not contained in the bodily state itself but arises through interpretation and can therefore be revised when interpretation is corrected.
 
-<img src="../../assets/figures/chapter-09/figure-26.png" />  
+<img src="assets/figures/chapter-09/figure-26.png" />  
 —----------------------------------------------------------------------------------------------------------------------------------------------------  
 **Figure 9-30. Feeling State UML Class Diagram**
 
-<img src="../../assets/figures/chapter-09/figure-27.png" />  
+<img src="assets/figures/chapter-09/figure-27.png" />  
 —----------------------------------------------------------------------------------------------------------------------------------------------------  
 **Figure 9-31. Goal UML Class Diagram**
 
-<img src="../../assets/figures/chapter-09/figure-40.png" />  
+<img src="assets/figures/chapter-09/figure-40.png" />  
 —----------------------------------------------------------------------------------------------------------------------------------------------------  
 **Figure 9-32. Emotional Meaning UML Class Diagram**
 
-<img src="../../assets/figures/chapter-09/figure-51.png" />  
+<img src="assets/figures/chapter-09/figure-51.png" />  
 —----------------------------------------------------------------------------------------------------------------------------------------------------  
-<img src="../../assets/figures/chapter-09/figure-52.png" />
+<img src="assets/figures/chapter-09/figure-52.png" />
 <p align="center">**Figure 9-33. Reinterpreter UML Class Diagram**</p>  
 —----------------------------------------------------------------------------------------------------------------------------------------------------  
 **Figure 9-34. Feeling State (Stable) UML Object Diagram**
 
-<img src="../../assets/figures/chapter-09/figure-44.png" />  
+<img src="assets/figures/chapter-09/figure-44.png" />  
 —----------------------------------------------------------------------------------------------------------------------------------------------------  
 **Figure 9-35. Safety Goal (Stable) UML Object Diagram**
 
-<img src="../../assets/figures/chapter-09/figure-45.png" />  
+<img src="assets/figures/chapter-09/figure-45.png" />  
 —----------------------------------------------------------------------------------------------------------------------------------------------------  
 **Figure 9-36. Emotion Meaning (Initial Fear) UML Object Diagram**
 
-<img src="../../assets/figures/chapter-09/figure-46.png" />  
+<img src="assets/figures/chapter-09/figure-46.png" />  
 —----------------------------------------------------------------------------------------------------------------------------------------------------  
 **Figure 9-37. Emotion Meaning (Revised Relief) UML Object Diagram**
 
@@ -3136,7 +3136,7 @@ What remains is to present the system as a unified execution. The projects demon
 
 Figure 9-38 now integrates these constraints into a single, phase-ordered architecture.
 
-<img src="../../assets/figures/chapter-09/figure-53.png" />  
+<img src="assets/figures/chapter-09/figure-53.png" />  
 —----------------------------------------------------------------------------------------------------------------------------------------------------  
 **Figure 9-38. Metamorphosis of an Emotion**
 
@@ -3783,16 +3783,16 @@ Test 1. The Arbitrariness of the Constructivist Semiotic Sign: Does any intrinsi
 
 This test examines whether anything intrinsic to a sign determines its identifier. If the relation is objective, then identical sign configurations must yield the same identifier.[@saussure1959work2]
 
-<img src="../../assets/figures/chapter-12/figure-01.png" />
+<img src="assets/figures/chapter-12/figure-01.png" />
 <p align="center">**Figure 12.1. FamilyClanSign UML Class Diagram**</p>
 
-<img src="../../assets/figures/chapter-12/figure-02.png" />
+<img src="assets/figures/chapter-12/figure-02.png" />
 <p align="center">**Figure 12.2. English Family Clan UML Object Diagram**</p>
 
-<img src="../../assets/figures/chapter-12/figure-03.png" />
+<img src="assets/figures/chapter-12/figure-03.png" />
 <p align="center">**Figure 12.3. Spanish Family Clan UML Object Diagram**</p>
 
-<img src="../../assets/figures/chapter-12/figure-04.png" />
+<img src="assets/figures/chapter-12/figure-04.png" />
 <p align="center">**Figure 12.4. Swahili Family Clan UML Object Diagram**</p>
 
 Each instance preserves the same admissible sign configuration relative to its context. The identity conditions remain constant. The members remain constant. The structural constraints remain constant. The context varies across linguistic systems, and the identifier varies accordingly.
@@ -3811,16 +3811,16 @@ Test 2. Underdetermination: Does one identifier uniquely fix one sign configurat
 
 This test examines whether an identifier uniquely determines a sign. If the relation is objective, then a single identifier must fix a single set of identity conditions and corresponding instance.[@frege1980on]
 
-<img src="../../assets/figures/chapter-12/figure-05.png" />
+<img src="assets/figures/chapter-12/figure-05.png" />
 <p align="center">**Figure 12.5. FamilyClanSign UML Class Diagram**</p>
 
-<img src="../../assets/figures/chapter-12/figure-06.png" />
+<img src="assets/figures/chapter-12/figure-06.png" />
 <p align="center">**Figure 12.6. English Family Clan UML Object Diagram (Biological)**</p>
 
-<img src="../../assets/figures/chapter-12/figure-07.png" />
+<img src="assets/figures/chapter-12/figure-07.png" />
 <p align="center">**Figure 12.7. English Family Clan UML Object Diagram (Chosen)**</p>
 
-<img src="../../assets/figures/chapter-12/figure-08.png" />
+<img src="assets/figures/chapter-12/figure-08.png" />
 <p align="center">**Figure 12.8. English Family Clan UML Object Diagram (Legal Household)**</p>
 
 Each instance uses the same identifier. The context remains constant. The members remain constant. The structure remains constant. The identity conditions differ. In the UML diagrams, those admissibility conditions appear in the IdentityConditions property.
@@ -3837,16 +3837,16 @@ Test 3. Universal Objective Essence: Does a single invariant set of identity con
 
 This test examines whether a sign possesses a universal and objective essence. If such an essence exists, then a single set of identity conditions must hold invariantly across all admissible instances of the sign.[@peirce1931work4]
 
-<img src="../../assets/figures/chapter-12/figure-09.png" />
+<img src="assets/figures/chapter-12/figure-09.png" />
 <p align="center">**Figure 12.9. FamilyClanSign UML Class Diagram**</p>
 
-<img src="../../assets/figures/chapter-12/figure-10.png" />
+<img src="assets/figures/chapter-12/figure-10.png" />
 <p align="center">**Figure 12.10. English Family Clan UML Object Diagram (Biological Essence)**</p>
 
-<img src="../../assets/figures/chapter-12/figure-11.png" />
+<img src="assets/figures/chapter-12/figure-11.png" />
 <p align="center">**Figure 12.11. English Family Clan UML Object Diagram (Chosen Essence)**</p>
 
-<img src="../../assets/figures/chapter-12/figure-12.png" />
+<img src="assets/figures/chapter-12/figure-12.png" />
 <p align="center">**Figure 12.12. English Family Clan UML Object Diagram (Institutional Essence)**</p>
 
 Each instance uses the same identifier. The context remains constant. The structure remains constant. The identity conditions differ, and the admissible membership changes with them.
@@ -3863,16 +3863,16 @@ Test 4. Universal Objective Identity: Do identical identity conditions applied t
 
 This test examines whether a sign possesses a universal and objective identity. If identity is intrinsic, then identical identity conditions applied to the same referent must yield a single, invariant identity.[@frege1980on]
 
-<img src="../../assets/figures/chapter-12/figure-13.png" />
+<img src="assets/figures/chapter-12/figure-13.png" />
 <p align="center">**Figure 12.13. FamilyClanSign UML Class Diagram**</p>
 
-<img src="../../assets/figures/chapter-12/figure-14.png" />
+<img src="assets/figures/chapter-12/figure-14.png" />
 <p align="center">**Figure 12.14. English Family Clan UML Object Diagram (Kinship Identity)**</p>
 
-<img src="../../assets/figures/chapter-12/figure-15.png" />
+<img src="assets/figures/chapter-12/figure-15.png" />
 <p align="center">**Figure 12.15. Spanish Family Clan UML Object Diagram (Lineage Identity)**</p>
 
-<img src="../../assets/figures/chapter-12/figure-16.png" />
+<img src="assets/figures/chapter-12/figure-16.png" />
 <p align="center">**Figure 12.16. Swahili Family Clan UML Object Diagram (Clan Identity)**</p>
 
 Each instance applies the same identity conditions. The members remain constant. The structure remains constant. The underlying group remains constant. Only the context changes, and the resulting identity changes with it. In this test, the changing identifier marks the context-specific symbolic label, while the changing identity names the role the same group occupies within that context.
@@ -3889,22 +3889,22 @@ Test 5. Universal Objective Significance: Does the same sign carry the same moti
 
 This test examines whether a sign possesses a universal and objective significance. If significance is intrinsic to the sign, then the same sign must carry the same motivational force for every interpreter. If significance varies while the sign remains constant, then significance does not reside in the sign itself.[@peirce1931work5]
 
-<img src="../../assets/figures/chapter-12/figure-17.png" />
+<img src="assets/figures/chapter-12/figure-17.png" />
 <p align="center">**Figure 12.17. EventSign UML Class Diagram**</p>
 
-<img src="../../assets/figures/chapter-12/figure-18.png" />
+<img src="assets/figures/chapter-12/figure-18.png" />
 <p align="center">**Figure 12.18. Job Interview UML Object Diagram**</p>
 
-<img src="../../assets/figures/chapter-12/figure-19.png" />
+<img src="assets/figures/chapter-12/figure-19.png" />
 <p align="center">**Figure 12.19. Interpreter UML Class Diagram**</p>
 
-<img src="../../assets/figures/chapter-12/figure-20.png" />
+<img src="assets/figures/chapter-12/figure-20.png" />
 <p align="center">**Figure 12.20. Interpreter UML Object Diagram (Low Significance)**</p>
 
-<img src="../../assets/figures/chapter-12/figure-21.png" />
+<img src="assets/figures/chapter-12/figure-21.png" />
 <p align="center">**Figure 12.21. Interpreter UML Object Diagram (Moderate Significance)**</p>
 
-<img src="../../assets/figures/chapter-12/figure-22.png" />
+<img src="assets/figures/chapter-12/figure-22.png" />
 <p align="center">**Figure 12.22. Interpreter UML Object Diagram (High Significance)**</p>
 
 The sign remains constant. Its identifier remains constant. Its identity conditions remain constant. The event remains the same. Only the interpreters differ in their motivational intensity toward the same sign. The variation arises because each interpreter relates the same sign to different goals, stakes, and consequences.
@@ -4205,7 +4205,7 @@ The final chapter completes that remaining task. I integrate the Constructivist 
 
 *How to Design an Emotion*
 
-@Cézjah
+\@Cézjah
 
 
 </div>
@@ -4320,7 +4320,7 @@ And that is what it means to design an emotion.[@peirce0000work]
 
 *How to Design an Emotion*
 
-@Cézjah
+\@Cézjah
 
 
 </div>
@@ -4452,7 +4452,7 @@ Natural language can state that requirement, but it cannot always discipline it.
 
 In the diagrams and design patterns that follow, I do not claim to model neural activity or psychological mechanism. I model structure. Each figure formalizes a requirement the main text develops: the separation of genus and species in affective states, the distinction between identity and instantiation, the syntagmatic ordering required for meaning, and the principled generation of emotional episodes from stable conceptual architecture.<sup>5</sup> <sup>6</sup> The diagrams show how emotions can arise as context-sensitive instantiations of declared structure rather than as detected entities or post hoc labels.<sup>7</sup> <sup>8</sup> This appendix therefore demonstrates, rather than merely asserts, how emotional construction can remain explicit, inspectable, and constrained.<sup>9</sup>
 
-<img src="../../assets/figures/appendix-b/figure-01.png" />
+<img src="assets/figures/appendix-b/figure-01.png" />
 <p align="center">**Figure B-1. UML Class Diagram: Inheritance Hierarchy of Affective States**</p>
 
 —---------------------------------------------------------------------------------------------------------------------------------------------------------  
@@ -4466,7 +4466,7 @@ Emotion, Mood, and DriveState inherit this core structure and introduce kind-spe
 
 In Aristotelian terms, feeling supplies the genus and the others function as species defined by differentiae. In object-oriented terms, feeling functions as the superclass and the others as subclasses that preserve identity through inheritance while introducing functional constraints. The diagram encodes a proposed set of identity conditions for affective kinds and blocks category error by showing that emotions, moods, and drives differ by how the same affective substrate receives structure and specialization, not by belonging to separate ontological kinds.
 
-<img src="../../assets/figures/appendix-b/figure-02.png" />
+<img src="assets/figures/appendix-b/figure-02.png" />
 <p align="center">**Figure B-2. UML Activity Diagram: Syntagmatic Appraisal Structure**</p>
 
 —---------------------------------------------------------------------------------------------------------------------------------------------------------  
@@ -4482,7 +4482,7 @@ With the next two diagrams, I introduce Gang of Four design patterns to solve a 
 
 The Gang of Four patterns do not describe mental mechanisms. They formalize structural solutions to recurring problems of construction. I use them here as disciplined syntactic tools. They allow me to model how stable conceptual identities can generate context-sensitive instances without treating emotions as discovered objects, biological essences, or free-floating labels. The aim is not empirical accuracy, but architectural clarity.<sup>26</sup> <sup>27</sup>
 
-<img src="../../assets/figures/appendix-b/figure-03.png" />
+<img src="assets/figures/appendix-b/figure-03.png" />
 <p align="center">**Figure B-3. Factory Design Pattern: Emotion Construction**</p>
 
 —---------------------------------------------------------------------------------------------------------------------------------------------------------Figure B-3. Factory Design Pattern: Emotion Construction
@@ -4501,22 +4501,22 @@ The corresponding C# project appears in the downloaded code folder for Appendix 
 
 After navigating to the folder containing the project:
 
-<img src="../../assets/figures/appendix-b/figure-04.png" />
+<img src="assets/figures/appendix-b/figure-04.png" />
 <p align="center">**Source figure 4**</p>
 
 You can also run the code using joy or anger as the input parameter.
 
-<img src="../../assets/figures/appendix-b/figure-05.png" />
+<img src="assets/figures/appendix-b/figure-05.png" />
 <p align="center">**Source figure 5**</p>
 
-<img src="../../assets/figures/appendix-b/figure-06.png" />
+<img src="assets/figures/appendix-b/figure-06.png" />
 <p align="center">**Source figure 6**</p>
 
 If the input parameter were joy or anger, the output would change accordingly.
 
 ### Figure B-4. Prototype Design Pattern: Emotion Construction UML
 
-<img src="../../assets/figures/appendix-b/figure-07.png" />
+<img src="assets/figures/appendix-b/figure-07.png" />
 <p align="center">**Figure B-4. Prototype Design Pattern: Emotion Construction UML**</p>
 
 —---------------------------------------------------------------------------------------------------------------------------------------------------------Figure B-4. Prototype Design Pattern: Emotion Construction UML
@@ -4716,7 +4716,7 @@ Project 1 implements identity conditions as admissibility constraints that opera
 
 In Project 1, I represent the concept Fish as a class with invariant admissibility conditions. A fish must be aquatic, and it must be an organism. These conditions do not vary with context. The constructor enforces them as necessary constraints. The system admits only candidates that satisfy them and rejects all others.
 
-<img src="../../assets/figures/appendix-c/figure-01.png" />
+<img src="assets/figures/appendix-c/figure-01.png" />
 <p align="center">**Figure C-1. Fish UML Class Diagram**</p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------  
@@ -4726,19 +4726,19 @@ Figure C-1 defines the admissibility conditions that any instance must satisfy. 
 
 The valid and invalid candidates appear in separate object diagrams. Figure C-2 shows a valid Goldfish instance. Figure C-3 shows a valid Salmon instance. Figure C-4 shows an invalid Rock candidate.
 
-<img src="../../assets/figures/appendix-c/figure-02.png" />
+<img src="assets/figures/appendix-c/figure-02.png" />
 <p align="center">**Figure C-2. Goldfish UML Object Diagram**</p>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
 **Figure C-2. Goldfish ****UML Object Diagram**
 
-<img src="../../assets/figures/appendix-c/figure-03.png" />
+<img src="assets/figures/appendix-c/figure-03.png" />
 <p align="center">**Figure C-3. Salmon UML Object Diagram**</p>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
 **Figure C-3. Salmon UML Object Diagram**
 
-<img src="../../assets/figures/appendix-c/figure-04.png" />
+<img src="assets/figures/appendix-c/figure-04.png" />
 <p align="center">**Figure C-4. Rock UML Object Diagram (Invalid Fish)**</p>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
@@ -4746,19 +4746,19 @@ The valid and invalid candidates appear in separate object diagrams. Figure C-2 
 
 In Project 1, the code evaluates a specific candidate passed as a command-line argument. This makes the admissibility test explicit. The system does not switch between an abstract valid mode and invalid mode. It evaluates whether a given candidate satisfies the admissibility conditions of Fish. The README for Project 1 provides the canonical run commands and expected outputs. When you execute the C# code with the following commands:
 
-<img src="../../assets/figures/appendix-c/figure-05.png" />
+<img src="assets/figures/appendix-c/figure-05.png" />
 <p align="center">**Project 1 Run Commands**</p>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
 ***Project ******1****** Run Commands***
 
-<img src="../../assets/figures/appendix-c/figure-06.png" />
+<img src="assets/figures/appendix-c/figure-06.png" />
 <p align="center">**Project 1 Valid Output**</p>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
 ***Project ******1****** Valid Output***
 
-<img src="../../assets/figures/appendix-c/figure-07.png" />
+<img src="assets/figures/appendix-c/figure-07.png" />
 <p align="center">**Project 1 invalid Output**</p>
 
 *  
@@ -4775,7 +4775,7 @@ Project 2 isolates the instantiation layer. The goal is to show that multiple in
 
 In Project 2, the concept Fish remains unchanged. The system applies its admissibility conditions upstream. What changes at this stage is the assignment of parameter values to instances that already qualify as fish. Each instance has properties such as species and type, where type may take values such as PET or FOOD.
 
-<img src="../../assets/figures/appendix-c/figure-08.png" />
+<img src="assets/figures/appendix-c/figure-08.png" />
 <p align="center">**Figure C-5. Shared Structure Fish UML Class Diagram**</p>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
@@ -4785,13 +4785,13 @@ Figure C-5 defines the shared structure that all instances must satisfy. The adm
 
 The object diagrams show distinct instantiations of the same concept. Figure C-6 represents a Goldfish instance. Figure C-7 represents a Salmon instance.
 
-<img src="../../assets/figures/appendix-c/figure-09.png" />
+<img src="assets/figures/appendix-c/figure-09.png" />
 <p align="center">**Figure C-6. Goldfish UML Object Diagram**</p>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
 **Figure C-6. Goldfish UML Object Diagram**
 
-<img src="../../assets/figures/appendix-c/figure-10.png" />
+<img src="assets/figures/appendix-c/figure-10.png" />
 <p align="center">**Figure C-7. Salmon UML Object Diagram**</p>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
@@ -4801,25 +4801,25 @@ Both instances satisfy the identity conditions of Fish established in Project 1.
 
 In Project 2, the code creates fish instances with different parameter assignments. The system does not ask whether every possible object is a fish at this stage. It works only with candidates that satisfy the admissibility layer and then assigns determinate values. The README for Project 2 provides the canonical run commands and expected outputs.
 
-<img src="../../assets/figures/appendix-c/figure-11.png" />
+<img src="assets/figures/appendix-c/figure-11.png" />
 <p align="center">**Project 2 Valid Run Commands**</p>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
 ***Project ******2****** Valid Run Commands***
 
-<img src="../../assets/figures/appendix-c/figure-12.png" />
+<img src="assets/figures/appendix-c/figure-12.png" />
 <p align="center">**Project 2 Valid Output**</p>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
 ***Project ******2****** Valid Output***
 
-<img src="../../assets/figures/appendix-c/figure-13.png" />
+<img src="assets/figures/appendix-c/figure-13.png" />
 <p align="center">**Project 2 Invalid Run Commands**</p>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
 ***Project ******2****** Invalid Run Commands***
 
-<img src="../../assets/figures/appendix-c/figure-14.png" />
+<img src="assets/figures/appendix-c/figure-14.png" />
 <p align="center">**Project 2 Invalid Output**</p>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
@@ -4833,7 +4833,7 @@ Project 3 isolates the goal layer. The goal is to show that purpose regulates se
 
 The concept Fish remains unchanged. The instantiated objects remain unchanged. The system now introduces a goal interface that evaluates which instances matter under a given purpose. Different goals apply different selection criteria to the same set of admitted instances.
 
-<img src="../../assets/figures/appendix-c/figure-15.png" />
+<img src="assets/figures/appendix-c/figure-15.png" />
 <p align="center">**Figure C-8. Goal Layer Selection Structure UML Class Diagram**</p>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
@@ -4843,13 +4843,13 @@ Figure C-8 shows the goal layer at the class level. The interface IGoal defines 
 
 The object diagrams show how the same set of instances receives different selection treatment under different goals.
 
-<img src="../../assets/figures/appendix-c/figure-16.png" />
+<img src="assets/figures/appendix-c/figure-16.png" />
 <p align="center">**Figure C-9. Selection Under a Pet Goal**</p>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
 **Figure C-9. Selection ****Under**** a Pet Goal**
 
-<img src="../../assets/figures/appendix-c/figure-17.png" />
+<img src="assets/figures/appendix-c/figure-17.png" />
 <p align="center">**Figure C-9. Selection Under a Dinner Goal**</p>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
@@ -4857,25 +4857,25 @@ The object diagrams show how the same set of instances receives different select
 
 In Project 3, the code applies a goal to a fixed set of instances. The goal determines which instances satisfy its selection constraint, but it does not alter the instances themselves or the concept they instantiate. The README for Project 3 provides the canonical run commands and expected outputs.
 
-<img src="../../assets/figures/appendix-c/figure-18.png" />
+<img src="assets/figures/appendix-c/figure-18.png" />
 <p align="center">**Project 3 Dinner Run Commands**</p>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
 ***Project ******3****** Dinner Run Commands***
 
-<img src="../../assets/figures/appendix-c/figure-19.png" />
+<img src="assets/figures/appendix-c/figure-19.png" />
 <p align="center">**Project 3 Dinner Output**</p>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
 ***Project ******3****** Dinner Output***
 
-<img src="../../assets/figures/appendix-c/figure-20.png" />
+<img src="assets/figures/appendix-c/figure-20.png" />
 <p align="center">**Project 3 Pet Run Commands**</p>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
 ***Project 3 ******Pet  Run****** Commands***
 
-<img src="../../assets/figures/appendix-c/figure-21.png" />
+<img src="assets/figures/appendix-c/figure-21.png" />
 <p align="center">**Project 3 Pet Output**</p>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
@@ -4889,7 +4889,7 @@ Project 4 isolates runtime construction. The goal is to show that flexibility ca
 
 The system no longer applies a goal directly as a filter over instances. Instead, a builder constructs a constraint specification at runtime based on the active goal. This specification determines which condition the instance must satisfy in that context. The concept does not vanish into use. The system constructs a determinate constraint structure and then evaluates instances under it.
 
-<img src="../../assets/figures/appendix-c/figure-22.png" />
+<img src="assets/figures/appendix-c/figure-22.png" />
 <p align="center">**Figure C-11. Runtime Construction Layer UML Class Diagram**</p>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
@@ -4899,13 +4899,13 @@ The ConceptSpecification class encapsulates a constraint function. The RuntimeCo
 
 The object diagrams show the constructed constraint specifications.
 
-<img src="../../assets/figures/appendix-c/figure-23.png" />
+<img src="assets/figures/appendix-c/figure-23.png" />
 <p align="center">**Figure C-12. Runtime Specification for Pet Goal**</p>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
 **Figure C-12. Runtime Specification for Pet Goal**
 
-<img src="../../assets/figures/appendix-c/figure-24.png" />
+<img src="assets/figures/appendix-c/figure-24.png" />
 <p align="center">**Figure C-13. Runtime Specification for Dinner Goal**</p>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
@@ -4913,25 +4913,25 @@ The object diagrams show the constructed constraint specifications.
 
 These constraints are not predefined classes. The system constructs them at runtime and applies them to the available instances. At this layer, the constructed constraint determines whether the instance qualifies. The code builds a ConceptSpecification based on the input goal and applies its constraint to the set of Fish instances. It performs two steps: it constructs the constraint, then it evaluates instances against that constraint. The README for Project 4 provides the canonical run commands and expected outputs.
 
-<img src="../../assets/figures/appendix-c/figure-25.png" />
+<img src="assets/figures/appendix-c/figure-25.png" />
 <p align="center">**Project 4 Dinner Run Commands**</p>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
 ***Project 4 ******Dinner  Run****** Commands***
 
-<img src="../../assets/figures/appendix-c/figure-26.png" />
+<img src="assets/figures/appendix-c/figure-26.png" />
 <p align="center">**Project 4 Dinner Output**</p>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
 ***Project ******4****** Dinner Output***
 
-<img src="../../assets/figures/appendix-c/figure-27.png" />
+<img src="assets/figures/appendix-c/figure-27.png" />
 <p align="center">**Project 4 Pet Run Commands**</p>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
 ***Project 4 ******Pet  Run****** Commands***
 
-<img src="../../assets/figures/appendix-c/figure-21.png" />
+<img src="assets/figures/appendix-c/figure-21.png" />
 <p align="center">**Project 4 Pet Output**</p>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
@@ -4945,7 +4945,7 @@ Project 5 isolates multi-concept participation. The goal is to show that a singl
 
 In Project 5, the object Car remains constant across all evaluations. What varies is the goal under which the system evaluates it. Each goal defines a different constraint structure, and the same object may satisfy more than one such structure.
 
-<img src="../../assets/figures/appendix-c/figure-28.png" />
+<img src="assets/figures/appendix-c/figure-28.png" />
 <p align="center">**Figure C-14. Goal Layer Selection Structure for Car UML Class Diagram**</p>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
@@ -4955,19 +4955,19 @@ The Car class defines the object's identity and properties. The goal interface d
 
 The UML object diagrams show how the same objects participate differently under each goal.
 
-<img src="../../assets/figures/appendix-c/figure-29.png" />
+<img src="assets/figures/appendix-c/figure-29.png" />
 <p align="center">**Figure C-15. Transport Goal UML Object Diagram**</p>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
 **Figure C-15. Transport Goal UML Object Diagram**
 
-<img src="../../assets/figures/appendix-c/figure-30.png" />
+<img src="assets/figures/appendix-c/figure-30.png" />
 <p align="center">**Figure C-16. Status Goal UML Object Diagram**</p>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
 **Figure C-16. Status Goal UML Object Diagram**
 
-<img src="../../assets/figures/appendix-c/figure-31.png" />
+<img src="assets/figures/appendix-c/figure-31.png" />
 <p align="center">**Figure C-17. Shelter Goal UML Object Diagram**</p>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
@@ -4975,13 +4975,13 @@ The UML object diagrams show how the same objects participate differently under 
 
 In Project 5, the code applies multiple goals sequentially to the same set of objects. Each goal evaluates the objects according to its own constraint. The objects do not change. Only their participation in the selected set changes. The README for Project 5 provides the canonical run command and expected output.
 
-<img src="../../assets/figures/appendix-c/figure-32.png" />
+<img src="assets/figures/appendix-c/figure-32.png" />
 <p align="center">**Project 5 Run Commands**</p>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
 ***Project ******5****** Run Comma******nds***
 
-<img src="../../assets/figures/appendix-c/figure-33.png" />
+<img src="assets/figures/appendix-c/figure-33.png" />
 <p align="center">**Project 5 Run Output**</p>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
@@ -5162,12 +5162,12 @@ Paste the following code into the Console, then press Enter. This creates the th
 
 Layer 1: The Concept Object
 
-<img src="../../assets/figures/appendix-e/figure-01.png" />
+<img src="assets/figures/appendix-e/figure-01.png" />
 <p align="center">**Source figure 1**</p>
 
 Layer 2: The Instance Objects
 
-<img src="../../assets/figures/appendix-e/figure-02.png" />
+<img src="assets/figures/appendix-e/figure-02.png" />
 <p align="center">**Source figure 2**</p>
 
 | You can paste both code blocks together. Use Shift + Enter to add lines without running the code too early. Press Enter on a blank line to execute the full block. |
@@ -5187,7 +5187,7 @@ Click the expand arrow next to the returned object.
 
 At this level, Chrome shows the object's own properties:
 
-<img src="../../assets/figures/appendix-e/figure-03.png" />
+<img src="assets/figures/appendix-e/figure-03.png" />
 <p align="center">**Source figure 3**</p>
 
 These are the instance's own properties: its particular descriptors and contextual values. This is Layer 2: Instance-Level Realization. The object has a type and a sides value, both assigned at the instance level. They do not define what a triangle is.
@@ -5201,7 +5201,7 @@ Click the expand arrow next to [[Prototype]], sometimes shown as __proto__.
 
 At this level, Chrome shows the inherited structure:
 
-<img src="../../assets/figures/appendix-e/figure-04.png" />
+<img src="assets/figures/appendix-e/figure-04.png" />
 <p align="center">**Source figure 4**</p>
 
 This is Layer 1: Concept-Level Constraint. Here you observe:
@@ -5223,7 +5223,7 @@ Expand the second [[Prototype]] entry inside the first.
 
 At this level, Chrome shows JavaScript's runtime infrastructure:
 
-<img src="../../assets/figures/appendix-e/figure-05.png" />
+<img src="assets/figures/appendix-e/figure-05.png" />
 <p align="center">**Source figure 5**</p>
 
 This is Layer 0: Runtime Infrastructure Constraint. You have reached Object.prototype, the terminus of JavaScript's ordinary prototype chain. The final [[Prototype]] is null. Delegation has a boundary. Property lookup has an end.
@@ -5241,7 +5241,7 @@ Each operation below targets a different ontological layer and produces a differ
 
 Assign an invalid value to the instance's own property.
 
-<img src="../../assets/figures/appendix-e/figure-06.png" />
+<img src="assets/figures/appendix-e/figure-06.png" />
 <p align="center">**What this shows:**</p>
 
 What this shows:
@@ -5259,7 +5259,7 @@ Prototype theory can describe variation among instances, but this operation show
 | Typicality gradients and variability (the phenomena prototype theory correctly observes) appear here at Layer 2. But they presuppose the stability of Layer 1. |
 | --- |
 
-<img src="../../assets/figures/appendix-e/figure-07.png" />
+<img src="assets/figures/appendix-e/figure-07.png" />
 <p align="center">**Source figure 7**</p>
 
 ## B. Parametric Revision: Layer 1 Change
@@ -5282,7 +5282,7 @@ The extension of the concept shifts, but the architecture remains intact. Classi
 
 Remove the evaluative rule from the prototype.
 
-<img src="../../assets/figures/appendix-e/figure-08.png" />
+<img src="assets/figures/appendix-e/figure-08.png" />
 <p align="center">**Source figure 8**</p>
 
 What this shows:
@@ -5960,7 +5960,7 @@ I use terms such as “application server,” “stored procedures,” and “qu
 
 Because I prioritize architectural coherence over mechanistic reduction, this model demands a clear division of labor. If emotion can go wrong, change under correction, and depend on concepts, the system must distinguish between processes that simulate or regulate and the act that interprets and commits.11 This appendix demonstrates one internally consistent way to formalize that distinction.
 
-<img src="../../assets/figures/appendix-j/figure-aj-1.svg" />
+<img src="assets/figures/appendix-j/figure-aj-1.svg" />
 <p align="center">**Figure AJ-1. CCME Architecture Overview**</p>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -5970,7 +5970,7 @@ I now introduce the architecture in visual and functional terms. Figures AJ-1 an
 
 Within the diagrams, I show the Database Lane as a visually distinct layer, but I do not treat it as an additional architectural domain. The database functions as the persistent memory substrate of the Biological Intelligence Application Server. It stores learned schemas, stored procedures, and conceptual repertoires that the system retrieves during computation. I separate it graphically only to illustrate retrieval and update operations during emotional processing.[@barsalou2008situated2]
 
-<img src="../../assets/figures/appendix-j/figure-aj-2.svg" />
+<img src="assets/figures/appendix-j/figure-aj-2.svg" />
 <p align="center">**Figure AJ-2. CCME Database Lane Architecture**</p>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -6022,13 +6022,13 @@ The scope of this demonstration is intentionally limited. It traces how a stimul
 
 The C# executables for the projects below are in the downloaded ZIP file under the matching project folders. Each folder includes a README with instructions for building, running, and reproducing the sample outputs.
 
-<img src="../../assets/figures/appendix-j/figure-03.png" />
+<img src="assets/figures/appendix-j/figure-03.png" />
 <p align="center">**Project 1 — Architecture Diagram**</p>
 
 -----------------------------------------------------------------------------------------------------------------------------
 Figure AJ-3. UML Class Diagram for PreparationTrace
 
-<img src="../../assets/figures/appendix-j/figure-04.png" />
+<img src="assets/figures/appendix-j/figure-04.png" />
 <p align="center">**Project 1 — Component Detail**</p>
 
 ------------------------------------------------------------------------------------------------------------------------------
@@ -6042,23 +6042,23 @@ The additional README test case, dotnet run -- dog, confirms the same point with
 
 The run command is shown in the input image.
 
-<img src="../../assets/figures/appendix-j/figure-05.png" />
+<img src="assets/figures/appendix-j/figure-05.png" />
 <p align="center">**Project 1 — Run Command (Input)**</p>
 
 The corresponding output is shown in the output image.
 
-<img src="../../assets/figures/appendix-j/figure-06.png" />
+<img src="assets/figures/appendix-j/figure-06.png" />
 <p align="center">**Project 1 — Output**</p>
 
 At this stage, the system has fully prepared the field of possible interpretations, yet no emotional meaning exists. The next step introduces the operation that produces emotion: commitment to a concept under a governing goal.
 
-<img src="../../assets/figures/appendix-j/figure-07.png" />
+<img src="assets/figures/appendix-j/figure-07.png" />
 <p align="center">**Project 1 — Execution Result**</p>
 
 ----------------------------------------------------------------------------------------------------------------------------
 Figure AJ-5: UML Object Diagram for Fear Instance
 
-<img src="../../assets/figures/appendix-j/figure-08.png" />
+<img src="assets/figures/appendix-j/figure-08.png" />
 <p align="center">**Project 1 — Final Output**</p>
 
 ----------------------------------------------------------------------------------------------------------------------------
@@ -6074,12 +6074,12 @@ This project operationalizes the central claim of the model: computation does no
 
 The run command is shown in the following image.
 
-<img src="../../assets/figures/appendix-j/figure-09.png" />
+<img src="assets/figures/appendix-j/figure-09.png" />
 <p align="center">**Project 2 — Run Command (Input)**</p>
 
 The corresponding output is shown in the following image.
 
-<img src="../../assets/figures/appendix-j/figure-10.png" />
+<img src="assets/figures/appendix-j/figure-10.png" />
 <p align="center">**Project 2 — Output**</p>
 
 This execution completes the architecture. The system now produces an emotion, not because it simulates or predicts more accurately, but because the agent commits to a concept under constraint. If the goal changes, the meaning changes, even if all prior computational steps remain the same. The contrast between snake safety and snake curiosity demonstrates that emotional meaning remains goal-relative and capable of correction, while conceptual identity rather than computation governs the result.
@@ -6090,7 +6090,7 @@ Having shown the completed interpretive output, I now move inside the executable
 
 //Interpreter Initialization
 
-<img src="../../assets/figures/appendix-j/figure-11.png" />
+<img src="assets/figures/appendix-j/figure-11.png" />
 <p align="center">**Code — Interpreter Initialization**</p>
 
 This block initializes the execution environment and defines the interpreter’s governing inputs. The interpreter operates as a goal-governed agent that receives a stimulus and determines how much of the computational trace to expose through the verbose flag.
@@ -6099,7 +6099,7 @@ Within CCME, the interpreter corresponds to the CSS constituent: Interpreter (Go
 
 //CSS Constituent: Interpreter (Goal)
 
-<img src="../../assets/figures/appendix-j/figure-12.png" />
+<img src="assets/figures/appendix-j/figure-12.png" />
 <p align="center">**Code — CSS Constituent: Interpreter (Goal)**</p>
 
 This block establishes the governing goal that constrains evaluation. The interpreter explicitly declares the goal before any simulation or prediction occurs.
@@ -6108,7 +6108,7 @@ Within CCME, the goal functions as an interpretive constraint, not as an outcome
 
 //Computational Stage: Simulation
 
-<img src="../../assets/figures/appendix-j/figure-13.png" />
+<img src="assets/figures/appendix-j/figure-13.png" />
 <p align="center">**Code — Computational Stage: Simulation**</p>
 
 This block models the first computational stage of the architecture: simulation of the external situation.
@@ -6119,7 +6119,7 @@ Simulation does not assign meaning. It produces the environmental model that lat
 
 //Computational Stage: Predictive Processing
 
-<img src="../../assets/figures/appendix-j/figure-14.png" />
+<img src="assets/figures/appendix-j/figure-14.png" />
 <p align="center">**Code — Computational Stage: Predictive Processing**</p>
 
 This block represents the predictive processing layer.
@@ -6130,7 +6130,7 @@ Prediction narrows the space of possible interpretations, but it does not yet co
 
 //Computational Stage: Body Budget Regulation
 
-<img src="../../assets/figures/appendix-j/figure-15.png" />
+<img src="assets/figures/appendix-j/figure-15.png" />
 <p align="center">**Code — Computational Stage: Body Budget Regulation**</p>
 
 This block models allostatic regulation, often described in the model as body-budget management.
@@ -6141,7 +6141,7 @@ The body budget generates affective readiness, not emotional meaning. It produce
 
 //CSS Constituent: Referent (Context)
 
-<img src="../../assets/figures/appendix-j/figure-16.png" />
+<img src="assets/figures/appendix-j/figure-16.png" />
 <p align="center">**Code — CSS Constituent: Referent (Context)**</p>
 
 This block constructs the referent, which binds together the simulated situation and the metaperceived bodily state.
@@ -6150,7 +6150,7 @@ The referent corresponds to the CSS constituent Referent (Context). It integrate
 
 //Category Retrieval (Stored Procedures)
 
-<img src="../../assets/figures/appendix-j/figure-17.png" />
+<img src="assets/figures/appendix-j/figure-17.png" />
 <p align="center">**Code — Category Retrieval (Stored Procedures)**</p>
 
 This block represents the retrieval of conceptual categories from memory.
@@ -6161,7 +6161,7 @@ Categories therefore supply candidate interpretations without determining which 
 
 //CSS Constituent: Concept
 
-<img src="../../assets/figures/appendix-j/figure-18.png" />
+<img src="assets/figures/appendix-j/figure-18.png" />
 <p align="center">**Code — CSS Constituent: Concept**</p>
 
 This block selects the emotion concept that best satisfies the structural constraints of the referent under the governing goal.
@@ -6172,7 +6172,7 @@ The program therefore identifies the concept that fits the predicted threat cond
 
 //CSS Constituent: Interpretation (Default Meaning)
 
-<img src="../../assets/figures/appendix-j/figure-19.png" />
+<img src="assets/figures/appendix-j/figure-19.png" />
 <p align="center">**Code — CSS Constituent: Interpretation (Default Meaning)**</p>
 
 This block marks the transition from computation to interpretation.
@@ -6183,7 +6183,7 @@ Within CCME, this moment constitutes the origin of emotional meaning.
 
 //CSS Constituent: Identifier
 
-<img src="../../assets/figures/appendix-j/figure-20.png" />
+<img src="assets/figures/appendix-j/figure-20.png" />
 <p align="center">**Code — CSS Constituent: Identifier**</p>
 
 This block assigns an identifier to the emotional instance.
@@ -6194,7 +6194,7 @@ The identifier therefore represents the moment of commitment within the architec
 
 //CSS Constituent: Construct
 
-<img src="../../assets/figures/appendix-j/figure-21.png" />
+<img src="assets/figures/appendix-j/figure-21.png" />
 <p align="center">**Code — CSS Constituent: Construct**</p>
 
 This block produces the final emotional construct.
@@ -6347,7 +6347,7 @@ The Interpretive Systems constitute only one component of the broader cognitive-
 
 I now return to the deceased-parent-as-referent scenario I introduced throughout the preceding analysis. In many cultures, grief functions as the expected emotional response. Family, friends, and society often regard grief not merely as a common reaction but as the appropriate emotional interpretation of bereavement. Cultural convention often establishes grief as the default emotional construction.[@smid2020work] Emotional Constructivism does not deny the legitimacy of grief. Rather, it asks whether grief remains the emotional construction that best advances the individual’s governing goals. This common scenario provides the foundation for both the Emotional Constructivism Prototype, which models the intrapersonal architecture of intentional emotional construction, and the Emotional Constructivism Stereotype, which models the interpersonal architecture through which another rational agent may assist in intentionally redesigning it.
 
-<img src="../../assets/figures/appendix-l/figure-al-1.svg" />
+<img src="assets/figures/appendix-l/figure-al-1.svg" />
 <p align="center">**Figure AL-1. The Emotional Constructivism Prototype: The Intentional Architecture of Emotional Meaning**</p>
 
 Figure AL-1 presents the Emotional Constructivism Prototype. It first models the intrapersonal cognitive-semiotic architecture through which a rational agent arrives at the default automatic emotional construction. Beginning with the deceased parent as the object of evaluation, physiological affect gives rise to phenomenological feeling. As I established in the Constructivist Semiotic Model of Emotion, I depart from Charles Sanders Peirce’s use of the term referent. Rather than denoting the external object itself, the referent is the phenomenological feeling once it becomes semiotically available for interpretation.[^fn-l-1] The agent then evaluates and interprets that referent in accordance with governing goals before entering into a first-person binding resolution with themselves that commits them to a particular emotional construction.
@@ -6382,7 +6382,7 @@ The Stereotype therefore models a voluntary therapeutic partnership  between two
 
 In this appendix, I have focused on the constructive application of Emotional Constructivism. In Appendix O, I examine the ethical boundaries of the same architecture by considering its potential misuse through manipulation, coercion, disinformation, emotional exploitation, and other forms of psychological harm, together with the normative constraints required to prevent such abuse.
 
-<img src="../../assets/figures/appendix-l/figure-al-2.svg" />
+<img src="assets/figures/appendix-l/figure-al-2.svg" />
 <p align="center">**Figure AL-2. The Emotional Constructivism Stereotype: The Interpersonal Architecture of Emotional Meaning**</p>
 
 Table AL-1. Shared Goals and Reciprocal Value Propositions in the Emotional Constructivism Stereotype

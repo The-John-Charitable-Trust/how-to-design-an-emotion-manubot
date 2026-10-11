@@ -19,7 +19,19 @@ def read_file(path):
         print(f'WARNING: Missing file {path}', file=sys.stderr)
         return f'\n\n<!-- MISSING: {path} -->\n\n'
     with open(path, encoding='utf-8') as f:
-        return f.read()
+        content = f.read()
+    # Rewrite relative image paths to be relative to repo root
+    # Content files use ../../assets/ from content/part-X/, build/ needs assets/
+    content_dir = os.path.dirname(path)
+    def fix_img(m):
+        prefix, src = m.group(1), m.group(2)
+        if src.startswith('http'):
+            return m.group(0)
+        # Resolve relative to content file's directory, then make relative to repo root
+        abs_path = os.path.normpath(os.path.join(content_dir, src))
+        return f'{prefix}{abs_path}'
+    content = re.sub(r'(<img src="|!\[[^\]]*\]\()([^")]+)', fix_img, content)
+    return content
 
 def assemble(manifest, output_path='build/manuscript.md'):
     sections = []
