@@ -1,4 +1,4 @@
-[Contents](README.md) · [Notes](../references/notes/chapter-12.md) · [Bibliography](../references/bibliography/chapter-12.md)
+[Contents](../../README.md) · [Notes](../references/notes/chapter-12.md) · [Bibliography](../references/bibliography/chapter-12.md)
 
 # Chapter 12 — Our Feelings Are Real, But Are Our Emotions?
 

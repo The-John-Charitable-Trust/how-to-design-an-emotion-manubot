@@ -1,4 +1,4 @@
-[Contents](README.md) · [Notes](../references/notes/chapter-14.md) · [Bibliography](../references/bibliography/chapter-14.md)
+[Contents](../../README.md) · [Notes](../references/notes/chapter-14.md) · [Bibliography](../references/bibliography/chapter-14.md)
 
 # Chapter 14 — So, What Is an Emotion?
 

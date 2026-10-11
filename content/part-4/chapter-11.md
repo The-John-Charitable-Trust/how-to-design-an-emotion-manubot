@@ -1,4 +1,4 @@
-[Contents](README.md) · [Notes](../references/notes/chapter-11.md) · [Bibliography](../references/bibliography/chapter-11.md)
+[Contents](../../README.md) · [Notes](../references/notes/chapter-11.md) · [Bibliography](../references/bibliography/chapter-11.md)
 
 # Chapter 11 — Do Animals and Infants Have Emotions?
 

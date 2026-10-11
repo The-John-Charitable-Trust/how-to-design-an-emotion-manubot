@@ -1,4 +1,4 @@
-[Contents](README.md) · [Notes](../references/notes/chapter-13.md) · [Bibliography](../references/bibliography/chapter-13.md)
+[Contents](../../README.md) · [Notes](../references/notes/chapter-13.md) · [Bibliography](../references/bibliography/chapter-13.md)
 
 # Chapter 13 — The Sound of Feelings
 

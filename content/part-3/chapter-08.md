@@ -1,4 +1,4 @@
-[Contents](../README.md) · [Notes](../../references/notes/chapter-08.md) · [Bibliography](../../references/bibliography/chapter-08.md)
+[Contents](../../README.md) · [Notes](../references/notes/chapter-08.md) · [Bibliography](../references/bibliography/chapter-08.md)
 
 # Chapter 8 — The War of Signs
 

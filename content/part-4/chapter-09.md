@@ -1,4 +1,4 @@
-[Contents](README.md) · [Notes](../references/notes/chapter-09.md) · [Bibliography](../references/bibliography/chapter-09.md)
+[Contents](../../README.md) · [Notes](../references/notes/chapter-09.md) · [Bibliography](../references/bibliography/chapter-09.md)
 
 # Chapter 9 — Emotions Are Not Triggered They Are Made
 
