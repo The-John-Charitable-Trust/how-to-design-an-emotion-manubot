@@ -2,571 +2,2071 @@
   {
     "id": "damasio1999work",
     "type": "book",
-    "note": "Antonio Damasio, The Feeling of What Happens: Body and Emotion in the Making of Consciousness (New York: Harcourt Brace & Company, 1999), 16\u201320; Jaak Panksepp, Affective Neuroscience: The Foundations of Human and Animal Emotions (New York: Oxford University Press, 1998), 17\u201331."
+    "note": "Antonio Damasio, The Feeling of What Happens: Body and Emotion in the Making of Consciousness (New York: Harcourt Brace & Company, 1999), 16\u201320; Jaak Panksepp, Affective Neuroscience: The Foundations of Human and Animal Emotions (New York: Oxford University Press, 1998), 17\u201331.",
+    "author": [
+      {
+        "family": "Damasio",
+        "given": "Antonio"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    }
   },
   {
     "id": "panksepp1998work",
     "type": "book",
-    "note": "Jaak Panksepp, Affective Neuroscience: The Foundations of Human and Animal Emotions (New York: Oxford University Press, 1998), 17\u201331; Antonio Damasio, The Feeling of What Happens: Body and Emotion in the Making of Consciousness (New York: Harcourt Brace & Company, 1999), 42\u201349."
+    "note": "Jaak Panksepp, Affective Neuroscience: The Foundations of Human and Animal Emotions (New York: Oxford University Press, 1998), 17\u201331; Antonio Damasio, The Feeling of What Happens: Body and Emotion in the Making of Consciousness (New York: Harcourt Brace & Company, 1999), 42\u201349.",
+    "author": [
+      {
+        "family": "Panksepp",
+        "given": "Jaak"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1998
+        ]
+      ]
+    }
   },
   {
     "id": "barrett2017work",
     "type": "book",
-    "note": "Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), 20\u201335, 59\u201374; Richard S. Lazarus, Emotion and Adaptation (New York: Oxford University Press, 1991), 144\u2013179."
+    "note": "Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), 20\u201335, 59\u201374; Richard S. Lazarus, Emotion and Adaptation (New York: Oxford University Press, 1991), 144\u2013179.",
+    "author": [
+      {
+        "family": "Barrett",
+        "given": "Lisa Feldman"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    }
   },
   {
     "id": "ekman2007work",
     "type": "book",
-    "note": "Paul Ekman, Emotions Revealed: Recognizing Faces and Feelings to Improve Communication and Emotional Life, 2nd ed. (New York: Times Books, 2007), 1\u201318; Rosalind W. Picard, Affective Computing (Cambridge, MA: MIT Press, 1997), 55\u201389."
+    "note": "Paul Ekman, Emotions Revealed: Recognizing Faces and Feelings to Improve Communication and Emotional Life, 2nd ed. (New York: Times Books, 2007), 1\u201318; Rosalind W. Picard, Affective Computing (Cambridge, MA: MIT Press, 1997), 55\u201389.",
+    "author": [
+      {
+        "family": "Ekman",
+        "given": "Paul"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2007
+        ]
+      ]
+    }
   },
   {
     "id": "hacking1999work",
     "type": "book",
-    "note": "Ian Hacking, The Social Construction of What? (Cambridge, MA: Harvard University Press, 1999), 1\u201327; John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 1\u201326."
+    "note": "Ian Hacking, The Social Construction of What? (Cambridge, MA: Harvard University Press, 1999), 1\u201327; John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 1\u201326.",
+    "author": [
+      {
+        "family": "Hacking",
+        "given": "Ian"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    }
   },
   {
     "id": "dennett1991work",
     "type": "book",
-    "note": "Daniel C. Dennett, Consciousness Explained (Boston: Little, Brown and Company, 1991), 24\u201342, 365\u2013406; John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 27\u201351."
+    "note": "Daniel C. Dennett, Consciousness Explained (Boston: Little, Brown and Company, 1991), 24\u201342, 365\u2013406; John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 27\u201351.",
+    "author": [
+      {
+        "family": "Dennett",
+        "given": "Daniel C."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1991
+        ]
+      ]
+    }
   },
   {
     "id": "james2017what",
     "type": "book",
-    "note": "William James, \"What Is an Emotion?\" Mind 9, no. 34 (1884): 188\u2013205, esp. 188\u2013190; Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), 20\u201335."
+    "note": "William James, \"What Is an Emotion?\" Mind 9, no. 34 (1884): 188\u2013205, esp. 188\u2013190; Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), 20\u201335.",
+    "author": [
+      {
+        "family": "James",
+        "given": "William"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "title": "What Is an Emotion?"
   },
   {
     "id": "damasio1999work2",
     "type": "book",
-    "note": "Antonio Damasio, The Feeling of What Happens: Body and Emotion in the Making of Consciousness (New York: Harcourt Brace & Company, 1999), 42\u201349; Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), 29\u201334, 67\u201374; John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 1\u201313."
+    "note": "Antonio Damasio, The Feeling of What Happens: Body and Emotion in the Making of Consciousness (New York: Harcourt Brace & Company, 1999), 42\u201349; Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), 29\u201334, 67\u201374; John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 1\u201313.",
+    "author": [
+      {
+        "family": "Damasio",
+        "given": "Antonio"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    }
   },
   {
     "id": "searle1995work",
     "type": "book",
-    "note": "John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 1\u201326; Edmund Husserl, Ideas Pertaining to a Pure Phenomenology and to a Pure Phenomenological Philosophy: First Book, trans. F. Kersten (Dordrecht: Kluwer Academic Publishers, 1983), \u00a7\u00a727\u201338."
+    "note": "John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 1\u201326; Edmund Husserl, Ideas Pertaining to a Pure Phenomenology and to a Pure Phenomenological Philosophy: First Book, trans. F. Kersten (Dordrecht: Kluwer Academic Publishers, 1983), \u00a7\u00a727\u201338.",
+    "author": [
+      {
+        "family": "Searle",
+        "given": "John R."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1995
+        ]
+      ]
+    }
   },
   {
     "id": "husserl1983what",
     "type": "book",
-    "note": "Edmund Husserl, Ideas Pertaining to a Pure Phenomenology and to a Pure Phenomenological Philosophy: First Book, trans. F. Kersten (Dordrecht: Kluwer Academic Publishers, 1983), \u00a7\u00a727\u201338; Thomas Nagel, \"What Is It Like to Be a Bat?\" Philosophical Review 83, no. 4 (1974): 435\u2013450."
+    "note": "Edmund Husserl, Ideas Pertaining to a Pure Phenomenology and to a Pure Phenomenological Philosophy: First Book, trans. F. Kersten (Dordrecht: Kluwer Academic Publishers, 1983), \u00a7\u00a727\u201338; Thomas Nagel, \"What Is It Like to Be a Bat?\" Philosophical Review 83, no. 4 (1974): 435\u2013450.",
+    "author": [
+      {
+        "family": "Husserl",
+        "given": "Edmund"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1983
+        ]
+      ]
+    },
+    "title": "What Is It Like to Be a Bat?"
   },
   {
     "id": "damasio1999work3",
     "type": "book",
-    "note": "Antonio Damasio, The Feeling of What Happens: Body and Emotion in the Making of Consciousness (New York: Harcourt Brace & Company, 1999), 168\u2013174; Edmund Husserl, Ideas Pertaining to a Pure Phenomenology and to a Pure Phenomenological Philosophy: First Book, trans. F. Kersten (Dordrecht: Kluwer Academic Publishers, 1983), \u00a7\u00a727\u201338."
+    "note": "Antonio Damasio, The Feeling of What Happens: Body and Emotion in the Making of Consciousness (New York: Harcourt Brace & Company, 1999), 168\u2013174; Edmund Husserl, Ideas Pertaining to a Pure Phenomenology and to a Pure Phenomenological Philosophy: First Book, trans. F. Kersten (Dordrecht: Kluwer Academic Publishers, 1983), \u00a7\u00a727\u201338.",
+    "author": [
+      {
+        "family": "Damasio",
+        "given": "Antonio"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    }
   },
   {
     "id": "singer1962cognitive",
     "type": "book",
-    "note": "Stanley Schachter and Jerome E. Singer, \"Cognitive, Social, and Physiological Determinants of Emotional State,\" Psychological Review 69, no. 5 (1962): 379\u2013399, esp. 381\u2013386; Richard S. Lazarus, Emotion and Adaptation (New York: Oxford University Press, 1991), 144\u2013179."
+    "note": "Stanley Schachter and Jerome E. Singer, \"Cognitive, Social, and Physiological Determinants of Emotional State,\" Psychological Review 69, no. 5 (1962): 379\u2013399, esp. 381\u2013386; Richard S. Lazarus, Emotion and Adaptation (New York: Oxford University Press, 1991), 144\u2013179.",
+    "author": [
+      {
+        "family": "Schachter",
+        "given": "Stanley"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1962
+        ]
+      ]
+    },
+    "title": "Cognitive, Social, and Physiological Determinants of Emotional State"
   },
   {
     "id": "damasio1999how",
     "type": "book",
-    "note": "Antonio Damasio, The Feeling of What Happens: Body and Emotion in the Making of Consciousness (New York: Harcourt Brace & Company, 1999), 42\u201349; A. D. Craig, \"How Do You Feel? Interoception: The Sense of the Physiological Condition of the Body,\" Nature Reviews Neuroscience 3, no. 8 (2002): 655\u2013666; Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), 59\u201374."
+    "note": "Antonio Damasio, The Feeling of What Happens: Body and Emotion in the Making of Consciousness (New York: Harcourt Brace & Company, 1999), 42\u201349; A. D. Craig, \"How Do You Feel? Interoception: The Sense of the Physiological Condition of the Body,\" Nature Reviews Neuroscience 3, no. 8 (2002): 655\u2013666; Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), 59\u201374.",
+    "author": [
+      {
+        "family": "Damasio",
+        "given": "Antonio"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    },
+    "title": "How Do You Feel? Interoception: The Sense of the Physiological Condition of the Body"
   },
   {
     "id": "friston2010freeenergy",
     "type": "book",
-    "note": "Karl Friston, \"The Free-Energy Principle: A Unified Brain Theory?\" Nature Reviews Neuroscience 11 (2010): 127\u2013138, esp. 127\u2013132; Andy Clark, Surfing Uncertainty: Prediction, Action, and the Embodied Mind (Oxford: Oxford University Press, 2016), 181\u2013206."
+    "note": "Karl Friston, \"The Free-Energy Principle: A Unified Brain Theory?\" Nature Reviews Neuroscience 11 (2010): 127\u2013138, esp. 127\u2013132; Andy Clark, Surfing Uncertainty: Prediction, Action, and the Embodied Mind (Oxford: Oxford University Press, 2016), 181\u2013206.",
+    "author": [
+      {
+        "family": "Friston",
+        "given": "Karl"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "title": "The Free-Energy Principle: A Unified Brain Theory?"
   },
   {
     "id": "clark2016work",
     "type": "book",
-    "note": "Andy Clark, Surfing Uncertainty: Prediction, Action, and the Embodied Mind (Oxford: Oxford University Press, 2016), 181\u2013206; Jakob Hohwy, The Predictive Mind (Oxford: Oxford University Press, 2013), 75\u2013101."
+    "note": "Andy Clark, Surfing Uncertainty: Prediction, Action, and the Embodied Mind (Oxford: Oxford University Press, 2016), 181\u2013206; Jakob Hohwy, The Predictive Mind (Oxford: Oxford University Press, 2013), 75\u2013101.",
+    "author": [
+      {
+        "family": "Clark",
+        "given": "Andy"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    }
   },
   {
     "id": "hohwy2013freeenergy",
     "type": "book",
-    "note": "Jakob Hohwy, The Predictive Mind (Oxford: Oxford University Press, 2013), 75\u2013101; Karl Friston, \"The Free-Energy Principle: A Unified Brain Theory?\" Nature Reviews Neuroscience 11 (2010): 127\u2013138."
+    "note": "Jakob Hohwy, The Predictive Mind (Oxford: Oxford University Press, 2013), 75\u2013101; Karl Friston, \"The Free-Energy Principle: A Unified Brain Theory?\" Nature Reviews Neuroscience 11 (2010): 127\u2013138.",
+    "author": [
+      {
+        "family": "Hohwy",
+        "given": "Jakob"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "title": "The Free-Energy Principle: A Unified Brain Theory?"
   },
   {
     "id": "bruner1990work",
     "type": "book",
-    "note": "Jerome Bruner, Acts of Meaning (Cambridge, MA: Harvard University Press, 1990), 17\u201332; Richard S. Lazarus, Emotion and Adaptation (New York: Oxford University Press, 1991), 144\u2013179."
+    "note": "Jerome Bruner, Acts of Meaning (Cambridge, MA: Harvard University Press, 1990), 17\u201332; Richard S. Lazarus, Emotion and Adaptation (New York: Oxford University Press, 1991), 144\u2013179.",
+    "author": [
+      {
+        "family": "Bruner",
+        "given": "Jerome"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1990
+        ]
+      ]
+    }
   },
   {
     "id": "lazarus1991work",
     "type": "book",
-    "note": "Richard S. Lazarus, Emotion and Adaptation (New York: Oxford University Press, 1991), 144\u2013179; Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), 89\u2013112."
+    "note": "Richard S. Lazarus, Emotion and Adaptation (New York: Oxford University Press, 1991), 144\u2013179; Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), 89\u2013112.",
+    "author": [
+      {
+        "family": "Lazarus",
+        "given": "Richard S."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1991
+        ]
+      ]
+    }
   },
   {
     "id": "searle1995work2",
     "type": "book",
-    "note": "John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 34\u201351; Robert B. Brandom, Articulating Reasons: An Introduction to Inferentialism (Cambridge, MA: Harvard University Press, 2000), 50\u201383."
+    "note": "John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 34\u201351; Robert B. Brandom, Articulating Reasons: An Introduction to Inferentialism (Cambridge, MA: Harvard University Press, 2000), 50\u201383.",
+    "author": [
+      {
+        "family": "Searle",
+        "given": "John R."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1995
+        ]
+      ]
+    }
   },
   {
     "id": "mead1934work",
     "type": "book",
-    "note": "George Herbert Mead, Mind, Self, and Society, ed. Charles W. Morris (Chicago: University of Chicago Press, 1934), 135\u2013226; Lev S. Vygotsky, Thought and Language, rev. and expanded ed., ed. Alex Kozulin, trans. Eugenia Hanfmann, Gertrude Vakar, and Alex Kozulin (Cambridge, MA: MIT Press, 1986), 146\u2013209; John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 51\u201371."
+    "note": "George Herbert Mead, Mind, Self, and Society, ed. Charles W. Morris (Chicago: University of Chicago Press, 1934), 135\u2013226; Lev S. Vygotsky, Thought and Language, rev. and expanded ed., ed. Alex Kozulin, trans. Eugenia Hanfmann, Gertrude Vakar, and Alex Kozulin (Cambridge, MA: MIT Press, 1986), 146\u2013209; John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 51\u201371.",
+    "author": [
+      {
+        "family": "Mead",
+        "given": "George Herbert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1934
+        ]
+      ]
+    }
   },
   {
     "id": "mead1934work2",
     "type": "book",
-    "note": "George Herbert Mead, Mind, Self, and Society, ed. Charles W. Morris (Chicago: University of Chicago Press, 1934), 261\u2013307; Lev S. Vygotsky, Thought and Language, rev. and expanded ed., ed. Alex Kozulin, trans. Eugenia Hanfmann, Gertrude Vakar, and Alex Kozulin (Cambridge, MA: MIT Press, 1986), 146\u2013209."
+    "note": "George Herbert Mead, Mind, Self, and Society, ed. Charles W. Morris (Chicago: University of Chicago Press, 1934), 261\u2013307; Lev S. Vygotsky, Thought and Language, rev. and expanded ed., ed. Alex Kozulin, trans. Eugenia Hanfmann, Gertrude Vakar, and Alex Kozulin (Cambridge, MA: MIT Press, 1986), 146\u2013209.",
+    "author": [
+      {
+        "family": "Mead",
+        "given": "George Herbert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1934
+        ]
+      ]
+    }
   },
   {
     "id": "bruner1990work2",
     "type": "book",
-    "note": "Jerome Bruner, Acts of Meaning (Cambridge, MA: Harvard University Press, 1990), 17\u201332; George Herbert Mead, Mind, Self, and Society, ed. Charles W. Morris (Chicago: University of Chicago Press, 1934), 261\u2013307."
+    "note": "Jerome Bruner, Acts of Meaning (Cambridge, MA: Harvard University Press, 1990), 17\u201332; George Herbert Mead, Mind, Self, and Society, ed. Charles W. Morris (Chicago: University of Chicago Press, 1934), 261\u2013307.",
+    "author": [
+      {
+        "family": "Bruner",
+        "given": "Jerome"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1990
+        ]
+      ]
+    }
   },
   {
     "id": "ekman2007is",
     "type": "book",
-    "note": "Paul Ekman, Emotions Revealed: Recognizing Faces and Feelings to Improve Communication and Emotional Life, 2nd ed. (New York: Times Books, 2007), 39\u201371; James A. Russell, \"Is There Universal Recognition of Emotion from Facial Expression? A Review of the Cross-Cultural Studies,\" Psychological Bulletin 115, no. 1 (1994): 102\u2013141; Lisa Feldman Barrett, Ralph Adolphs, Stacy Marsella, Aleix M. Martinez, and Seth D. Pollak, \"Emotional Expressions Reconsidered: Challenges to Inferring Emotion From Human Facial Movements,\" Psychological Science in the Public Interest 20, no. 1 (2019): 1\u201368."
+    "note": "Paul Ekman, Emotions Revealed: Recognizing Faces and Feelings to Improve Communication and Emotional Life, 2nd ed. (New York: Times Books, 2007), 39\u201371; James A. Russell, \"Is There Universal Recognition of Emotion from Facial Expression? A Review of the Cross-Cultural Studies,\" Psychological Bulletin 115, no. 1 (1994): 102\u2013141; Lisa Feldman Barrett, Ralph Adolphs, Stacy Marsella, Aleix M. Martinez, and Seth D. Pollak, \"Emotional Expressions Reconsidered: Challenges to Inferring Emotion From Human Facial Movements,\" Psychological Science in the Public Interest 20, no. 1 (2019): 1\u201368.",
+    "author": [
+      {
+        "family": "Ekman",
+        "given": "Paul"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2007
+        ]
+      ]
+    },
+    "title": "Is There Universal Recognition of Emotion from Facial Expression? A Review of the Cross-Cultural Studies"
   },
   {
     "id": "panksepp1998work2",
     "type": "book",
-    "note": "Jaak Panksepp, Affective Neuroscience: The Foundations of Human and Animal Emotions (New York: Oxford University Press, 1998), 47\u201370; Antonio Damasio, The Feeling of What Happens: Body and Emotion in the Making of Consciousness (New York: Harcourt Brace & Company, 1999), 42\u201349."
+    "note": "Jaak Panksepp, Affective Neuroscience: The Foundations of Human and Animal Emotions (New York: Oxford University Press, 1998), 47\u201370; Antonio Damasio, The Feeling of What Happens: Body and Emotion in the Making of Consciousness (New York: Harcourt Brace & Company, 1999), 42\u201349.",
+    "author": [
+      {
+        "family": "Panksepp",
+        "given": "Jaak"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1998
+        ]
+      ]
+    }
   },
   {
     "id": "damasio1999work4",
     "type": "book",
-    "note": "Antonio Damasio, The Feeling of What Happens: Body and Emotion in the Making of Consciousness (New York: Harcourt Brace & Company, 1999), 42\u201349; Jaak Panksepp, Affective Neuroscience: The Foundations of Human and Animal Emotions (New York: Oxford University Press, 1998), 47\u201370."
+    "note": "Antonio Damasio, The Feeling of What Happens: Body and Emotion in the Making of Consciousness (New York: Harcourt Brace & Company, 1999), 42\u201349; Jaak Panksepp, Affective Neuroscience: The Foundations of Human and Animal Emotions (New York: Oxford University Press, 1998), 47\u201370.",
+    "author": [
+      {
+        "family": "Damasio",
+        "given": "Antonio"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    }
   },
   {
     "id": "barrett2017work2",
     "type": "book",
-    "note": "Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), 89\u2013112; Richard S. Lazarus, Emotion and Adaptation (New York: Oxford University Press, 1991), 144\u2013179."
+    "note": "Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), 89\u2013112; Richard S. Lazarus, Emotion and Adaptation (New York: Oxford University Press, 1991), 144\u2013179.",
+    "author": [
+      {
+        "family": "Barrett",
+        "given": "Lisa Feldman"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    }
   },
   {
     "id": "russell2003core",
     "type": "book",
-    "note": "James A. Russell, \"Core Affect and the Psychological Construction of Emotion,\" Psychological Review 110, no. 1 (2003): 145\u2013172; Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), 89\u2013112."
+    "note": "James A. Russell, \"Core Affect and the Psychological Construction of Emotion,\" Psychological Review 110, no. 1 (2003): 145\u2013172; Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), 89\u2013112.",
+    "author": [
+      {
+        "family": "Russell",
+        "given": "James A."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "title": "Core Affect and the Psychological Construction of Emotion"
   },
   {
     "id": "clark2016freeenergy",
     "type": "book",
-    "note": "Andy Clark, Surfing Uncertainty: Prediction, Action, and the Embodied Mind (Oxford: Oxford University Press, 2016), 181\u2013206; Karl Friston, \"The Free-Energy Principle: A Unified Brain Theory?\" Nature Reviews Neuroscience 11 (2010): 127\u2013138."
+    "note": "Andy Clark, Surfing Uncertainty: Prediction, Action, and the Embodied Mind (Oxford: Oxford University Press, 2016), 181\u2013206; Karl Friston, \"The Free-Energy Principle: A Unified Brain Theory?\" Nature Reviews Neuroscience 11 (2010): 127\u2013138.",
+    "author": [
+      {
+        "family": "Clark",
+        "given": "Andy"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "title": "The Free-Energy Principle: A Unified Brain Theory?"
   },
   {
     "id": "hacking1999work2",
     "type": "book",
-    "note": "Ian Hacking, The Social Construction of What? (Cambridge, MA: Harvard University Press, 1999), 47\u201368; John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 27\u201351."
+    "note": "Ian Hacking, The Social Construction of What? (Cambridge, MA: Harvard University Press, 1999), 47\u201368; John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 27\u201351.",
+    "author": [
+      {
+        "family": "Hacking",
+        "given": "Ian"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    }
   },
   {
     "id": "damasio1999work5",
     "type": "book",
-    "note": "Antonio Damasio, The Feeling of What Happens: Body and Emotion in the Making of Consciousness (New York: Harcourt Brace & Company, 1999), 168\u2013194; Edmund Husserl, Ideas Pertaining to a Pure Phenomenology and to a Pure Phenomenological Philosophy: First Book, trans. F. Kersten (Dordrecht: Kluwer Academic Publishers, 1983), \u00a7\u00a727\u201338."
+    "note": "Antonio Damasio, The Feeling of What Happens: Body and Emotion in the Making of Consciousness (New York: Harcourt Brace & Company, 1999), 168\u2013194; Edmund Husserl, Ideas Pertaining to a Pure Phenomenology and to a Pure Phenomenological Philosophy: First Book, trans. F. Kersten (Dordrecht: Kluwer Academic Publishers, 1983), \u00a7\u00a727\u201338.",
+    "author": [
+      {
+        "family": "Damasio",
+        "given": "Antonio"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    }
   },
   {
     "id": "husserl1983work",
     "type": "book",
-    "note": "Edmund Husserl, Ideas Pertaining to a Pure Phenomenology and to a Pure Phenomenological Philosophy: First Book, trans. F. Kersten (Dordrecht: Kluwer Academic Publishers, 1983), \u00a7\u00a727\u201338; Antonio Damasio, The Feeling of What Happens: Body and Emotion in the Making of Consciousness (New York: Harcourt Brace & Company, 1999), 42\u201349."
+    "note": "Edmund Husserl, Ideas Pertaining to a Pure Phenomenology and to a Pure Phenomenological Philosophy: First Book, trans. F. Kersten (Dordrecht: Kluwer Academic Publishers, 1983), \u00a7\u00a727\u201338; Antonio Damasio, The Feeling of What Happens: Body and Emotion in the Making of Consciousness (New York: Harcourt Brace & Company, 1999), 42\u201349.",
+    "author": [
+      {
+        "family": "Husserl",
+        "given": "Edmund"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1983
+        ]
+      ]
+    }
   },
   {
     "id": "damasio1999how2",
     "type": "book",
-    "note": "Antonio Damasio, The Feeling of What Happens: Body and Emotion in the Making of Consciousness (New York: Harcourt Brace & Company, 1999), 42\u201349; A. D. Craig, \"How Do You Feel? Interoception: The Sense of the Physiological Condition of the Body,\" Nature Reviews Neuroscience 3, no. 8 (2002): 655\u2013666."
+    "note": "Antonio Damasio, The Feeling of What Happens: Body and Emotion in the Making of Consciousness (New York: Harcourt Brace & Company, 1999), 42\u201349; A. D. Craig, \"How Do You Feel? Interoception: The Sense of the Physiological Condition of the Body,\" Nature Reviews Neuroscience 3, no. 8 (2002): 655\u2013666.",
+    "author": [
+      {
+        "family": "Damasio",
+        "given": "Antonio"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    },
+    "title": "How Do You Feel? Interoception: The Sense of the Physiological Condition of the Body"
   },
   {
     "id": "sellars1997work",
     "type": "book",
-    "note": "Wilfrid Sellars, Empiricism and the Philosophy of Mind (Cambridge, MA: Harvard University Press, 1997), \u00a7\u00a716\u201319; Robert B. Brandom, Articulating Reasons: An Introduction to Inferentialism (Cambridge, MA: Harvard University Press, 2000), 50\u201383."
+    "note": "Wilfrid Sellars, Empiricism and the Philosophy of Mind (Cambridge, MA: Harvard University Press, 1997), \u00a7\u00a716\u201319; Robert B. Brandom, Articulating Reasons: An Introduction to Inferentialism (Cambridge, MA: Harvard University Press, 2000), 50\u201383.",
+    "author": [
+      {
+        "family": "Sellars",
+        "given": "Wilfrid"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1997
+        ]
+      ]
+    }
   },
   {
     "id": "singer1962cognitive2",
     "type": "book",
-    "note": "Stanley Schachter and Jerome E. Singer, \"Cognitive, Social, and Physiological Determinants of Emotional State,\" Psychological Review 69, no. 5 (1962): 379\u2013399, esp. 379\u2013386."
+    "note": "Stanley Schachter and Jerome E. Singer, \"Cognitive, Social, and Physiological Determinants of Emotional State,\" Psychological Review 69, no. 5 (1962): 379\u2013399, esp. 379\u2013386.",
+    "author": [
+      {
+        "family": "Schachter",
+        "given": "Stanley"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1962
+        ]
+      ]
+    },
+    "title": "Cognitive, Social, and Physiological Determinants of Emotional State"
   },
   {
     "id": "panksepp1998work3",
     "type": "book",
-    "note": "Jaak Panksepp, Affective Neuroscience: The Foundations of Human and Animal Emotions (New York: Oxford University Press, 1998), 305\u2013340; Richard S. Lazarus, Emotion and Adaptation (New York: Oxford University Press, 1991), 144\u2013179."
+    "note": "Jaak Panksepp, Affective Neuroscience: The Foundations of Human and Animal Emotions (New York: Oxford University Press, 1998), 305\u2013340; Richard S. Lazarus, Emotion and Adaptation (New York: Oxford University Press, 1991), 144\u2013179.",
+    "author": [
+      {
+        "family": "Panksepp",
+        "given": "Jaak"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1998
+        ]
+      ]
+    }
   },
   {
     "id": "barrett2017core",
     "type": "book",
-    "note": "Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), 89\u2013112; James A. Russell, \"Core Affect and the Psychological Construction of Emotion,\" Psychological Review 110, no. 1 (2003): 145\u2013172."
+    "note": "Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), 89\u2013112; James A. Russell, \"Core Affect and the Psychological Construction of Emotion,\" Psychological Review 110, no. 1 (2003): 145\u2013172.",
+    "author": [
+      {
+        "family": "Barrett",
+        "given": "Lisa Feldman"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "title": "Core Affect and the Psychological Construction of Emotion"
   },
   {
     "id": "russell2003core2",
     "type": "book",
-    "note": "James A. Russell, \"Core Affect and the Psychological Construction of Emotion,\" Psychological Review 110, no. 1 (2003): 145\u2013172, esp. 147\u2013156; Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), 29\u201348."
+    "note": "James A. Russell, \"Core Affect and the Psychological Construction of Emotion,\" Psychological Review 110, no. 1 (2003): 145\u2013172, esp. 147\u2013156; Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), 29\u201348.",
+    "author": [
+      {
+        "family": "Russell",
+        "given": "James A."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "title": "Core Affect and the Psychological Construction of Emotion"
   },
   {
     "id": "hacking1999work3",
     "type": "book",
-    "note": "Ian Hacking, The Social Construction of What? (Cambridge, MA: Harvard University Press, 1999), 47\u201368; Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), 89\u2013112."
+    "note": "Ian Hacking, The Social Construction of What? (Cambridge, MA: Harvard University Press, 1999), 47\u201368; Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), 89\u2013112.",
+    "author": [
+      {
+        "family": "Hacking",
+        "given": "Ian"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    }
   },
   {
     "id": "horwitz2002concept",
     "type": "book",
-    "note": "Allan V. Horwitz, Creating Mental Illness (Chicago: University of Chicago Press, 2002), 15\u201346, 123\u2013154; Jerome C. Wakefield, \"The Concept of Mental Disorder: On the Boundary Between Biological Facts and Social Values,\" American Psychologist 47, no. 3 (1992): 373\u2013388."
+    "note": "Allan V. Horwitz, Creating Mental Illness (Chicago: University of Chicago Press, 2002), 15\u201346, 123\u2013154; Jerome C. Wakefield, \"The Concept of Mental Disorder: On the Boundary Between Biological Facts and Social Values,\" American Psychologist 47, no. 3 (1992): 373\u2013388.",
+    "author": [
+      {
+        "family": "Horwitz",
+        "given": "Allan V."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    },
+    "title": "The Concept of Mental Disorder: On the Boundary Between Biological Facts and Social Values"
   },
   {
     "id": "goffman1959work",
     "type": "book",
-    "note": "Erving Goffman, The Presentation of Self in Everyday Life (New York: Anchor Books, 1959), 13\u201342; Fritz Heider, The Psychology of Interpersonal Relations (New York: John Wiley & Sons, 1958), 79\u2013124."
+    "note": "Erving Goffman, The Presentation of Self in Everyday Life (New York: Anchor Books, 1959), 13\u201342; Fritz Heider, The Psychology of Interpersonal Relations (New York: John Wiley & Sons, 1958), 79\u2013124.",
+    "author": [
+      {
+        "family": "Goffman",
+        "given": "Erving"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1959
+        ]
+      ]
+    }
   },
   {
     "id": "picard1997work",
     "type": "book",
-    "note": "Rosalind W. Picard, Affective Computing (Cambridge, MA: MIT Press, 1997), 55\u201389; Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), 189\u2013220."
+    "note": "Rosalind W. Picard, Affective Computing (Cambridge, MA: MIT Press, 1997), 55\u201389; Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), 189\u2013220.",
+    "author": [
+      {
+        "family": "Picard",
+        "given": "Rosalind W."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1997
+        ]
+      ]
+    }
   },
   {
     "id": "peirce1931work",
     "type": "book",
-    "note": "Charles S. Peirce, Collected Papers of Charles Sanders Peirce, vols. 1\u20138, ed. Charles Hartshorne, Paul Weiss, and Arthur W. Burks (Cambridge, MA: Harvard University Press, 1931\u20131958), 2.228\u20132.231; Umberto Eco, A Theory of Semiotics (Bloomington: Indiana University Press, 1976), 15\u201347."
+    "note": "Charles S. Peirce, Collected Papers of Charles Sanders Peirce, vols. 1\u20138, ed. Charles Hartshorne, Paul Weiss, and Arthur W. Burks (Cambridge, MA: Harvard University Press, 1931\u20131958), 2.228\u20132.231; Umberto Eco, A Theory of Semiotics (Bloomington: Indiana University Press, 1976), 15\u201347.",
+    "author": [
+      {
+        "family": "Peirce",
+        "given": "Charles S."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1931
+        ]
+      ]
+    }
   },
   {
     "id": "saussure1959work",
     "type": "book",
-    "note": "Ferdinand de Saussure, Course in General Linguistics, trans. Wade Baskin (New York: Philosophical Library, 1959), 65\u201370."
+    "note": "Ferdinand de Saussure, Course in General Linguistics, trans. Wade Baskin (New York: Philosophical Library, 1959), 65\u201370.",
+    "issued": {
+      "date-parts": [
+        [
+          1959
+        ]
+      ]
+    }
   },
   {
     "id": "eco1976work",
     "type": "book",
-    "note": "Umberto Eco, A Theory of Semiotics (Bloomington: Indiana University Press, 1976), 58\u201386; Charles S. Peirce, Collected Papers of Charles Sanders Peirce, vols. 1\u20138, ed. Charles Hartshorne, Paul Weiss, and Arthur W. Burks (Cambridge, MA: Harvard University Press, 1931\u20131958), 2.228\u20132.231."
+    "note": "Umberto Eco, A Theory of Semiotics (Bloomington: Indiana University Press, 1976), 58\u201386; Charles S. Peirce, Collected Papers of Charles Sanders Peirce, vols. 1\u20138, ed. Charles Hartshorne, Paul Weiss, and Arthur W. Burks (Cambridge, MA: Harvard University Press, 1931\u20131958), 2.228\u20132.231.",
+    "author": [
+      {
+        "family": "Eco",
+        "given": "Umberto"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1976
+        ]
+      ]
+    }
   },
   {
     "id": "clark2016work2",
     "type": "book",
-    "note": "Andy Clark, Surfing Uncertainty: Prediction, Action, and the Embodied Mind (Oxford: Oxford University Press, 2016), 181\u2013206; Charles S. Peirce, Collected Papers of Charles Sanders Peirce, vols. 1\u20138, ed. Charles Hartshorne, Paul Weiss, and Arthur W. Burks (Cambridge, MA: Harvard University Press, 1931\u20131958), 2.228\u20132.231."
+    "note": "Andy Clark, Surfing Uncertainty: Prediction, Action, and the Embodied Mind (Oxford: Oxford University Press, 2016), 181\u2013206; Charles S. Peirce, Collected Papers of Charles Sanders Peirce, vols. 1\u20138, ed. Charles Hartshorne, Paul Weiss, and Arthur W. Burks (Cambridge, MA: Harvard University Press, 1931\u20131958), 2.228\u20132.231.",
+    "author": [
+      {
+        "family": "Clark",
+        "given": "Andy"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    }
   },
   {
     "id": "goodman1976work",
     "type": "book",
-    "note": "Nelson Goodman, Languages of Art: An Approach to a Theory of Symbols, 2nd ed. (Indianapolis: Hackett Publishing, 1976), 1\u201342; Umberto Eco, A Theory of Semiotics (Bloomington: Indiana University Press, 1976), 58\u201386."
+    "note": "Nelson Goodman, Languages of Art: An Approach to a Theory of Symbols, 2nd ed. (Indianapolis: Hackett Publishing, 1976), 1\u201342; Umberto Eco, A Theory of Semiotics (Bloomington: Indiana University Press, 1976), 58\u201386.",
+    "author": [
+      {
+        "family": "Goodman",
+        "given": "Nelson"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1976
+        ]
+      ]
+    }
   },
   {
     "id": "searle1995constructivist",
     "type": "book",
-    "note": "John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 27\u201351; Cecil (CJ) John, \"The Constructivist Semiotic Sign,\" Chapter 7 of this volume."
+    "note": "John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 27\u201351; Cecil (CJ) John, \"The Constructivist Semiotic Sign,\" Chapter 7 of this volume.",
+    "author": [
+      {
+        "family": "Searle",
+        "given": "John R."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1995
+        ]
+      ]
+    },
+    "title": "The Constructivist Semiotic Sign"
   },
   {
     "id": "barrett2017work3",
     "type": "book",
-    "note": "Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), 179\u2013220; Ludwig Wittgenstein, Philosophical Investigations, 4th ed., trans. G. E. M. Anscombe, P. M. S. Hacker, and Joachim Schulte (Oxford: Wiley-Blackwell, 2009), \u00a7\u00a765\u201371."
+    "note": "Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), 179\u2013220; Ludwig Wittgenstein, Philosophical Investigations, 4th ed., trans. G. E. M. Anscombe, P. M. S. Hacker, and Joachim Schulte (Oxford: Wiley-Blackwell, 2009), \u00a7\u00a765\u201371.",
+    "author": [
+      {
+        "family": "Barrett",
+        "given": "Lisa Feldman"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    }
   },
   {
     "id": "vygotsky1986work",
     "type": "book",
-    "note": "Lev S. Vygotsky, Thought and Language, rev. and expanded ed., ed. Alex Kozulin, trans. Eugenia Hanfmann, Gertrude Vakar, and Alex Kozulin (Cambridge, MA: MIT Press, 1986), 146\u2013209; George Herbert Mead, Mind, Self, and Society, ed. Charles W. Morris (Chicago: University of Chicago Press, 1934), 135\u2013226."
+    "note": "Lev S. Vygotsky, Thought and Language, rev. and expanded ed., ed. Alex Kozulin, trans. Eugenia Hanfmann, Gertrude Vakar, and Alex Kozulin (Cambridge, MA: MIT Press, 1986), 146\u2013209; George Herbert Mead, Mind, Self, and Society, ed. Charles W. Morris (Chicago: University of Chicago Press, 1934), 135\u2013226.",
+    "author": [
+      {
+        "family": "Vygotsky",
+        "given": "Lev S."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1986
+        ]
+      ]
+    }
   },
   {
     "id": "peirce1931work2",
     "type": "book",
-    "note": "Charles S. Peirce, Collected Papers of Charles Sanders Peirce, vols. 1\u20138, ed. Charles Hartshorne, Paul Weiss, and Arthur W. Burks (Cambridge, MA: Harvard University Press, 1931\u20131958), 2.227\u20132.231; John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 27\u201351."
+    "note": "Charles S. Peirce, Collected Papers of Charles Sanders Peirce, vols. 1\u20138, ed. Charles Hartshorne, Paul Weiss, and Arthur W. Burks (Cambridge, MA: Harvard University Press, 1931\u20131958), 2.227\u20132.231; John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 27\u201351.",
+    "author": [
+      {
+        "family": "Peirce",
+        "given": "Charles S."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1931
+        ]
+      ]
+    }
   },
   {
     "id": "frege1980on",
     "type": "book",
-    "note": "Gottlob Frege, \"On Sense and Reference,\" in Translations from the Philosophical Writings of Gottlob Frege, 3rd ed., trans. Peter Geach and Max Black, ed. Peter Geach (Oxford: Blackwell, 1980), 56\u201378."
+    "note": "Gottlob Frege, \"On Sense and Reference,\" in Translations from the Philosophical Writings of Gottlob Frege, 3rd ed., trans. Peter Geach and Max Black, ed. Peter Geach (Oxford: Blackwell, 1980), 56\u201378.",
+    "author": [
+      {
+        "family": "Frege",
+        "given": "Gottlob"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1980
+        ]
+      ]
+    },
+    "title": "On Sense and Reference"
   },
   {
     "id": "peirce1931work3",
     "type": "book",
-    "note": "Charles S. Peirce, Collected Papers of Charles Sanders Peirce, vols. 1\u20138, ed. Charles Hartshorne, Paul Weiss, and Arthur W. Burks (Cambridge, MA: Harvard University Press, 1931\u20131958), 1.540\u20131.564, 2.227\u20132.231; Nelson Goodman, Languages of Art: An Approach to a Theory of Symbols, 2nd ed. (Indianapolis: Hackett Publishing, 1976), 1\u201342."
+    "note": "Charles S. Peirce, Collected Papers of Charles Sanders Peirce, vols. 1\u20138, ed. Charles Hartshorne, Paul Weiss, and Arthur W. Burks (Cambridge, MA: Harvard University Press, 1931\u20131958), 1.540\u20131.564, 2.227\u20132.231; Nelson Goodman, Languages of Art: An Approach to a Theory of Symbols, 2nd ed. (Indianapolis: Hackett Publishing, 1976), 1\u201342.",
+    "author": [
+      {
+        "family": "Peirce",
+        "given": "Charles S."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1931
+        ]
+      ]
+    }
   },
   {
     "id": "saussure1959work2",
     "type": "book",
-    "note": "Ferdinand de Saussure, Course in General Linguistics, trans. Wade Baskin (New York: Philosophical Library, 1959), 65\u201370; Umberto Eco, A Theory of Semiotics (Bloomington: Indiana University Press, 1976), 58\u201386."
+    "note": "Ferdinand de Saussure, Course in General Linguistics, trans. Wade Baskin (New York: Philosophical Library, 1959), 65\u201370; Umberto Eco, A Theory of Semiotics (Bloomington: Indiana University Press, 1976), 58\u201386.",
+    "issued": {
+      "date-parts": [
+        [
+          1959
+        ]
+      ]
+    }
   },
   {
     "id": "eco1976work2",
     "type": "book",
-    "note": "Umberto Eco, A Theory of Semiotics (Bloomington: Indiana University Press, 1976), 58\u201386; Nelson Goodman, Languages of Art: An Approach to a Theory of Symbols, 2nd ed. (Indianapolis: Hackett Publishing, 1976), 1\u201342."
+    "note": "Umberto Eco, A Theory of Semiotics (Bloomington: Indiana University Press, 1976), 58\u201386; Nelson Goodman, Languages of Art: An Approach to a Theory of Symbols, 2nd ed. (Indianapolis: Hackett Publishing, 1976), 1\u201342.",
+    "author": [
+      {
+        "family": "Eco",
+        "given": "Umberto"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1976
+        ]
+      ]
+    }
   },
   {
     "id": "goodman1976work2",
     "type": "book",
-    "note": "Nelson Goodman, Languages of Art: An Approach to a Theory of Symbols, 2nd ed. (Indianapolis: Hackett Publishing, 1976), 1\u201342; Charles S. Peirce, Collected Papers of Charles Sanders Peirce, vols. 1\u20138, ed. Charles Hartshorne, Paul Weiss, and Arthur W. Burks (Cambridge, MA: Harvard University Press, 1931\u20131958), 2.227\u20132.231."
+    "note": "Nelson Goodman, Languages of Art: An Approach to a Theory of Symbols, 2nd ed. (Indianapolis: Hackett Publishing, 1976), 1\u201342; Charles S. Peirce, Collected Papers of Charles Sanders Peirce, vols. 1\u20138, ed. Charles Hartshorne, Paul Weiss, and Arthur W. Burks (Cambridge, MA: Harvard University Press, 1931\u20131958), 2.227\u20132.231.",
+    "author": [
+      {
+        "family": "Goodman",
+        "given": "Nelson"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1976
+        ]
+      ]
+    }
   },
   {
     "id": "barrett2017core2",
     "type": "book",
-    "note": "Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), 179\u2013220; James A. Russell, \"Core Affect and the Psychological Construction of Emotion,\" Psychological Review 110, no. 1 (2003): 145\u2013172."
+    "note": "Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), 179\u2013220; James A. Russell, \"Core Affect and the Psychological Construction of Emotion,\" Psychological Review 110, no. 1 (2003): 145\u2013172.",
+    "author": [
+      {
+        "family": "Barrett",
+        "given": "Lisa Feldman"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "title": "Core Affect and the Psychological Construction of Emotion"
   },
   {
     "id": "eco1976work3",
     "type": "book",
-    "note": "Umberto Eco, A Theory of Semiotics (Bloomington: Indiana University Press, 1976), 58\u201386; Charles S. Peirce, Collected Papers of Charles Sanders Peirce, vols. 1\u20138, ed. Charles Hartshorne, Paul Weiss, and Arthur W. Burks (Cambridge, MA: Harvard University Press, 1931\u20131958), 2.227\u20132.231."
+    "note": "Umberto Eco, A Theory of Semiotics (Bloomington: Indiana University Press, 1976), 58\u201386; Charles S. Peirce, Collected Papers of Charles Sanders Peirce, vols. 1\u20138, ed. Charles Hartshorne, Paul Weiss, and Arthur W. Burks (Cambridge, MA: Harvard University Press, 1931\u20131958), 2.227\u20132.231.",
+    "author": [
+      {
+        "family": "Eco",
+        "given": "Umberto"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1976
+        ]
+      ]
+    }
   },
   {
     "id": "frege1980on2",
     "type": "book",
-    "note": "Gottlob Frege, \"On Sense and Reference,\" in Translations from the Philosophical Writings of Gottlob Frege, 3rd ed., trans. Peter Geach and Max Black, ed. Peter Geach (Oxford: Blackwell, 1980), 56\u201378; Nelson Goodman, Languages of Art: An Approach to a Theory of Symbols, 2nd ed. (Indianapolis: Hackett Publishing, 1976), 1\u201342."
+    "note": "Gottlob Frege, \"On Sense and Reference,\" in Translations from the Philosophical Writings of Gottlob Frege, 3rd ed., trans. Peter Geach and Max Black, ed. Peter Geach (Oxford: Blackwell, 1980), 56\u201378; Nelson Goodman, Languages of Art: An Approach to a Theory of Symbols, 2nd ed. (Indianapolis: Hackett Publishing, 1976), 1\u201342.",
+    "author": [
+      {
+        "family": "Frege",
+        "given": "Gottlob"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1980
+        ]
+      ]
+    },
+    "title": "On Sense and Reference"
   },
   {
     "id": "bruner1990work3",
     "type": "book",
-    "note": "Jerome Bruner, Acts of Meaning (Cambridge, MA: Harvard University Press, 1990), 17\u201332; John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 27\u201351."
+    "note": "Jerome Bruner, Acts of Meaning (Cambridge, MA: Harvard University Press, 1990), 17\u201332; John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 27\u201351.",
+    "author": [
+      {
+        "family": "Bruner",
+        "given": "Jerome"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1990
+        ]
+      ]
+    }
   },
   {
     "id": "peirce1931work4",
     "type": "book",
-    "note": "Charles S. Peirce, Collected Papers of Charles Sanders Peirce, vols. 1\u20138, ed. Charles Hartshorne, Paul Weiss, and Arthur W. Burks (Cambridge, MA: Harvard University Press, 1931\u20131958), 2.227\u20132.231."
+    "note": "Charles S. Peirce, Collected Papers of Charles Sanders Peirce, vols. 1\u20138, ed. Charles Hartshorne, Paul Weiss, and Arthur W. Burks (Cambridge, MA: Harvard University Press, 1931\u20131958), 2.227\u20132.231.",
+    "author": [
+      {
+        "family": "Peirce",
+        "given": "Charles S."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1931
+        ]
+      ]
+    }
   },
   {
     "id": "wittgenstein2009work",
     "type": "book",
-    "note": "Ludwig Wittgenstein, Philosophical Investigations, 4th ed., trans. G. E. M. Anscombe, P. M. S. Hacker, and Joachim Schulte (Oxford: Wiley-Blackwell, 2009), \u00a7\u00a765\u201371."
+    "note": "Ludwig Wittgenstein, Philosophical Investigations, 4th ed., trans. G. E. M. Anscombe, P. M. S. Hacker, and Joachim Schulte (Oxford: Wiley-Blackwell, 2009), \u00a7\u00a765\u201371.",
+    "author": [
+      {
+        "family": "Wittgenstein",
+        "given": "Ludwig"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    }
   },
   {
     "id": "goodman1976work3",
     "type": "book",
-    "note": "Nelson Goodman, Languages of Art: An Approach to a Theory of Symbols, 2nd ed. (Indianapolis: Hackett Publishing, 1976), 1\u201342."
+    "note": "Nelson Goodman, Languages of Art: An Approach to a Theory of Symbols, 2nd ed. (Indianapolis: Hackett Publishing, 1976), 1\u201342.",
+    "author": [
+      {
+        "family": "Goodman",
+        "given": "Nelson"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1976
+        ]
+      ]
+    }
   },
   {
     "id": "wittgenstein2009work2",
     "type": "book",
-    "note": "Ludwig Wittgenstein, Philosophical Investigations, 4th ed., trans. G. E. M. Anscombe, P. M. S. Hacker, and Joachim Schulte (Oxford: Wiley-Blackwell, 2009), \u00a7\u00a765\u201371; Nelson Goodman, Languages of Art: An Approach to a Theory of Symbols, 2nd ed. (Indianapolis: Hackett Publishing, 1976), 1\u201342."
+    "note": "Ludwig Wittgenstein, Philosophical Investigations, 4th ed., trans. G. E. M. Anscombe, P. M. S. Hacker, and Joachim Schulte (Oxford: Wiley-Blackwell, 2009), \u00a7\u00a765\u201371; Nelson Goodman, Languages of Art: An Approach to a Theory of Symbols, 2nd ed. (Indianapolis: Hackett Publishing, 1976), 1\u201342.",
+    "author": [
+      {
+        "family": "Wittgenstein",
+        "given": "Ludwig"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    }
   },
   {
     "id": "goodman1976work4",
     "type": "book",
-    "note": "Nelson Goodman, Languages of Art: An Approach to a Theory of Symbols, 2nd ed. (Indianapolis: Hackett Publishing, 1976), 1\u201342; John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 27\u201351."
+    "note": "Nelson Goodman, Languages of Art: An Approach to a Theory of Symbols, 2nd ed. (Indianapolis: Hackett Publishing, 1976), 1\u201342; John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 27\u201351.",
+    "author": [
+      {
+        "family": "Goodman",
+        "given": "Nelson"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1976
+        ]
+      ]
+    }
   },
   {
     "id": "barrett2017core3",
     "type": "book",
-    "note": "Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), 89\u2013112, 179\u2013220; James A. Russell, \"Core Affect and the Psychological Construction of Emotion,\" Psychological Review 110, no. 1 (2003): 145\u2013172."
+    "note": "Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), 89\u2013112, 179\u2013220; James A. Russell, \"Core Affect and the Psychological Construction of Emotion,\" Psychological Review 110, no. 1 (2003): 145\u2013172.",
+    "author": [
+      {
+        "family": "Barrett",
+        "given": "Lisa Feldman"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "title": "Core Affect and the Psychological Construction of Emotion"
   },
   {
     "id": "peirce1931work5",
     "type": "book",
-    "note": "Charles S. Peirce, Collected Papers of Charles Sanders Peirce, vols. 1\u20138, ed. Charles Hartshorne, Paul Weiss, and Arthur W. Burks (Cambridge, MA: Harvard University Press, 1931\u20131958), 2.227\u20132.231; Nelson Goodman, Languages of Art: An Approach to a Theory of Symbols, 2nd ed. (Indianapolis: Hackett Publishing, 1976), 1\u201342."
+    "note": "Charles S. Peirce, Collected Papers of Charles Sanders Peirce, vols. 1\u20138, ed. Charles Hartshorne, Paul Weiss, and Arthur W. Burks (Cambridge, MA: Harvard University Press, 1931\u20131958), 2.227\u20132.231; Nelson Goodman, Languages of Art: An Approach to a Theory of Symbols, 2nd ed. (Indianapolis: Hackett Publishing, 1976), 1\u201342.",
+    "author": [
+      {
+        "family": "Peirce",
+        "given": "Charles S."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1931
+        ]
+      ]
+    }
   },
   {
     "id": "goodman1976work5",
     "type": "book",
-    "note": "Nelson Goodman, Languages of Art: An Approach to a Theory of Symbols, 2nd ed. (Indianapolis: Hackett Publishing, 1976), 1\u201342; Ian Hacking, The Social Construction of What? (Cambridge, MA: Harvard University Press, 1999), 47\u201368."
+    "note": "Nelson Goodman, Languages of Art: An Approach to a Theory of Symbols, 2nd ed. (Indianapolis: Hackett Publishing, 1976), 1\u201342; Ian Hacking, The Social Construction of What? (Cambridge, MA: Harvard University Press, 1999), 47\u201368.",
+    "author": [
+      {
+        "family": "Goodman",
+        "given": "Nelson"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1976
+        ]
+      ]
+    }
   },
   {
     "id": "simon1996work",
     "type": "book",
-    "note": "Herbert A. Simon, The Sciences of the Artificial, 3rd ed. (Cambridge, MA: MIT Press, 1996), 3\u201324, 111\u2013138."
+    "note": "Herbert A. Simon, The Sciences of the Artificial, 3rd ed. (Cambridge, MA: MIT Press, 1996), 3\u201324, 111\u2013138.",
+    "author": [
+      {
+        "family": "Simon",
+        "given": "Herbert A."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1996
+        ]
+      ]
+    }
   },
   {
     "id": "simon1972work",
     "type": "book",
-    "note": "Allen Newell and Herbert A. Simon, Human Problem Solving (Englewood Cliffs, NJ: Prentice-Hall, 1972), 788\u2013820; Herbert A. Simon, The Sciences of the Artificial, 3rd ed. (Cambridge, MA: MIT Press, 1996), 111\u2013138."
+    "note": "Allen Newell and Herbert A. Simon, Human Problem Solving (Englewood Cliffs, NJ: Prentice-Hall, 1972), 788\u2013820; Herbert A. Simon, The Sciences of the Artificial, 3rd ed. (Cambridge, MA: MIT Press, 1996), 111\u2013138.",
+    "author": [
+      {
+        "family": "Newell",
+        "given": "Allen"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1972
+        ]
+      ]
+    }
   },
   {
     "id": "saussure1959work3",
     "type": "book",
-    "note": "Ferdinand de Saussure, Course in General Linguistics, trans. Wade Baskin (New York: Philosophical Library, 1959), 65\u201370; Charles S. Peirce, Collected Papers of Charles Sanders Peirce, vols. 1\u20138, ed. Charles Hartshorne, Paul Weiss, and Arthur W. Burks (Cambridge, MA: Harvard University Press, 1931\u20131958), 2.227\u20132.231."
+    "note": "Ferdinand de Saussure, Course in General Linguistics, trans. Wade Baskin (New York: Philosophical Library, 1959), 65\u201370; Charles S. Peirce, Collected Papers of Charles Sanders Peirce, vols. 1\u20138, ed. Charles Hartshorne, Paul Weiss, and Arthur W. Burks (Cambridge, MA: Harvard University Press, 1931\u20131958), 2.227\u20132.231.",
+    "issued": {
+      "date-parts": [
+        [
+          1959
+        ]
+      ]
+    }
   },
   {
     "id": "frege1980on3",
     "type": "book",
-    "note": "Gottlob Frege, \"On Sense and Reference,\" in Translations from the Philosophical Writings of Gottlob Frege, 3rd ed., trans. Peter Geach and Max Black, ed. Peter Geach (Oxford: Blackwell, 1980), 56\u201378; John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 27\u201351."
+    "note": "Gottlob Frege, \"On Sense and Reference,\" in Translations from the Philosophical Writings of Gottlob Frege, 3rd ed., trans. Peter Geach and Max Black, ed. Peter Geach (Oxford: Blackwell, 1980), 56\u201378; John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 27\u201351.",
+    "author": [
+      {
+        "family": "Frege",
+        "given": "Gottlob"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1980
+        ]
+      ]
+    },
+    "title": "On Sense and Reference"
   },
   {
     "id": "searle1995work3",
     "type": "book",
-    "note": "John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 27\u201351; Jerome Bruner, Acts of Meaning (Cambridge, MA: Harvard University Press, 1990), 17\u201332."
+    "note": "John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 27\u201351; Jerome Bruner, Acts of Meaning (Cambridge, MA: Harvard University Press, 1990), 17\u201332.",
+    "author": [
+      {
+        "family": "Searle",
+        "given": "John R."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1995
+        ]
+      ]
+    }
   },
   {
     "id": "simon1996work2",
     "type": "book",
-    "note": "Herbert A. Simon, The Sciences of the Artificial, 3rd ed. (Cambridge, MA: MIT Press, 1996), 111\u2013138; Allen Newell and Herbert A. Simon, Human Problem Solving (Englewood Cliffs, NJ: Prentice-Hall, 1972), 788\u2013820."
+    "note": "Herbert A. Simon, The Sciences of the Artificial, 3rd ed. (Cambridge, MA: MIT Press, 1996), 111\u2013138; Allen Newell and Herbert A. Simon, Human Problem Solving (Englewood Cliffs, NJ: Prentice-Hall, 1972), 788\u2013820.",
+    "author": [
+      {
+        "family": "Simon",
+        "given": "Herbert A."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1996
+        ]
+      ]
+    }
   },
   {
     "id": "hacking1999constructivist",
     "type": "book",
-    "note": "Ian Hacking, The Social Construction of What? (Cambridge, MA: Harvard University Press, 1999), 47\u201368; John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 27\u201351; Cecil (CJ) John, \"The Constructivist Semiotic Sign,\" Chapter 7 of this volume."
+    "note": "Ian Hacking, The Social Construction of What? (Cambridge, MA: Harvard University Press, 1999), 47\u201368; John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 27\u201351; Cecil (CJ) John, \"The Constructivist Semiotic Sign,\" Chapter 7 of this volume.",
+    "author": [
+      {
+        "family": "Hacking",
+        "given": "Ian"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    },
+    "title": "The Constructivist Semiotic Sign"
   },
   {
     "id": "barrett2017work4",
     "type": "book",
-    "note": "Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), 189\u2013220; Rosalind W. Picard, Affective Computing (Cambridge, MA: MIT Press, 1997), 55\u201389."
+    "note": "Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), 189\u2013220; Rosalind W. Picard, Affective Computing (Cambridge, MA: MIT Press, 1997), 55\u201389.",
+    "author": [
+      {
+        "family": "Barrett",
+        "given": "Lisa Feldman"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    }
   },
   {
     "id": "dennett1991what",
     "type": "book",
-    "note": "Daniel C. Dennett, Consciousness Explained (Boston: Little, Brown and Company, 1991), 423\u2013455; Thomas Nagel, \"What Is It Like to Be a Bat?\" Philosophical Review 83, no. 4 (1974): 435\u2013450."
+    "note": "Daniel C. Dennett, Consciousness Explained (Boston: Little, Brown and Company, 1991), 423\u2013455; Thomas Nagel, \"What Is It Like to Be a Bat?\" Philosophical Review 83, no. 4 (1974): 435\u2013450.",
+    "author": [
+      {
+        "family": "Dennett",
+        "given": "Daniel C."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1991
+        ]
+      ]
+    },
+    "title": "What Is It Like to Be a Bat?"
   },
   {
     "id": "damasio1999how3",
     "type": "book",
-    "note": "Antonio Damasio, The Feeling of What Happens: Body and Emotion in the Making of Consciousness (New York: Harcourt Brace & Company, 1999), 168\u2013194; A. D. Craig, \"How Do You Feel? Interoception: The Sense of the Physiological Condition of the Body,\" Nature Reviews Neuroscience 3, no. 8 (2002): 655\u2013666."
+    "note": "Antonio Damasio, The Feeling of What Happens: Body and Emotion in the Making of Consciousness (New York: Harcourt Brace & Company, 1999), 168\u2013194; A. D. Craig, \"How Do You Feel? Interoception: The Sense of the Physiological Condition of the Body,\" Nature Reviews Neuroscience 3, no. 8 (2002): 655\u2013666.",
+    "author": [
+      {
+        "family": "Damasio",
+        "given": "Antonio"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    },
+    "title": "How Do You Feel? Interoception: The Sense of the Physiological Condition of the Body"
   },
   {
     "id": "searle1995work4",
     "type": "book",
-    "note": "John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 34\u201369; Robert B. Brandom, Articulating Reasons: An Introduction to Inferentialism (Cambridge, MA: Harvard University Press, 2000), 50\u201383."
+    "note": "John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 34\u201369; Robert B. Brandom, Articulating Reasons: An Introduction to Inferentialism (Cambridge, MA: Harvard University Press, 2000), 50\u201383.",
+    "author": [
+      {
+        "family": "Searle",
+        "given": "John R."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1995
+        ]
+      ]
+    }
   },
   {
     "id": "panksepp1998work4",
     "type": "book",
-    "note": "Jaak Panksepp, Affective Neuroscience: The Foundations of Human and Animal Emotions (New York: Oxford University Press, 1998), 47\u201370; Antonio Damasio, The Feeling of What Happens: Body and Emotion in the Making of Consciousness (New York: Harcourt Brace & Company, 1999), 168\u2013194."
+    "note": "Jaak Panksepp, Affective Neuroscience: The Foundations of Human and Animal Emotions (New York: Oxford University Press, 1998), 47\u201370; Antonio Damasio, The Feeling of What Happens: Body and Emotion in the Making of Consciousness (New York: Harcourt Brace & Company, 1999), 168\u2013194.",
+    "author": [
+      {
+        "family": "Panksepp",
+        "given": "Jaak"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1998
+        ]
+      ]
+    }
   },
   {
     "id": "friston2010freeenergy2",
     "type": "book",
-    "note": "Karl Friston, \"The Free-Energy Principle: A Unified Brain Theory?\" Nature Reviews Neuroscience 11 (2010): 127\u2013138; Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), 189\u2013220."
+    "note": "Karl Friston, \"The Free-Energy Principle: A Unified Brain Theory?\" Nature Reviews Neuroscience 11 (2010): 127\u2013138; Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), 189\u2013220.",
+    "author": [
+      {
+        "family": "Friston",
+        "given": "Karl"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "title": "The Free-Energy Principle: A Unified Brain Theory?"
   },
   {
     "id": "nagel1974what",
     "type": "book",
-    "note": "Thomas Nagel, \"What Is It Like to Be a Bat?\" Philosophical Review 83, no. 4 (1974): 435\u2013450; John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 34\u201369."
+    "note": "Thomas Nagel, \"What Is It Like to Be a Bat?\" Philosophical Review 83, no. 4 (1974): 435\u2013450; John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 34\u201369.",
+    "author": [
+      {
+        "family": "Nagel",
+        "given": "Thomas"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1974
+        ]
+      ]
+    },
+    "title": "What Is It Like to Be a Bat?"
   },
   {
     "id": "barrett2017core4",
     "type": "book",
-    "note": "Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), 89\u2013112, 189\u2013220; James A. Russell, \"Core Affect and the Psychological Construction of Emotion,\" Psychological Review 110, no. 1 (2003): 145\u2013172."
+    "note": "Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), 89\u2013112, 189\u2013220; James A. Russell, \"Core Affect and the Psychological Construction of Emotion,\" Psychological Review 110, no. 1 (2003): 145\u2013172.",
+    "author": [
+      {
+        "family": "Barrett",
+        "given": "Lisa Feldman"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "title": "Core Affect and the Psychological Construction of Emotion"
   },
   {
     "id": "clark2016what",
     "type": "book",
-    "note": "Andy Clark, Surfing Uncertainty: Prediction, Action, and the Embodied Mind (Oxford: Oxford University Press, 2016), 181\u2013206; Thomas Nagel, \"What Is It Like to Be a Bat?\" Philosophical Review 83, no. 4 (1974): 435\u2013450."
+    "note": "Andy Clark, Surfing Uncertainty: Prediction, Action, and the Embodied Mind (Oxford: Oxford University Press, 2016), 181\u2013206; Thomas Nagel, \"What Is It Like to Be a Bat?\" Philosophical Review 83, no. 4 (1974): 435\u2013450.",
+    "author": [
+      {
+        "family": "Clark",
+        "given": "Andy"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "title": "What Is It Like to Be a Bat?"
   },
   {
     "id": "nagel1974what2",
     "type": "book",
-    "note": "Thomas Nagel, \"What Is It Like to Be a Bat?\" Philosophical Review 83, no. 4 (1974): 435\u2013450; Edmund Husserl, Ideas Pertaining to a Pure Phenomenology and to a Pure Phenomenological Philosophy: First Book, trans. F. Kersten (Dordrecht: Kluwer Academic Publishers, 1983), \u00a7\u00a727\u201338."
+    "note": "Thomas Nagel, \"What Is It Like to Be a Bat?\" Philosophical Review 83, no. 4 (1974): 435\u2013450; Edmund Husserl, Ideas Pertaining to a Pure Phenomenology and to a Pure Phenomenological Philosophy: First Book, trans. F. Kersten (Dordrecht: Kluwer Academic Publishers, 1983), \u00a7\u00a727\u201338.",
+    "author": [
+      {
+        "family": "Nagel",
+        "given": "Thomas"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1974
+        ]
+      ]
+    },
+    "title": "What Is It Like to Be a Bat?"
   },
   {
     "id": "friston2010freeenergy3",
     "type": "book",
-    "note": "Karl Friston, \"The Free-Energy Principle: A Unified Brain Theory?\" Nature Reviews Neuroscience 11 (2010): 127\u2013138; Andy Clark, Surfing Uncertainty: Prediction, Action, and the Embodied Mind (Oxford: Oxford University Press, 2016), 181\u2013206."
+    "note": "Karl Friston, \"The Free-Energy Principle: A Unified Brain Theory?\" Nature Reviews Neuroscience 11 (2010): 127\u2013138; Andy Clark, Surfing Uncertainty: Prediction, Action, and the Embodied Mind (Oxford: Oxford University Press, 2016), 181\u2013206.",
+    "author": [
+      {
+        "family": "Friston",
+        "given": "Karl"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "title": "The Free-Energy Principle: A Unified Brain Theory?"
   },
   {
     "id": "barrett2017work5",
     "type": "book",
-    "note": "Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), 189\u2013220; John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 34\u201369."
+    "note": "Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), 189\u2013220; John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 34\u201369.",
+    "author": [
+      {
+        "family": "Barrett",
+        "given": "Lisa Feldman"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    }
   },
   {
     "id": "searle1995work5",
     "type": "book",
-    "note": "John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 51\u201371; George Herbert Mead, Mind, Self, and Society, ed. Charles W. Morris (Chicago: University of Chicago Press, 1934), 135\u2013226."
+    "note": "John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 51\u201371; George Herbert Mead, Mind, Self, and Society, ed. Charles W. Morris (Chicago: University of Chicago Press, 1934), 135\u2013226.",
+    "author": [
+      {
+        "family": "Searle",
+        "given": "John R."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1995
+        ]
+      ]
+    }
   },
   {
     "id": "brandom2000constructivist",
     "type": "book",
-    "note": "Robert B. Brandom, Articulating Reasons: An Introduction to Inferentialism (Cambridge, MA: Harvard University Press, 2000), 50\u201383; John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 34\u201369; Cecil (CJ) John, \"The Constructivist Semiotic Sign,\" Chapter 7 of this volume."
+    "note": "Robert B. Brandom, Articulating Reasons: An Introduction to Inferentialism (Cambridge, MA: Harvard University Press, 2000), 50\u201383; John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 34\u201369; Cecil (CJ) John, \"The Constructivist Semiotic Sign,\" Chapter 7 of this volume.",
+    "author": [
+      {
+        "family": "Brandom",
+        "given": "Robert B."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "title": "The Constructivist Semiotic Sign"
   },
   {
     "id": "mead1934work3",
     "type": "book",
-    "note": "George Herbert Mead, Mind, Self, and Society, ed. Charles W. Morris (Chicago: University of Chicago Press, 1934), 261\u2013307; Lev S. Vygotsky, Thought and Language, rev. and expanded ed., ed. Alex Kozulin, trans. Eugenia Hanfmann, Gertrude Vakar, and Alex Kozulin (Cambridge, MA: MIT Press, 1986), 146\u2013209; John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 51\u201371."
+    "note": "George Herbert Mead, Mind, Self, and Society, ed. Charles W. Morris (Chicago: University of Chicago Press, 1934), 261\u2013307; Lev S. Vygotsky, Thought and Language, rev. and expanded ed., ed. Alex Kozulin, trans. Eugenia Hanfmann, Gertrude Vakar, and Alex Kozulin (Cambridge, MA: MIT Press, 1986), 146\u2013209; John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 51\u201371.",
+    "author": [
+      {
+        "family": "Mead",
+        "given": "George Herbert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1934
+        ]
+      ]
+    }
   },
   {
     "id": "searle1995constructivist2",
     "type": "book",
-    "note": "John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 51\u201371; Ian Hacking, The Social Construction of What? (Cambridge, MA: Harvard University Press, 1999), 47\u201368; Cecil (CJ) John, \"The Constructivist Semiotic Sign,\" Chapter 7 of this volume."
+    "note": "John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 51\u201371; Ian Hacking, The Social Construction of What? (Cambridge, MA: Harvard University Press, 1999), 47\u201368; Cecil (CJ) John, \"The Constructivist Semiotic Sign,\" Chapter 7 of this volume.",
+    "author": [
+      {
+        "family": "Searle",
+        "given": "John R."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1995
+        ]
+      ]
+    },
+    "title": "The Constructivist Semiotic Sign"
   },
   {
     "id": "bruner1990constructivist",
     "type": "book",
-    "note": "Jerome Bruner, Acts of Meaning (Cambridge, MA: Harvard University Press, 1990), 17\u201332; George Herbert Mead, Mind, Self, and Society, ed. Charles W. Morris (Chicago: University of Chicago Press, 1934), 261\u2013307; Cecil (CJ) John, \"The Constructivist Semiotic Sign,\" Chapter 7 of this volume."
+    "note": "Jerome Bruner, Acts of Meaning (Cambridge, MA: Harvard University Press, 1990), 17\u201332; George Herbert Mead, Mind, Self, and Society, ed. Charles W. Morris (Chicago: University of Chicago Press, 1934), 261\u2013307; Cecil (CJ) John, \"The Constructivist Semiotic Sign,\" Chapter 7 of this volume.",
+    "author": [
+      {
+        "family": "Bruner",
+        "given": "Jerome"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1990
+        ]
+      ]
+    },
+    "title": "The Constructivist Semiotic Sign"
   },
   {
     "id": "simon1996work3",
     "type": "book",
-    "note": "Herbert A. Simon, The Sciences of the Artificial, 3rd ed. (Cambridge, MA: MIT Press, 1996), 111\u2013138; John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 51\u201371."
+    "note": "Herbert A. Simon, The Sciences of the Artificial, 3rd ed. (Cambridge, MA: MIT Press, 1996), 111\u2013138; John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 51\u201371.",
+    "author": [
+      {
+        "family": "Simon",
+        "given": "Herbert A."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1996
+        ]
+      ]
+    }
   },
   {
     "id": "simon1972work2",
     "type": "book",
-    "note": "Allen Newell and Herbert A. Simon, Human Problem Solving (Englewood Cliffs, NJ: Prentice-Hall, 1972), 788\u2013820; George Herbert Mead, Mind, Self, and Society, ed. Charles W. Morris (Chicago: University of Chicago Press, 1934), 261\u2013307; John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 51\u201371."
+    "note": "Allen Newell and Herbert A. Simon, Human Problem Solving (Englewood Cliffs, NJ: Prentice-Hall, 1972), 788\u2013820; George Herbert Mead, Mind, Self, and Society, ed. Charles W. Morris (Chicago: University of Chicago Press, 1934), 261\u2013307; John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 51\u201371.",
+    "author": [
+      {
+        "family": "Newell",
+        "given": "Allen"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1972
+        ]
+      ]
+    }
   },
   {
     "id": "searle1995work6",
     "type": "book",
-    "note": "John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 51\u201371; Ian Hacking, The Social Construction of What? (Cambridge, MA: Harvard University Press, 1999), 47\u201368."
+    "note": "John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 51\u201371; Ian Hacking, The Social Construction of What? (Cambridge, MA: Harvard University Press, 1999), 47\u201368.",
+    "author": [
+      {
+        "family": "Searle",
+        "given": "John R."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1995
+        ]
+      ]
+    }
   },
   {
     "id": "hacking1999work4",
     "type": "book",
-    "note": "Ian Hacking, The Social Construction of What? (Cambridge, MA: Harvard University Press, 1999), 47\u201368; George Herbert Mead, Mind, Self, and Society, ed. Charles W. Morris (Chicago: University of Chicago Press, 1934), 261\u2013307."
+    "note": "Ian Hacking, The Social Construction of What? (Cambridge, MA: Harvard University Press, 1999), 47\u201368; George Herbert Mead, Mind, Self, and Society, ed. Charles W. Morris (Chicago: University of Chicago Press, 1934), 261\u2013307.",
+    "author": [
+      {
+        "family": "Hacking",
+        "given": "Ian"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    }
   },
   {
     "id": "barrett2017constructivist",
     "type": "book",
-    "note": "Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), 179\u2013220; Cecil (CJ) John, \"The Constructivist Semiotic Sign,\" Chapter 7 of this volume."
+    "note": "Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), 179\u2013220; Cecil (CJ) John, \"The Constructivist Semiotic Sign,\" Chapter 7 of this volume.",
+    "author": [
+      {
+        "family": "Barrett",
+        "given": "Lisa Feldman"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "title": "The Constructivist Semiotic Sign"
   },
   {
     "id": "peirce1931work6",
     "type": "book",
-    "note": "Charles S. Peirce, Collected Papers of Charles Sanders Peirce, vols. 1\u20138, ed. Charles Hartshorne, Paul Weiss, and Arthur W. Burks (Cambridge, MA: Harvard University Press, 1931\u20131958), 2.227\u20132.231; John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 34\u201369."
+    "note": "Charles S. Peirce, Collected Papers of Charles Sanders Peirce, vols. 1\u20138, ed. Charles Hartshorne, Paul Weiss, and Arthur W. Burks (Cambridge, MA: Harvard University Press, 1931\u20131958), 2.227\u20132.231; John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 34\u201369.",
+    "author": [
+      {
+        "family": "Peirce",
+        "given": "Charles S."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1931
+        ]
+      ]
+    }
   },
   {
     "id": "brandom2000work",
     "type": "book",
-    "note": "Robert B. Brandom, Articulating Reasons: An Introduction to Inferentialism (Cambridge, MA: Harvard University Press, 2000), 50\u201383; John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 34\u201369."
+    "note": "Robert B. Brandom, Articulating Reasons: An Introduction to Inferentialism (Cambridge, MA: Harvard University Press, 2000), 50\u201383; John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 34\u201369.",
+    "author": [
+      {
+        "family": "Brandom",
+        "given": "Robert B."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    }
   },
   {
     "id": "panksepp1998work5",
     "type": "book",
-    "note": "Jaak Panksepp, Affective Neuroscience: The Foundations of Human and Animal Emotions (New York: Oxford University Press, 1998), 47\u201370; Antonio Damasio, The Feeling of What Happens: Body and Emotion in the Making of Consciousness (New York: Harcourt Brace & Company, 1999), 168\u2013194; Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), 89\u2013112."
+    "note": "Jaak Panksepp, Affective Neuroscience: The Foundations of Human and Animal Emotions (New York: Oxford University Press, 1998), 47\u201370; Antonio Damasio, The Feeling of What Happens: Body and Emotion in the Making of Consciousness (New York: Harcourt Brace & Company, 1999), 168\u2013194; Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), 89\u2013112.",
+    "author": [
+      {
+        "family": "Panksepp",
+        "given": "Jaak"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1998
+        ]
+      ]
+    }
   },
   {
     "id": "vygotsky1986work2",
     "type": "book",
-    "note": "Lev S. Vygotsky, Thought and Language, rev. and expanded ed., ed. Alex Kozulin, trans. Eugenia Hanfmann, Gertrude Vakar, and Alex Kozulin (Cambridge, MA: MIT Press, 1986), 146\u2013209; George Herbert Mead, Mind, Self, and Society, ed. Charles W. Morris (Chicago: University of Chicago Press, 1934), 261\u2013307."
+    "note": "Lev S. Vygotsky, Thought and Language, rev. and expanded ed., ed. Alex Kozulin, trans. Eugenia Hanfmann, Gertrude Vakar, and Alex Kozulin (Cambridge, MA: MIT Press, 1986), 146\u2013209; George Herbert Mead, Mind, Self, and Society, ed. Charles W. Morris (Chicago: University of Chicago Press, 1934), 261\u2013307.",
+    "author": [
+      {
+        "family": "Vygotsky",
+        "given": "Lev S."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1986
+        ]
+      ]
+    }
   },
   {
     "id": "bruner1990work4",
     "type": "book",
-    "note": "Jerome Bruner, Acts of Meaning (Cambridge, MA: Harvard University Press, 1990), 61\u201399; Lev S. Vygotsky, Thought and Language, rev. and expanded ed., ed. Alex Kozulin, trans. Eugenia Hanfmann, Gertrude Vakar, and Alex Kozulin (Cambridge, MA: MIT Press, 1986), 146\u2013209."
+    "note": "Jerome Bruner, Acts of Meaning (Cambridge, MA: Harvard University Press, 1990), 61\u201399; Lev S. Vygotsky, Thought and Language, rev. and expanded ed., ed. Alex Kozulin, trans. Eugenia Hanfmann, Gertrude Vakar, and Alex Kozulin (Cambridge, MA: MIT Press, 1986), 146\u2013209.",
+    "author": [
+      {
+        "family": "Bruner",
+        "given": "Jerome"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1990
+        ]
+      ]
+    }
   },
   {
     "id": "hacking1999work5",
     "type": "book",
-    "note": "Ian Hacking, The Social Construction of What? (Cambridge, MA: Harvard University Press, 1999), 47\u201368; John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 51\u201371."
+    "note": "Ian Hacking, The Social Construction of What? (Cambridge, MA: Harvard University Press, 1999), 47\u201368; John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 51\u201371.",
+    "author": [
+      {
+        "family": "Hacking",
+        "given": "Ian"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    }
   },
   {
     "id": "panksepp1998work6",
     "type": "book",
-    "note": "Jaak Panksepp, Affective Neuroscience: The Foundations of Human and Animal Emotions (New York: Oxford University Press, 1998), 47\u201370; Robert B. Brandom, Articulating Reasons: An Introduction to Inferentialism (Cambridge, MA: Harvard University Press, 2000), 50\u201383."
+    "note": "Jaak Panksepp, Affective Neuroscience: The Foundations of Human and Animal Emotions (New York: Oxford University Press, 1998), 47\u201370; Robert B. Brandom, Articulating Reasons: An Introduction to Inferentialism (Cambridge, MA: Harvard University Press, 2000), 50\u201383.",
+    "author": [
+      {
+        "family": "Panksepp",
+        "given": "Jaak"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1998
+        ]
+      ]
+    }
   },
   {
     "id": "simon1996work4",
     "type": "book",
-    "note": "Herbert A. Simon, The Sciences of the Artificial, 3rd ed. (Cambridge, MA: MIT Press, 1996), 111\u2013138; John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 34\u201369."
+    "note": "Herbert A. Simon, The Sciences of the Artificial, 3rd ed. (Cambridge, MA: MIT Press, 1996), 111\u2013138; John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 34\u201369.",
+    "author": [
+      {
+        "family": "Simon",
+        "given": "Herbert A."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1996
+        ]
+      ]
+    }
   },
   {
     "id": "searle1995constructivist3",
     "type": "book",
-    "note": "John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 34\u201369; Robert B. Brandom, Articulating Reasons: An Introduction to Inferentialism (Cambridge, MA: Harvard University Press, 2000), 50\u201383; Cecil (CJ) John, \"The Constructivist Semiotic Sign,\" Chapter 7 of this volume."
+    "note": "John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 34\u201369; Robert B. Brandom, Articulating Reasons: An Introduction to Inferentialism (Cambridge, MA: Harvard University Press, 2000), 50\u201383; Cecil (CJ) John, \"The Constructivist Semiotic Sign,\" Chapter 7 of this volume.",
+    "author": [
+      {
+        "family": "Searle",
+        "given": "John R."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1995
+        ]
+      ]
+    },
+    "title": "The Constructivist Semiotic Sign"
   },
   {
     "id": "barrett2017constructivist2",
     "type": "book",
-    "note": "Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), 179\u2013220; John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 51\u201371; Cecil (CJ) John, \"The Constructivist Semiotic Sign,\" Chapter 7 of this volume."
+    "note": "Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), 179\u2013220; John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 51\u201371; Cecil (CJ) John, \"The Constructivist Semiotic Sign,\" Chapter 7 of this volume.",
+    "author": [
+      {
+        "family": "Barrett",
+        "given": "Lisa Feldman"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "title": "The Constructivist Semiotic Sign"
   },
   {
     "id": "lazarus1991work2",
     "type": "book",
-    "note": "Richard S. Lazarus, Emotion and Adaptation (New York: Oxford University Press, 1991), 365\u2013392; Robert B. Brandom, Articulating Reasons: An Introduction to Inferentialism (Cambridge, MA: Harvard University Press, 2000), 50\u201383."
+    "note": "Richard S. Lazarus, Emotion and Adaptation (New York: Oxford University Press, 1991), 365\u2013392; Robert B. Brandom, Articulating Reasons: An Introduction to Inferentialism (Cambridge, MA: Harvard University Press, 2000), 50\u201383.",
+    "author": [
+      {
+        "family": "Lazarus",
+        "given": "Richard S."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1991
+        ]
+      ]
+    }
   },
   {
     "id": "lazarus1991work3",
     "type": "book",
-    "note": "Richard S. Lazarus, Emotion and Adaptation (New York: Oxford University Press, 1991), 365\u2013392; Antonio Damasio, The Feeling of What Happens: Body and Emotion in the Making of Consciousness (New York: Harcourt Brace & Company, 1999), 168\u2013194."
+    "note": "Richard S. Lazarus, Emotion and Adaptation (New York: Oxford University Press, 1991), 365\u2013392; Antonio Damasio, The Feeling of What Happens: Body and Emotion in the Making of Consciousness (New York: Harcourt Brace & Company, 1999), 168\u2013194.",
+    "author": [
+      {
+        "family": "Lazarus",
+        "given": "Richard S."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1991
+        ]
+      ]
+    }
   },
   {
     "id": "husserl1983work2",
     "type": "book",
-    "note": "Edmund Husserl, Ideas Pertaining to a Pure Phenomenology and to a Pure Phenomenological Philosophy: First Book, trans. F. Kersten (Dordrecht: Kluwer Academic Publishers, 1983), \u00a7\u00a727\u201338; Antonio Damasio, The Feeling of What Happens: Body and Emotion in the Making of Consciousness (New York: Harcourt Brace & Company, 1999), 168\u2013194; Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), 89\u2013112."
+    "note": "Edmund Husserl, Ideas Pertaining to a Pure Phenomenology and to a Pure Phenomenological Philosophy: First Book, trans. F. Kersten (Dordrecht: Kluwer Academic Publishers, 1983), \u00a7\u00a727\u201338; Antonio Damasio, The Feeling of What Happens: Body and Emotion in the Making of Consciousness (New York: Harcourt Brace & Company, 1999), 168\u2013194; Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), 89\u2013112.",
+    "author": [
+      {
+        "family": "Husserl",
+        "given": "Edmund"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1983
+        ]
+      ]
+    }
   },
   {
     "id": "goodman1976work6",
     "type": "book",
-    "note": "Nelson Goodman, Languages of Art: An Approach to a Theory of Symbols, 2nd ed. (Indianapolis: Hackett Publishing, 1976), 1\u201342; Charles S. Peirce, Collected Papers of Charles Sanders Peirce, vols. 1\u20138, ed. Charles Hartshorne, Paul Weiss, and Arthur W. Burks (Cambridge, MA: Harvard University Press, 1931\u20131958), 2.227\u20132.231; John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 27\u201351."
+    "note": "Nelson Goodman, Languages of Art: An Approach to a Theory of Symbols, 2nd ed. (Indianapolis: Hackett Publishing, 1976), 1\u201342; Charles S. Peirce, Collected Papers of Charles Sanders Peirce, vols. 1\u20138, ed. Charles Hartshorne, Paul Weiss, and Arthur W. Burks (Cambridge, MA: Harvard University Press, 1931\u20131958), 2.227\u20132.231; John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 27\u201351.",
+    "author": [
+      {
+        "family": "Goodman",
+        "given": "Nelson"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1976
+        ]
+      ]
+    }
   },
   {
     "id": "searle1995constructivist4",
     "type": "book",
-    "note": "John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 51\u201371; George Herbert Mead, Mind, Self, and Society, ed. Charles W. Morris (Chicago: University of Chicago Press, 1934), 261\u2013307; Cecil (CJ) John, \"The Constructivist Semiotic Sign,\" Chapter 7 of this volume."
+    "note": "John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 51\u201371; George Herbert Mead, Mind, Self, and Society, ed. Charles W. Morris (Chicago: University of Chicago Press, 1934), 261\u2013307; Cecil (CJ) John, \"The Constructivist Semiotic Sign,\" Chapter 7 of this volume.",
+    "author": [
+      {
+        "family": "Searle",
+        "given": "John R."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1995
+        ]
+      ]
+    },
+    "title": "The Constructivist Semiotic Sign"
   },
   {
     "id": "hacking1999work6",
     "type": "book",
-    "note": "Ian Hacking, The Social Construction of What? (Cambridge, MA: Harvard University Press, 1999), 47\u201368; Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), 189\u2013220; Rosalind W. Picard, Affective Computing (Cambridge, MA: MIT Press, 1997), 55\u201389."
+    "note": "Ian Hacking, The Social Construction of What? (Cambridge, MA: Harvard University Press, 1999), 47\u201368; Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), 189\u2013220; Rosalind W. Picard, Affective Computing (Cambridge, MA: MIT Press, 1997), 55\u201389.",
+    "author": [
+      {
+        "family": "Hacking",
+        "given": "Ian"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    }
   },
   {
     "id": "goodman1976work7",
     "type": "book",
-    "note": "Nelson Goodman, Languages of Art: An Approach to a Theory of Symbols, 2nd ed. (Indianapolis: Hackett Publishing, 1976), 225\u2013241; Susanne K. Langer, Philosophy in a New Key: A Study in the Symbolism of Reason, Rite, and Art, 3rd ed. (Cambridge, MA: Harvard University Press, 1957), 27\u201357."
+    "note": "Nelson Goodman, Languages of Art: An Approach to a Theory of Symbols, 2nd ed. (Indianapolis: Hackett Publishing, 1976), 225\u2013241; Susanne K. Langer, Philosophy in a New Key: A Study in the Symbolism of Reason, Rite, and Art, 3rd ed. (Cambridge, MA: Harvard University Press, 1957), 27\u201357.",
+    "author": [
+      {
+        "family": "Goodman",
+        "given": "Nelson"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1976
+        ]
+      ]
+    }
   },
   {
     "id": "langer1957work",
     "type": "book",
-    "note": "Susanne K. Langer, Philosophy in a New Key: A Study in the Symbolism of Reason, Rite, and Art, 3rd ed. (Cambridge, MA: Harvard University Press, 1957), 27\u201357; Nelson Goodman, Languages of Art: An Approach to a Theory of Symbols, 2nd ed. (Indianapolis: Hackett Publishing, 1976), 225\u2013241."
+    "note": "Susanne K. Langer, Philosophy in a New Key: A Study in the Symbolism of Reason, Rite, and Art, 3rd ed. (Cambridge, MA: Harvard University Press, 1957), 27\u201357; Nelson Goodman, Languages of Art: An Approach to a Theory of Symbols, 2nd ed. (Indianapolis: Hackett Publishing, 1976), 225\u2013241.",
+    "author": [
+      {
+        "family": "Langer",
+        "given": "Susanne K."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1957
+        ]
+      ]
+    }
   }
 ]

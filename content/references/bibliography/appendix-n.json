@@ -2,51 +2,183 @@
   {
     "id": "colyvan2001work",
     "type": "book",
-    "note": "Mark Colyvan, The Indispensability of Mathematics (Oxford: Oxford University Press, 2001)."
+    "note": "Mark Colyvan, The Indispensability of Mathematics (Oxford: Oxford University Press, 2001).",
+    "author": [
+      {
+        "family": "Colyvan",
+        "given": "Mark"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2001
+        ]
+      ]
+    }
   },
   {
     "id": "plato1992work",
     "type": "book",
-    "note": "Plato, Republic, trans. G. M. A. Grube (Indianapolis: Hackett, 1992); Kurt G\u00f6del, \u201cWhat Is Cantor\u2019s Continuum Problem?\u201d in Philosophy of Mathematics: Selected Readings, ed. Paul Benacerraf and Hilary Putnam (Cambridge: Cambridge University Press, 1983)."
+    "note": "Plato, Republic, trans. G. M. A. Grube (Indianapolis: Hackett, 1992); Kurt G\u00f6del, \u201cWhat Is Cantor\u2019s Continuum Problem?\u201d in Philosophy of Mathematics: Selected Readings, ed. Paul Benacerraf and Hilary Putnam (Cambridge: Cambridge University Press, 1983).",
+    "author": [
+      {
+        "family": "Plato",
+        "given": "Republic"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1992
+        ]
+      ]
+    },
+    "title": "What Is Cantor\u2019s Continuum Problem?"
   },
   {
     "id": "shapiro1997work",
     "type": "book",
-    "note": "Stewart Shapiro, Philosophy of Mathematics: Structure and Ontology (Oxford: Oxford University Press, 1997)."
+    "note": "Stewart Shapiro, Philosophy of Mathematics: Structure and Ontology (Oxford: Oxford University Press, 1997).",
+    "author": [
+      {
+        "family": "Shapiro",
+        "given": "Stewart"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1997
+        ]
+      ]
+    }
   },
   {
     "id": "hilbert1967work",
     "type": "book",
-    "note": "David Hilbert, \u201cOn the Infinite,\u201d in From Frege to G\u00f6del: A Source Book in Mathematical Logic, ed. Jean van Heijenoort (Cambridge, MA: Harvard University Press, 1967); L. E. J. Brouwer, \u201cIntuitionism and Formalism,\u201d Bulletin of the American Mathematical Society 20 (1913): 81\u201396."
+    "note": "David Hilbert, \u201cOn the Infinite,\u201d in From Frege to G\u00f6del: A Source Book in Mathematical Logic, ed. Jean van Heijenoort (Cambridge, MA: Harvard University Press, 1967); L. E. J. Brouwer, \u201cIntuitionism and Formalism,\u201d Bulletin of the American Mathematical Society 20 (1913): 81\u201396.",
+    "author": [
+      {
+        "family": "Hilbert",
+        "given": "David"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1967
+        ]
+      ]
+    },
+    "title": "On the Infinite"
   },
   {
     "id": "maddy2011work",
     "type": "book",
-    "note": "Penelope Maddy, Defending the Axioms (Oxford: Oxford University Press, 2011)."
+    "note": "Penelope Maddy, Defending the Axioms (Oxford: Oxford University Press, 2011).",
+    "author": [
+      {
+        "family": "Maddy",
+        "given": "Penelope"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    }
   },
   {
     "id": "panksepp1998work",
     "type": "book",
-    "note": "Jaak Panksepp, Affective Neuroscience (Oxford: Oxford University Press, 1998)."
+    "note": "Jaak Panksepp, Affective Neuroscience (Oxford: Oxford University Press, 1998).",
+    "author": [
+      {
+        "family": "Panksepp",
+        "given": "Jaak"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1998
+        ]
+      ]
+    }
   },
   {
     "id": "barrett2017work",
     "type": "book",
-    "note": "Lisa Feldman Barrett, How Emotions Are Made (Boston: Houghton Mifflin Harcourt, 2017)."
+    "note": "Lisa Feldman Barrett, How Emotions Are Made (Boston: Houghton Mifflin Harcourt, 2017).",
+    "author": [
+      {
+        "family": "Barrett",
+        "given": "Lisa Feldman"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    }
   },
   {
     "id": "hacking1999work",
     "type": "book",
-    "note": "Ian Hacking, The Social Construction of What? (Cambridge, MA: Harvard University Press, 1999)."
+    "note": "Ian Hacking, The Social Construction of What? (Cambridge, MA: Harvard University Press, 1999).",
+    "author": [
+      {
+        "family": "Hacking",
+        "given": "Ian"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    }
   },
   {
     "id": "goodman1976work",
     "type": "book",
-    "note": "Nelson Goodman, Languages of Art (Indianapolis: Hackett, 1976)."
+    "note": "Nelson Goodman, Languages of Art (Indianapolis: Hackett, 1976).",
+    "author": [
+      {
+        "family": "Goodman",
+        "given": "Nelson"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1976
+        ]
+      ]
+    }
   },
   {
     "id": "searle1995work",
     "type": "book",
-    "note": "John Searle, The Construction of Social Reality (New York: Free Press, 1995)."
+    "note": "John Searle, The Construction of Social Reality (New York: Free Press, 1995).",
+    "author": [
+      {
+        "family": "Searle",
+        "given": "John"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1995
+        ]
+      ]
+    }
   }
 ]

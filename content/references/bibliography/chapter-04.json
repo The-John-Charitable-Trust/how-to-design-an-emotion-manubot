@@ -2,31 +2,114 @@
   {
     "id": "object2017work",
     "type": "book",
-    "note": "Object Management Group, Unified Modeling Language, Version 2.5.1, formal/17-12-05 (Milford, MA: Object Management Group, 2017), 126, https://www.omg.org/spec/UML/2.5.1/PDF. Access basis: Official open standard."
+    "note": "Object Management Group, Unified Modeling Language, Version 2.5.1, formal/17-12-05 (Milford, MA: Object Management Group, 2017), 126, https://www.omg.org/spec/UML/2.5.1/PDF. Access basis: Official open standard.",
+    "author": [
+      {
+        "family": "Group",
+        "given": "Object Management"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    }
   },
   {
     "id": "karl2010freeenergy",
     "type": "book",
-    "note": "Karl Friston, \"The Free-Energy Principle: A Unified Brain Theory?\" Nature Reviews Neuroscience 11, no. 2 (2010): 127-138, https://doi.org/10.1038/nrn2787. Access basis: DOI/publisher abstract verified."
+    "note": "Karl Friston, \"The Free-Energy Principle: A Unified Brain Theory?\" Nature Reviews Neuroscience 11, no. 2 (2010): 127-138, https://doi.org/10.1038/nrn2787. Access basis: DOI/publisher abstract verified.",
+    "author": [
+      {
+        "family": "Friston",
+        "given": "Karl"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "title": "The Free-Energy Principle: A Unified Brain Theory?"
   },
   {
     "id": "lisa2017theory",
     "type": "book",
-    "note": "Lisa Feldman Barrett, \"The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization,\" Social Cognitive and Affective Neuroscience 12, no. 1 (2017): 1-23, https://doi.org/10.1093/scan/nsw154. Access basis: PubMed Central."
+    "note": "Lisa Feldman Barrett, \"The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization,\" Social Cognitive and Affective Neuroscience 12, no. 1 (2017): 1-23, https://doi.org/10.1093/scan/nsw154. Access basis: PubMed Central.",
+    "author": [
+      {
+        "family": "Barrett",
+        "given": "Lisa Feldman"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "title": "The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization"
   },
   {
     "id": "posner1968genesis",
     "type": "book",
-    "note": "Michael I. Posner and Steven W. Keele, \"On the Genesis of Abstract Ideas,\" Journal of Experimental Psychology 77, no. 3 (1968): 353-363, https://doi.org/10.1037/h0025953. Access basis: DOI and author-uploaded full text."
+    "note": "Michael I. Posner and Steven W. Keele, \"On the Genesis of Abstract Ideas,\" Journal of Experimental Psychology 77, no. 3 (1968): 353-363, https://doi.org/10.1037/h0025953. Access basis: DOI and author-uploaded full text.",
+    "author": [
+      {
+        "family": "Posner",
+        "given": "Michael I."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1968
+        ]
+      ]
+    },
+    "title": "On the Genesis of Abstract Ideas"
   },
   {
     "id": "eric2023concepts",
     "type": "book",
-    "note": "Eric Margolis and Stephen Laurence, \"Concepts,\" in The Stanford Encyclopedia of Philosophy, Fall 2023 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/concepts/. Access basis: Open scholarly reference."
+    "note": "Eric Margolis and Stephen Laurence, \"Concepts,\" in The Stanford Encyclopedia of Philosophy, Fall 2023 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/concepts/. Access basis: Open scholarly reference.",
+    "author": [
+      {
+        "family": "Margolis",
+        "given": "Eric"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "title": "Concepts"
   },
   {
     "id": "anil2021definitions",
     "type": "book",
-    "note": "Anil Gupta, \"Definitions,\" in The Stanford Encyclopedia of Philosophy, Fall 2021 ed., ed. Edward N. Zalta, https://plato.stanford.edu/entries/definitions/. Access basis: Open scholarly reference."
+    "note": "Anil Gupta, \"Definitions,\" in The Stanford Encyclopedia of Philosophy, Fall 2021 ed., ed. Edward N. Zalta, https://plato.stanford.edu/entries/definitions/. Access basis: Open scholarly reference.",
+    "author": [
+      {
+        "family": "Gupta",
+        "given": "Anil"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "title": "Definitions"
   }
 ]

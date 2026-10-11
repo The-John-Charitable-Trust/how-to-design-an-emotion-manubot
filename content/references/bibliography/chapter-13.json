@@ -2,171 +2,585 @@
   {
     "id": "damasio1999work",
     "type": "book",
-    "note": "Antonio Damasio, The Feeling of What Happens: Body and Emotion in the Making of Consciousness (New York: Harcourt, 1999), 42\u201349; Edmund Husserl, Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy, trans. F. Kersten (Dordrecht: Kluwer, 1983), 66\u201374."
+    "note": "Antonio Damasio, The Feeling of What Happens: Body and Emotion in the Making of Consciousness (New York: Harcourt, 1999), 42\u201349; Edmund Husserl, Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy, trans. F. Kersten (Dordrecht: Kluwer, 1983), 66\u201374.",
+    "author": [
+      {
+        "family": "Damasio",
+        "given": "Antonio"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    }
   },
   {
     "id": "russell2003core",
     "type": "book",
-    "note": "James A. Russell, \u201cCore Affect and the Psychological Construction of Emotion,\u201d Psychological Review 110, no. 1 (2003): 145\u2013172; Newer source: James A. Russell, \u201cEmotion, Core Affect, and Psychological Construction,\u201d Cognition and Emotion 23, no. 7 (2009): 1259\u20131283; Jaak Panksepp, Affective Neuroscience (Oxford: Oxford University Press, 1998), 18\u201323."
+    "note": "James A. Russell, \u201cCore Affect and the Psychological Construction of Emotion,\u201d Psychological Review 110, no. 1 (2003): 145\u2013172; Newer source: James A. Russell, \u201cEmotion, Core Affect, and Psychological Construction,\u201d Cognition and Emotion 23, no. 7 (2009): 1259\u20131283; Jaak Panksepp, Affective Neuroscience (Oxford: Oxford University Press, 1998), 18\u201323.",
+    "author": [
+      {
+        "family": "Russell",
+        "given": "James A."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "title": "Core Affect and the Psychological Construction of Emotion"
   },
   {
     "id": "damasio2002how",
     "type": "book",
-    "note": "Antonio Damasio, The Feeling of What Happens, 42\u201349; A. D. Craig, \u201cHow Do You Feel? Interoception: The Sense of the Physiological Condition of the Body,\u201d Nature Reviews Neuroscience 3 (2002): 655\u2013666. Newer source: A. D. Craig, \u201cHow Do You Feel\u2014Now? The Anterior Insula and Human Awareness,\u201d Nature Reviews Neuroscience 10, no. 1 (2009): 59\u201370."
+    "note": "Antonio Damasio, The Feeling of What Happens, 42\u201349; A. D. Craig, \u201cHow Do You Feel? Interoception: The Sense of the Physiological Condition of the Body,\u201d Nature Reviews Neuroscience 3 (2002): 655\u2013666. Newer source: A. D. Craig, \u201cHow Do You Feel\u2014Now? The Anterior Insula and Human Awareness,\u201d Nature Reviews Neuroscience 10, no. 1 (2009): 59\u201370.",
+    "author": [
+      {
+        "family": "Damasio",
+        "given": "Antonio"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    },
+    "title": "How Do You Feel? Interoception: The Sense of the Physiological Condition of the Body"
   },
   {
     "id": "searle1995work",
     "type": "book",
-    "note": "John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 27\u201352; Charles S. Peirce, Collected Papers of Charles Sanders Peirce, vols. 1\u20138 (Cambridge, MA: Harvard University Press, 1931\u20131958), esp. 2.228\u20132.231."
+    "note": "John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 27\u201352; Charles S. Peirce, Collected Papers of Charles Sanders Peirce, vols. 1\u20138 (Cambridge, MA: Harvard University Press, 1931\u20131958), esp. 2.228\u20132.231.",
+    "author": [
+      {
+        "family": "Searle",
+        "given": "John R."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1995
+        ]
+      ]
+    }
   },
   {
     "id": "feldman2004work",
     "type": "book",
-    "note": "Fred Feldman, Pleasure and the Good Life: Concerning the Nature, Varieties, and Plausibility of Hedonism (Oxford: Oxford University Press, 2004), 45\u201370."
+    "note": "Fred Feldman, Pleasure and the Good Life: Concerning the Nature, Varieties, and Plausibility of Hedonism (Oxford: Oxford University Press, 2004), 45\u201370.",
+    "author": [
+      {
+        "family": "Feldman",
+        "given": "Fred"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2004
+        ]
+      ]
+    }
   },
   {
     "id": "russell0000core",
     "type": "book",
-    "note": "James A. Russell, \u201cCore Affect and the Psychological Construction of Emotion,\u201d 145\u2013172."
+    "note": "James A. Russell, \u201cCore Affect and the Psychological Construction of Emotion,\u201d 145\u2013172.",
+    "author": [
+      {
+        "family": "Russell",
+        "given": "James A."
+      }
+    ],
+    "title": "Core Affect and the Psychological Construction of Emotion"
   },
   {
     "id": "hall2002work",
     "type": "book",
-    "note": "Donald E. Hall, Musical Acoustics, 3rd ed. (Belmont, CA: Wadsworth, 2002), 73\u201396."
+    "note": "Donald E. Hall, Musical Acoustics, 3rd ed. (Belmont, CA: Wadsworth, 2002), 73\u201396.",
+    "author": [
+      {
+        "family": "Hall",
+        "given": "Donald E."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    }
   },
   {
     "id": "helmholtz1954work",
     "type": "book",
-    "note": "Hermann von Helmholtz, On the Sensations of Tone, trans. Alexander J. Ellis (New York: Dover, 1954), 19\u201335."
+    "note": "Hermann von Helmholtz, On the Sensations of Tone, trans. Alexander J. Ellis (New York: Dover, 1954), 19\u201335.",
+    "issued": {
+      "date-parts": [
+        [
+          1954
+        ]
+      ]
+    }
   },
   {
     "id": "goodman1976work",
     "type": "book",
-    "note": "Nelson Goodman, Languages of Art: An Approach to a Theory of Symbols, 2nd ed. (Indianapolis: Hackett, 1976), 104\u2013119; Susanne K. Langer, Philosophy in a New Key, 3rd ed. (Cambridge, MA: Harvard University Press, 1957), 206\u2013220."
+    "note": "Nelson Goodman, Languages of Art: An Approach to a Theory of Symbols, 2nd ed. (Indianapolis: Hackett, 1976), 104\u2013119; Susanne K. Langer, Philosophy in a New Key, 3rd ed. (Cambridge, MA: Harvard University Press, 1957), 206\u2013220.",
+    "author": [
+      {
+        "family": "Goodman",
+        "given": "Nelson"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1976
+        ]
+      ]
+    }
   },
   {
     "id": "ryle1949work",
     "type": "book",
-    "note": "Gilbert Ryle, The Concept of Mind (Chicago: University of Chicago Press, 1949), 15\u201322, 96\u2013104."
+    "note": "Gilbert Ryle, The Concept of Mind (Chicago: University of Chicago Press, 1949), 15\u201322, 96\u2013104.",
+    "author": [
+      {
+        "family": "Ryle",
+        "given": "Gilbert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1949
+        ]
+      ]
+    }
   },
   {
     "id": "goodman1976work2",
     "type": "book",
-    "note": "Nelson Goodman, Languages of Art: An Approach to a Theory of Symbols, 2nd ed. (Indianapolis: Hackett Publishing, 1976), 104\u2013119; Hermann L. F. von Helmholtz, On the Sensations of Tone as a Physiological Basis for the Theory of Music, trans. Alexander J. Ellis (New York: Dover Publications, 1954), 19\u201335."
+    "note": "Nelson Goodman, Languages of Art: An Approach to a Theory of Symbols, 2nd ed. (Indianapolis: Hackett Publishing, 1976), 104\u2013119; Hermann L. F. von Helmholtz, On the Sensations of Tone as a Physiological Basis for the Theory of Music, trans. Alexander J. Ellis (New York: Dover Publications, 1954), 19\u201335.",
+    "author": [
+      {
+        "family": "Goodman",
+        "given": "Nelson"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1976
+        ]
+      ]
+    }
   },
   {
     "id": "damasio1999how",
     "type": "book",
-    "note": "Antonio R. Damasio, The Feeling of What Happens: Body and Emotion in the Making of Consciousness (New York: Harcourt Brace, 1999), 42\u201349; A. D. Craig, \u201cHow Do You Feel? Interoception: The Sense of the Physiological Condition of the Body,\u201d Nature Reviews Neuroscience 3, no. 8 (2002): 655\u2013666."
+    "note": "Antonio R. Damasio, The Feeling of What Happens: Body and Emotion in the Making of Consciousness (New York: Harcourt Brace, 1999), 42\u201349; A. D. Craig, \u201cHow Do You Feel? Interoception: The Sense of the Physiological Condition of the Body,\u201d Nature Reviews Neuroscience 3, no. 8 (2002): 655\u2013666.",
+    "author": [
+      {
+        "family": "Damasio",
+        "given": "Antonio R."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    },
+    "title": "How Do You Feel? Interoception: The Sense of the Physiological Condition of the Body"
   },
   {
     "id": "nagel1974what",
     "type": "book",
-    "note": "Thomas Nagel, \u201cWhat Is It Like to Be a Bat?\u201d The Philosophical Review 83, no. 4 (1974): 435\u2013450."
+    "note": "Thomas Nagel, \u201cWhat Is It Like to Be a Bat?\u201d The Philosophical Review 83, no. 4 (1974): 435\u2013450.",
+    "author": [
+      {
+        "family": "Nagel",
+        "given": "Thomas"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1974
+        ]
+      ]
+    },
+    "title": "What Is It Like to Be a Bat?"
   },
   {
     "id": "searle1995work2",
     "type": "book",
-    "note": "John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 115\u2013122; Jerome Bruner, Acts of Meaning (Cambridge, MA: Harvard University Press, 1990), 56\u201373."
+    "note": "John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 115\u2013122; Jerome Bruner, Acts of Meaning (Cambridge, MA: Harvard University Press, 1990), 56\u201373.",
+    "author": [
+      {
+        "family": "Searle",
+        "given": "John R."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1995
+        ]
+      ]
+    }
   },
   {
     "id": "ekman1992argument",
     "type": "book",
-    "note": "Paul Ekman, \u201cAn Argument for Basic Emotions,\u201d Cognition & Emotion 6, nos. 3\u20134 (1992): 169\u2013200; Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), 127\u2013146."
+    "note": "Paul Ekman, \u201cAn Argument for Basic Emotions,\u201d Cognition & Emotion 6, nos. 3\u20134 (1992): 169\u2013200; Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), 127\u2013146.",
+    "author": [
+      {
+        "family": "Ekman",
+        "given": "Paul"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1992
+        ]
+      ]
+    },
+    "title": "An Argument for Basic Emotions"
   },
   {
     "id": "wang2003industrialstrength",
     "type": "book",
-    "note": "Avery Li-Chun Wang, \u201cAn Industrial-Strength Audio Search Algorithm,\u201d in Proceedings of the 4th International Conference on Music Information Retrieval (ISMIR 2003) (Baltimore, MD, 2003), 7\u201313."
+    "note": "Avery Li-Chun Wang, \u201cAn Industrial-Strength Audio Search Algorithm,\u201d in Proceedings of the 4th International Conference on Music Information Retrieval (ISMIR 2003) (Baltimore, MD, 2003), 7\u201313.",
+    "author": [
+      {
+        "family": "Li-Chun",
+        "given": "Avery"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "title": "An Industrial-Strength Audio Search Algorithm"
   },
   {
     "id": "barrett0000work",
     "type": "book",
-    "note": "Lisa Feldman Barrett, How Emotions Are Made, 29\u201334, 89\u2013135, 274\u2013282."
+    "note": "Lisa Feldman Barrett, How Emotions Are Made, 29\u201334, 89\u2013135, 274\u2013282.",
+    "author": [
+      {
+        "family": "Barrett",
+        "given": "Lisa Feldman"
+      }
+    ]
   },
   {
     "id": "ryle0000work",
     "type": "book",
-    "note": "Gilbert Ryle, The Concept of Mind, 15\u201322."
+    "note": "Gilbert Ryle, The Concept of Mind, 15\u201322.",
+    "author": [
+      {
+        "family": "Ryle",
+        "given": "Gilbert"
+      }
+    ]
   },
   {
     "id": "watson1913psychology",
     "type": "book",
-    "note": "John B. Watson, \u201cPsychology as the Behaviorist Views It,\u201d Psychological Review 20, no. 2 (1913): 158\u2013177."
+    "note": "John B. Watson, \u201cPsychology as the Behaviorist Views It,\u201d Psychological Review 20, no. 2 (1913): 158\u2013177.",
+    "author": [
+      {
+        "family": "Watson",
+        "given": "John B."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1913
+        ]
+      ]
+    },
+    "title": "Psychology as the Behaviorist Views It"
   },
   {
     "id": "nussbaum2001work",
     "type": "book",
-    "note": "Martha C. Nussbaum, Upheavals of Thought: The Intelligence of Emotions (Cambridge: Cambridge University Press, 2001), 19\u201388."
+    "note": "Martha C. Nussbaum, Upheavals of Thought: The Intelligence of Emotions (Cambridge: Cambridge University Press, 2001), 19\u201388.",
+    "author": [
+      {
+        "family": "Nussbaum",
+        "given": "Martha C."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2001
+        ]
+      ]
+    }
   },
   {
     "id": "ekman1992argument2",
     "type": "book",
-    "note": "Paul Ekman, \u201cAn Argument for Basic Emotions,\u201d Cognition & Emotion 6, nos. 3\u20134 (1992): 169\u2013200."
+    "note": "Paul Ekman, \u201cAn Argument for Basic Emotions,\u201d Cognition & Emotion 6, nos. 3\u20134 (1992): 169\u2013200.",
+    "author": [
+      {
+        "family": "Ekman",
+        "given": "Paul"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1992
+        ]
+      ]
+    },
+    "title": "An Argument for Basic Emotions"
   },
   {
     "id": "panksepp1998work",
     "type": "book",
-    "note": "Jaak Panksepp, Affective Neuroscience: The Foundations of Human and Animal Emotions (Oxford: Oxford University Press, 1998), 18\u201339, 309\u2013315."
+    "note": "Jaak Panksepp, Affective Neuroscience: The Foundations of Human and Animal Emotions (Oxford: Oxford University Press, 1998), 18\u201339, 309\u2013315.",
+    "author": [
+      {
+        "family": "Panksepp",
+        "given": "Jaak"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1998
+        ]
+      ]
+    }
   },
   {
     "id": "barrett0000work2",
     "type": "book",
-    "note": "Lisa Feldman Barrett, How Emotions Are Made, 29\u201334, 127\u2013146."
+    "note": "Lisa Feldman Barrett, How Emotions Are Made, 29\u201334, 127\u2013146.",
+    "author": [
+      {
+        "family": "Barrett",
+        "given": "Lisa Feldman"
+      }
+    ]
   },
   {
     "id": "goodman1976emotional",
     "type": "book",
-    "note": "Nelson Goodman, Languages of Art: An Approach to a Theory of Symbols, 2nd ed. (Indianapolis: Hackett Publishing, 1976), 127\u2013151; Leonard B. Meyer, Emotion and Meaning in Music (Chicago: University of Chicago Press, 1956), 39\u201356; Newer source: Patrik N. Juslin and Daniel V\u00e4stfj\u00e4ll, \u201cEmotional Responses to Music: The Need to Consider Underlying Mechanisms,\u201d Behavioral and Brain Sciences 31, no. 5 (2008): 559\u2013575."
+    "note": "Nelson Goodman, Languages of Art: An Approach to a Theory of Symbols, 2nd ed. (Indianapolis: Hackett Publishing, 1976), 127\u2013151; Leonard B. Meyer, Emotion and Meaning in Music (Chicago: University of Chicago Press, 1956), 39\u201356; Newer source: Patrik N. Juslin and Daniel V\u00e4stfj\u00e4ll, \u201cEmotional Responses to Music: The Need to Consider Underlying Mechanisms,\u201d Behavioral and Brain Sciences 31, no. 5 (2008): 559\u2013575.",
+    "author": [
+      {
+        "family": "Goodman",
+        "given": "Nelson"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1976
+        ]
+      ]
+    },
+    "title": "Emotional Responses to Music: The Need to Consider Underlying Mechanisms"
   },
   {
     "id": "wittgenstein2009principles",
     "type": "book",
-    "note": "Ludwig Wittgenstein, Philosophical Investigations, 4th ed., trans. G. E. M. Anscombe, P. M. S. Hacker, and Joachim Schulte (Malden, MA: Wiley-Blackwell, 2009), \u00a7\u00a765\u201371; Eleanor Rosch, \u201cPrinciples of Categorization,\u201d in Cognition and Categorization, ed. Eleanor Rosch and Barbara B. Lloyd (Hillsdale, NJ: Lawrence Erlbaum Associates, 1978), 27\u201348."
+    "note": "Ludwig Wittgenstein, Philosophical Investigations, 4th ed., trans. G. E. M. Anscombe, P. M. S. Hacker, and Joachim Schulte (Malden, MA: Wiley-Blackwell, 2009), \u00a7\u00a765\u201371; Eleanor Rosch, \u201cPrinciples of Categorization,\u201d in Cognition and Categorization, ed. Eleanor Rosch and Barbara B. Lloyd (Hillsdale, NJ: Lawrence Erlbaum Associates, 1978), 27\u201348.",
+    "author": [
+      {
+        "family": "Wittgenstein",
+        "given": "Ludwig"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "title": "Principles of Categorization"
   },
   {
     "id": "barrett2017work",
     "type": "book",
-    "note": "Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), 29\u201334, 127\u2013146, 274\u2013282."
+    "note": "Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), 29\u201334, 127\u2013146, 274\u2013282.",
+    "author": [
+      {
+        "family": "Barrett",
+        "given": "Lisa Feldman"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    }
   },
   {
     "id": "hacking1999work",
     "type": "book",
-    "note": "Ian Hacking, The Social Construction of What? (Cambridge, MA: Harvard University Press, 1999), 99\u2013124; Nelson Goodman, Languages of Art, 127\u2013151."
+    "note": "Ian Hacking, The Social Construction of What? (Cambridge, MA: Harvard University Press, 1999), 99\u2013124; Nelson Goodman, Languages of Art, 127\u2013151.",
+    "author": [
+      {
+        "family": "Hacking",
+        "given": "Ian"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    }
   },
   {
     "id": "hacking1995work",
     "type": "book",
-    "note": "Ian Hacking, The Social Construction of What?, 99\u2013124; John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 115\u2013122."
+    "note": "Ian Hacking, The Social Construction of What?, 99\u2013124; John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 115\u2013122.",
+    "author": [
+      {
+        "family": "Hacking",
+        "given": "Ian"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1995
+        ]
+      ]
+    }
   },
   {
     "id": "wittgenstein0000work",
     "type": "book",
-    "note": "Ludwig Wittgenstein, Philosophical Investigations, \u00a7\u00a743, 65\u201371; Nelson Goodman, Languages of Art, 225\u2013241."
+    "note": "Ludwig Wittgenstein, Philosophical Investigations, \u00a7\u00a743, 65\u201371; Nelson Goodman, Languages of Art, 225\u2013241.",
+    "author": [
+      {
+        "family": "Wittgenstein",
+        "given": "Ludwig"
+      }
+    ]
   },
   {
     "id": "friston2010freeenergy",
     "type": "book",
-    "note": "Karl Friston, \u201cThe Free-Energy Principle: A Unified Brain Theory?\u201d Nature Reviews Neuroscience 11, no. 2 (2010): 127\u2013138; Newer source: Karl Friston, Thomas FitzGerald, Francesco Rigoli, Philipp Schwartenbeck, and Giovanni Pezzulo, \u201cActive Inference: A Process Theory,\u201d Neural Computation 29, no. 1 (2017): 1\u201349; Lisa Feldman Barrett, How Emotions Are Made, 274\u2013282."
+    "note": "Karl Friston, \u201cThe Free-Energy Principle: A Unified Brain Theory?\u201d Nature Reviews Neuroscience 11, no. 2 (2010): 127\u2013138; Newer source: Karl Friston, Thomas FitzGerald, Francesco Rigoli, Philipp Schwartenbeck, and Giovanni Pezzulo, \u201cActive Inference: A Process Theory,\u201d Neural Computation 29, no. 1 (2017): 1\u201349; Lisa Feldman Barrett, How Emotions Are Made, 274\u2013282.",
+    "author": [
+      {
+        "family": "Friston",
+        "given": "Karl"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "title": "The Free-Energy Principle: A Unified Brain Theory?"
   },
   {
     "id": "feldman2004work2",
     "type": "book",
-    "note": "Fred Feldman, Pleasure and the Good Life: Concerning the Nature, Varieties, and Plausibility of Hedonism (Oxford: Oxford University Press, 2004), 45\u201370; Nelson Goodman, Languages of Art: An Approach to a Theory of Symbols, 2nd ed. (Indianapolis: Hackett Publishing, 1976), 104\u2013119."
+    "note": "Fred Feldman, Pleasure and the Good Life: Concerning the Nature, Varieties, and Plausibility of Hedonism (Oxford: Oxford University Press, 2004), 45\u201370; Nelson Goodman, Languages of Art: An Approach to a Theory of Symbols, 2nd ed. (Indianapolis: Hackett Publishing, 1976), 104\u2013119.",
+    "author": [
+      {
+        "family": "Feldman",
+        "given": "Fred"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2004
+        ]
+      ]
+    }
   },
   {
     "id": "damasio1999how2",
     "type": "book",
-    "note": "Antonio R. Damasio, The Feeling of What Happens: Body and Emotion in the Making of Consciousness (New York: Harcourt Brace, 1999), 42\u201349; A. D. Craig, \u201cHow Do You Feel? Interoception: The Sense of the Physiological Condition of the Body,\u201d Nature Reviews Neuroscience 3, no. 8 (2002): 655\u2013666; Gilbert Ryle, The Concept of Mind (Chicago: University of Chicago Press, 1949), 15\u201322."
+    "note": "Antonio R. Damasio, The Feeling of What Happens: Body and Emotion in the Making of Consciousness (New York: Harcourt Brace, 1999), 42\u201349; A. D. Craig, \u201cHow Do You Feel? Interoception: The Sense of the Physiological Condition of the Body,\u201d Nature Reviews Neuroscience 3, no. 8 (2002): 655\u2013666; Gilbert Ryle, The Concept of Mind (Chicago: University of Chicago Press, 1949), 15\u201322.",
+    "author": [
+      {
+        "family": "Damasio",
+        "given": "Antonio R."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    },
+    "title": "How Do You Feel? Interoception: The Sense of the Physiological Condition of the Body"
   },
   {
     "id": "wittgenstein2009work",
     "type": "book",
-    "note": "Ludwig Wittgenstein, Philosophical Investigations, 4th ed., trans. G. E. M. Anscombe, P. M. S. Hacker, and Joachim Schulte (Malden, MA: Wiley-Blackwell, 2009), \u00a7\u00a765\u201371; Nelson Goodman, Languages of Art, 127\u2013151; Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), 274\u2013282."
+    "note": "Ludwig Wittgenstein, Philosophical Investigations, 4th ed., trans. G. E. M. Anscombe, P. M. S. Hacker, and Joachim Schulte (Malden, MA: Wiley-Blackwell, 2009), \u00a7\u00a765\u201371; Nelson Goodman, Languages of Art, 127\u2013151; Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), 274\u2013282.",
+    "author": [
+      {
+        "family": "Wittgenstein",
+        "given": "Ludwig"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    }
   },
   {
     "id": "goodman1957work",
     "type": "book",
-    "note": "Nelson Goodman, Languages of Art, 225\u2013241; Susanne K. Langer, Philosophy in a New Key, 3rd ed. (Cambridge, MA: Harvard University Press, 1957), 206\u2013220."
+    "note": "Nelson Goodman, Languages of Art, 225\u2013241; Susanne K. Langer, Philosophy in a New Key, 3rd ed. (Cambridge, MA: Harvard University Press, 1957), 206\u2013220.",
+    "author": [
+      {
+        "family": "Goodman",
+        "given": "Nelson"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1957
+        ]
+      ]
+    }
   }
 ]

@@ -2,101 +2,369 @@
   {
     "id": "popper2002work",
     "type": "book",
-    "note": "Karl R. Popper, The Logic of Scientific Discovery (London: Routledge, 2002), 18\u201339; Carl G. Hempel, Philosophy of Natural Science (Englewood Cliffs, NJ: Prentice-Hall, 1966), 15\u201337; Imre Lakatos, The Methodology of Scientific Research Programmes, ed. John Worrall and Gregory Currie (Cambridge: Cambridge University Press, 1978), 132\u201338, 175\u201378; Susan Haack, Evidence and Inquiry: Towards Reconstruction in Epistemology (Oxford: Blackwell, 1993), 89\u2013112."
+    "note": "Karl R. Popper, The Logic of Scientific Discovery (London: Routledge, 2002), 18\u201339; Carl G. Hempel, Philosophy of Natural Science (Englewood Cliffs, NJ: Prentice-Hall, 1966), 15\u201337; Imre Lakatos, The Methodology of Scientific Research Programmes, ed. John Worrall and Gregory Currie (Cambridge: Cambridge University Press, 1978), 132\u201338, 175\u201378; Susan Haack, Evidence and Inquiry: Towards Reconstruction in Epistemology (Oxford: Blackwell, 1993), 89\u2013112.",
+    "author": [
+      {
+        "family": "Popper",
+        "given": "Karl R."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    }
   },
   {
     "id": "lakatos1978work",
     "type": "book",
-    "note": "Imre Lakatos, The Methodology of Scientific Research Programmes, ed. John Worrall and Gregory Currie (Cambridge: Cambridge University Press, 1978), 132\u201338, 175\u201378; Susan Haack, Evidence and Inquiry: Towards Reconstruction in Epistemology (Oxford: Blackwell, 1993), 109\u201327; David Marr, Vision: A Computational Investigation into the Human Representation and Processing of Visual Information (San Francisco: W. H. Freeman, 1982), 19\u201327."
+    "note": "Imre Lakatos, The Methodology of Scientific Research Programmes, ed. John Worrall and Gregory Currie (Cambridge: Cambridge University Press, 1978), 132\u201338, 175\u201378; Susan Haack, Evidence and Inquiry: Towards Reconstruction in Epistemology (Oxford: Blackwell, 1993), 109\u201327; David Marr, Vision: A Computational Investigation into the Human Representation and Processing of Visual Information (San Francisco: W. H. Freeman, 1982), 19\u201327.",
+    "author": [
+      {
+        "family": "Lakatos",
+        "given": "Imre"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1978
+        ]
+      ]
+    }
   },
   {
     "id": "aristotle1994work",
     "type": "book",
-    "note": "Aristotle, Posterior Analytics, trans. Jonathan Barnes (Oxford: Oxford University Press, 1994), I.2\u2013I.4; Gottlob Frege, \u201cOn Sense and Reference,\u201d in Translations from the Philosophical Writings of Gottlob Frege, ed. Peter Geach and Max Black (Oxford: Blackwell, 1952), 56\u201378; Rudolf Carnap, Meaning and Necessity: A Study in Semantics and Modal Logic, 2nd ed. (Chicago: University of Chicago Press, 1956), 3\u201328; Saul A. Kripke, Naming and Necessity (Cambridge, MA: Harvard University Press, 1980), 48\u201355."
+    "note": "Aristotle, Posterior Analytics, trans. Jonathan Barnes (Oxford: Oxford University Press, 1994), I.2\u2013I.4; Gottlob Frege, \u201cOn Sense and Reference,\u201d in Translations from the Philosophical Writings of Gottlob Frege, ed. Peter Geach and Max Black (Oxford: Blackwell, 1952), 56\u201378; Rudolf Carnap, Meaning and Necessity: A Study in Semantics and Modal Logic, 2nd ed. (Chicago: University of Chicago Press, 1956), 3\u201328; Saul A. Kripke, Naming and Necessity (Cambridge, MA: Harvard University Press, 1980), 48\u201355.",
+    "author": [
+      {
+        "family": "Aristotle",
+        "given": "Posterior"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1994
+        ]
+      ]
+    },
+    "title": "On Sense and Reference"
   },
   {
     "id": "aristotle1994work2",
     "type": "book",
-    "note": "Aristotle, Posterior Analytics, trans. Jonathan Barnes (Oxford: Oxford University Press, 1994), I.2\u2013I.4; Rudolf Carnap, Meaning and Necessity: A Study in Semantics and Modal Logic, 2nd ed. (Chicago: University of Chicago Press, 1956), 3\u201328; Gottlob Frege, \u201cOn Sense and Reference,\u201d in Translations from the Philosophical Writings of Gottlob Frege, ed. Peter Geach and Max Black (Oxford: Blackwell, 1952), 56\u201378; Saul A. Kripke, Naming and Necessity (Cambridge, MA: Harvard University Press, 1980), 48\u201355."
+    "note": "Aristotle, Posterior Analytics, trans. Jonathan Barnes (Oxford: Oxford University Press, 1994), I.2\u2013I.4; Rudolf Carnap, Meaning and Necessity: A Study in Semantics and Modal Logic, 2nd ed. (Chicago: University of Chicago Press, 1956), 3\u201328; Gottlob Frege, \u201cOn Sense and Reference,\u201d in Translations from the Philosophical Writings of Gottlob Frege, ed. Peter Geach and Max Black (Oxford: Blackwell, 1952), 56\u201378; Saul A. Kripke, Naming and Necessity (Cambridge, MA: Harvard University Press, 1980), 48\u201355.",
+    "author": [
+      {
+        "family": "Aristotle",
+        "given": "Posterior"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1994
+        ]
+      ]
+    },
+    "title": "On Sense and Reference"
   },
   {
     "id": "carnap1956work",
     "type": "book",
-    "note": "Rudolf Carnap, Meaning and Necessity: A Study in Semantics and Modal Logic, 2nd ed. (Chicago: University of Chicago Press, 1956), 3\u201328; Patrick Suppes, Introduction to Logic (New York: Dover, 1999), 6\u20139; Ayn Rand, Introduction to Objectivist Epistemology, 2nd ed. (New York: Meridian, 1990), 42\u201347."
+    "note": "Rudolf Carnap, Meaning and Necessity: A Study in Semantics and Modal Logic, 2nd ed. (Chicago: University of Chicago Press, 1956), 3\u201328; Patrick Suppes, Introduction to Logic (New York: Dover, 1999), 6\u20139; Ayn Rand, Introduction to Objectivist Epistemology, 2nd ed. (New York: Meridian, 1990), 42\u201347.",
+    "author": [
+      {
+        "family": "Carnap",
+        "given": "Rudolf"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1956
+        ]
+      ]
+    }
   },
   {
     "id": "haack1993work",
     "type": "book",
-    "note": "Susan Haack, Evidence and Inquiry: Towards Reconstruction in Epistemology (Oxford: Blackwell, 1993), 197\u2013201; Ludwig Wittgenstein, Philosophical Investigations, trans. G. E. M. Anscombe (Oxford: Blackwell, 1953), \u00a7\u00a743\u201347; Patrick Suppes, Introduction to Logic (New York: Dover, 1999), 6\u20139."
+    "note": "Susan Haack, Evidence and Inquiry: Towards Reconstruction in Epistemology (Oxford: Blackwell, 1993), 197\u2013201; Ludwig Wittgenstein, Philosophical Investigations, trans. G. E. M. Anscombe (Oxford: Blackwell, 1953), \u00a7\u00a743\u201347; Patrick Suppes, Introduction to Logic (New York: Dover, 1999), 6\u20139.",
+    "author": [
+      {
+        "family": "Haack",
+        "given": "Susan"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1993
+        ]
+      ]
+    }
   },
   {
     "id": "kripke1980work",
     "type": "book",
-    "note": "Saul A. Kripke, Naming and Necessity (Cambridge, MA: Harvard University Press, 1980), 91\u201397; W. V. O. Quine, Word and Object (Cambridge, MA: MIT Press, 1960), 20\u201327; Rudolf Carnap, Meaning and Necessity: A Study in Semantics and Modal Logic, 2nd ed. (Chicago: University of Chicago Press, 1956), 7\u201312."
+    "note": "Saul A. Kripke, Naming and Necessity (Cambridge, MA: Harvard University Press, 1980), 91\u201397; W. V. O. Quine, Word and Object (Cambridge, MA: MIT Press, 1960), 20\u201327; Rudolf Carnap, Meaning and Necessity: A Study in Semantics and Modal Logic, 2nd ed. (Chicago: University of Chicago Press, 1956), 7\u201312.",
+    "author": [
+      {
+        "family": "Kripke",
+        "given": "Saul A."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1980
+        ]
+      ]
+    }
   },
   {
     "id": "tarski1944work",
     "type": "book",
-    "note": "Alfred Tarski, \u201cThe Semantic Conception of Truth and the Foundations of Semantics,\u201d Philosophy and Phenomenological Research 4, no. 3 (1944): 341\u2013376; Patrick Suppes, Introduction to Logic (New York: Dover, 1999); Rudolf Carnap, Logical Foundations of Probability (Chicago: University of Chicago Press, 1950); Susan Haack, Evidence and Inquiry: Towards Reconstruction in Epistemology (Oxford: Blackwell, 1993), 109\u201327."
+    "note": "Alfred Tarski, \u201cThe Semantic Conception of Truth and the Foundations of Semantics,\u201d Philosophy and Phenomenological Research 4, no. 3 (1944): 341\u2013376; Patrick Suppes, Introduction to Logic (New York: Dover, 1999); Rudolf Carnap, Logical Foundations of Probability (Chicago: University of Chicago Press, 1950); Susan Haack, Evidence and Inquiry: Towards Reconstruction in Epistemology (Oxford: Blackwell, 1993), 109\u201327.",
+    "author": [
+      {
+        "family": "Tarski",
+        "given": "Alfred"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1944
+        ]
+      ]
+    },
+    "title": "The Semantic Conception of Truth and the Foundations of Semantics"
   },
   {
     "id": "tarski1944work2",
     "type": "book",
-    "note": "Alfred Tarski, \u201cThe Semantic Conception of Truth and the Foundations of Semantics,\u201d Philosophy and Phenomenological Research 4, no. 3 (1944): 341\u2013376; Rudolf Carnap, Logical Foundations of Probability (Chicago: University of Chicago Press, 1950); Patrick Suppes, Introduction to Logic (New York: Dover, 1999)."
+    "note": "Alfred Tarski, \u201cThe Semantic Conception of Truth and the Foundations of Semantics,\u201d Philosophy and Phenomenological Research 4, no. 3 (1944): 341\u2013376; Rudolf Carnap, Logical Foundations of Probability (Chicago: University of Chicago Press, 1950); Patrick Suppes, Introduction to Logic (New York: Dover, 1999).",
+    "author": [
+      {
+        "family": "Tarski",
+        "given": "Alfred"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1944
+        ]
+      ]
+    },
+    "title": "The Semantic Conception of Truth and the Foundations of Semantics"
   },
   {
     "id": "suppes1999work",
     "type": "book",
-    "note": "Patrick Suppes, Introduction to Logic (New York: Dover, 1999); Alfred Tarski, \u201cThe Semantic Conception of Truth and the Foundations of Semantics,\u201d Philosophy and Phenomenological Research 4, no. 3 (1944): 341\u2013376; Susan Haack, Evidence and Inquiry: Towards Reconstruction in Epistemology (Oxford: Blackwell, 1993), 109\u201327."
+    "note": "Patrick Suppes, Introduction to Logic (New York: Dover, 1999); Alfred Tarski, \u201cThe Semantic Conception of Truth and the Foundations of Semantics,\u201d Philosophy and Phenomenological Research 4, no. 3 (1944): 341\u2013376; Susan Haack, Evidence and Inquiry: Towards Reconstruction in Epistemology (Oxford: Blackwell, 1993), 109\u201327.",
+    "author": [
+      {
+        "family": "Suppes",
+        "given": "Patrick"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    },
+    "title": "The Semantic Conception of Truth and the Foundations of Semantics"
   },
   {
     "id": "haack1993work2",
     "type": "book",
-    "note": "Susan Haack, Evidence and Inquiry: Towards Reconstruction in Epistemology (Oxford: Blackwell, 1993), 109\u201327; Rudolf Carnap, Logical Foundations of Probability (Chicago: University of Chicago Press, 1950); W. V. O. Quine, \u201cTwo Dogmas of Empiricism,\u201d Philosophical Review 60, no. 1 (1951): 20\u201343."
+    "note": "Susan Haack, Evidence and Inquiry: Towards Reconstruction in Epistemology (Oxford: Blackwell, 1993), 109\u201327; Rudolf Carnap, Logical Foundations of Probability (Chicago: University of Chicago Press, 1950); W. V. O. Quine, \u201cTwo Dogmas of Empiricism,\u201d Philosophical Review 60, no. 1 (1951): 20\u201343.",
+    "author": [
+      {
+        "family": "Haack",
+        "given": "Susan"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1993
+        ]
+      ]
+    },
+    "title": "Two Dogmas of Empiricism"
   },
   {
     "id": "peirce1934work",
     "type": "book",
-    "note": "Charles Sanders Peirce, Collected Papers of Charles Sanders Peirce, vol. 5 (Cambridge, MA: Harvard University Press, 1934), \u00a7\u00a75.473\u20135.491; Donald Davidson, \u201cActions, Reasons, and Causes,\u201d Journal of Philosophy 60, no. 23 (1963): 685\u2013700; Robert B. Brandom, Articulating Reasons: An Introduction to Inferentialism (Cambridge, MA: Harvard University Press, 2000), 50\u201358, 162\u201368; John R. Searle, Intentionality: An Essay in the Philosophy of Mind (Cambridge: Cambridge University Press, 1983), 28\u201336."
+    "note": "Charles Sanders Peirce, Collected Papers of Charles Sanders Peirce, vol. 5 (Cambridge, MA: Harvard University Press, 1934), \u00a7\u00a75.473\u20135.491; Donald Davidson, \u201cActions, Reasons, and Causes,\u201d Journal of Philosophy 60, no. 23 (1963): 685\u2013700; Robert B. Brandom, Articulating Reasons: An Introduction to Inferentialism (Cambridge, MA: Harvard University Press, 2000), 50\u201358, 162\u201368; John R. Searle, Intentionality: An Essay in the Philosophy of Mind (Cambridge: Cambridge University Press, 1983), 28\u201336.",
+    "author": [
+      {
+        "family": "Peirce",
+        "given": "Charles Sanders"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1934
+        ]
+      ]
+    },
+    "title": "Actions, Reasons, and Causes"
   },
   {
     "id": "peirce1934work2",
     "type": "book",
-    "note": "Charles Sanders Peirce, Collected Papers of Charles Sanders Peirce, vol. 5 (Cambridge, MA: Harvard University Press, 1934), \u00a7\u00a75.473\u20135.491; Umberto Eco, A Theory of Semiotics (Bloomington: Indiana University Press, 1976), 16\u201321, 48\u201352; Robert B. Brandom, Articulating Reasons: An Introduction to Inferentialism (Cambridge, MA: Harvard University Press, 2000), 50\u201358, 162\u201368."
+    "note": "Charles Sanders Peirce, Collected Papers of Charles Sanders Peirce, vol. 5 (Cambridge, MA: Harvard University Press, 1934), \u00a7\u00a75.473\u20135.491; Umberto Eco, A Theory of Semiotics (Bloomington: Indiana University Press, 1976), 16\u201321, 48\u201352; Robert B. Brandom, Articulating Reasons: An Introduction to Inferentialism (Cambridge, MA: Harvard University Press, 2000), 50\u201358, 162\u201368.",
+    "author": [
+      {
+        "family": "Peirce",
+        "given": "Charles Sanders"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1934
+        ]
+      ]
+    }
   },
   {
     "id": "peirce1934work3",
     "type": "book",
-    "note": "Charles Sanders Peirce, Collected Papers of Charles Sanders Peirce, vol. 5 (Cambridge, MA: Harvard University Press, 1934), \u00a7\u00a75.473\u20135.491; Donald Davidson, \u201cActions, Reasons, and Causes,\u201d Journal of Philosophy 60, no. 23 (1963): 685\u2013700; John R. Searle, Intentionality: An Essay in the Philosophy of Mind (Cambridge: Cambridge University Press, 1983), 28\u201336; Robert B. Brandom, Making It Explicit: Reasoning, Representing, and Discursive Commitment (Cambridge, MA: Harvard University Press, 1994), 131\u2013156."
+    "note": "Charles Sanders Peirce, Collected Papers of Charles Sanders Peirce, vol. 5 (Cambridge, MA: Harvard University Press, 1934), \u00a7\u00a75.473\u20135.491; Donald Davidson, \u201cActions, Reasons, and Causes,\u201d Journal of Philosophy 60, no. 23 (1963): 685\u2013700; John R. Searle, Intentionality: An Essay in the Philosophy of Mind (Cambridge: Cambridge University Press, 1983), 28\u201336; Robert B. Brandom, Making It Explicit: Reasoning, Representing, and Discursive Commitment (Cambridge, MA: Harvard University Press, 1994), 131\u2013156.",
+    "author": [
+      {
+        "family": "Peirce",
+        "given": "Charles Sanders"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1934
+        ]
+      ]
+    },
+    "title": "Actions, Reasons, and Causes"
   },
   {
     "id": "brandom2000work",
     "type": "book",
-    "note": "Robert B. Brandom, Articulating Reasons: An Introduction to Inferentialism (Cambridge, MA: Harvard University Press, 2000), 162\u201368; Harry G. Frankfurt, The Importance of What We Care About: Philosophical Essays (Cambridge: Cambridge University Press, 1988), 11\u201320; John R. Searle, Intentionality: An Essay in the Philosophy of Mind (Cambridge: Cambridge University Press, 1983), 28\u201336."
+    "note": "Robert B. Brandom, Articulating Reasons: An Introduction to Inferentialism (Cambridge, MA: Harvard University Press, 2000), 162\u201368; Harry G. Frankfurt, The Importance of What We Care About: Philosophical Essays (Cambridge: Cambridge University Press, 1988), 11\u201320; John R. Searle, Intentionality: An Essay in the Philosophy of Mind (Cambridge: Cambridge University Press, 1983), 28\u201336.",
+    "author": [
+      {
+        "family": "Brandom",
+        "given": "Robert B."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    }
   },
   {
     "id": "marr1982work",
     "type": "book",
-    "note": "David Marr, Vision: A Computational Investigation into the Human Representation and Processing of Visual Information (San Francisco: W. H. Freeman, 1982), 19\u201327; Grady Booch, James Rumbaugh, and Ivar Jacobson, The Unified Modeling Language User Guide, 2nd ed. (Boston: Addison-Wesley, 2005); Martin Fowler, UML Distilled: A Brief Guide to the Standard Object Modeling Language, 3rd ed. (Boston: Addison-Wesley, 2004); Luciano Floridi, The Philosophy of Information (Oxford: Oxford University Press, 2011)."
+    "note": "David Marr, Vision: A Computational Investigation into the Human Representation and Processing of Visual Information (San Francisco: W. H. Freeman, 1982), 19\u201327; Grady Booch, James Rumbaugh, and Ivar Jacobson, The Unified Modeling Language User Guide, 2nd ed. (Boston: Addison-Wesley, 2005); Martin Fowler, UML Distilled: A Brief Guide to the Standard Object Modeling Language, 3rd ed. (Boston: Addison-Wesley, 2004); Luciano Floridi, The Philosophy of Information (Oxford: Oxford University Press, 2011).",
+    "author": [
+      {
+        "family": "Marr",
+        "given": "David"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1982
+        ]
+      ]
+    }
   },
   {
     "id": "marr1982work2",
     "type": "book",
-    "note": "David Marr, Vision: A Computational Investigation into the Human Representation and Processing of Visual Information (San Francisco: W. H. Freeman, 1982), 19\u201327; Luciano Floridi, The Philosophy of Information (Oxford: Oxford University Press, 2011), 84\u2013101; Grady Booch, James Rumbaugh, and Ivar Jacobson, The Unified Modeling Language User Guide, 2nd ed. (Boston: Addison-Wesley, 2005), 35\u201342."
+    "note": "David Marr, Vision: A Computational Investigation into the Human Representation and Processing of Visual Information (San Francisco: W. H. Freeman, 1982), 19\u201327; Luciano Floridi, The Philosophy of Information (Oxford: Oxford University Press, 2011), 84\u2013101; Grady Booch, James Rumbaugh, and Ivar Jacobson, The Unified Modeling Language User Guide, 2nd ed. (Boston: Addison-Wesley, 2005), 35\u201342.",
+    "author": [
+      {
+        "family": "Marr",
+        "given": "David"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1982
+        ]
+      ]
+    }
   },
   {
     "id": "booch2005work",
     "type": "book",
-    "note": "Grady Booch, James Rumbaugh, and Ivar Jacobson, The Unified Modeling Language User Guide, 2nd ed. (Boston: Addison-Wesley, 2005), 35\u201374; Martin Fowler, UML Distilled: A Brief Guide to the Standard Object Modeling Language, 3rd ed. (Boston: Addison-Wesley, 2004), 11\u201328; David Marr, Vision: A Computational Investigation into the Human Representation and Processing of Visual Information (San Francisco: W. H. Freeman, 1982), 19\u201327."
+    "note": "Grady Booch, James Rumbaugh, and Ivar Jacobson, The Unified Modeling Language User Guide, 2nd ed. (Boston: Addison-Wesley, 2005), 35\u201374; Martin Fowler, UML Distilled: A Brief Guide to the Standard Object Modeling Language, 3rd ed. (Boston: Addison-Wesley, 2004), 11\u201328; David Marr, Vision: A Computational Investigation into the Human Representation and Processing of Visual Information (San Francisco: W. H. Freeman, 1982), 19\u201327.",
+    "author": [
+      {
+        "family": "Booch",
+        "given": "Grady"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2005
+        ]
+      ]
+    }
   },
   {
     "id": "brandom1994work",
     "type": "book",
-    "note": "Robert B. Brandom, Making It Explicit: Reasoning, Representing, and Discursive Commitment (Cambridge, MA: Harvard University Press, 1994), 131\u2013156; John R. Searle, Intentionality: An Essay in the Philosophy of Mind (Cambridge: Cambridge University Press, 1983), 28\u201336; Luciano Floridi, The Philosophy of Information (Oxford: Oxford University Press, 2011), 84\u2013101."
+    "note": "Robert B. Brandom, Making It Explicit: Reasoning, Representing, and Discursive Commitment (Cambridge, MA: Harvard University Press, 1994), 131\u2013156; John R. Searle, Intentionality: An Essay in the Philosophy of Mind (Cambridge: Cambridge University Press, 1983), 28\u201336; Luciano Floridi, The Philosophy of Information (Oxford: Oxford University Press, 2011), 84\u2013101.",
+    "author": [
+      {
+        "family": "Brandom",
+        "given": "Robert B."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1994
+        ]
+      ]
+    }
   },
   {
     "id": "lakatos1978work2",
     "type": "book",
-    "note": "Imre Lakatos, The Methodology of Scientific Research Programmes, ed. John Worrall and Gregory Currie (Cambridge: Cambridge University Press, 1978), 132\u201338, 175\u201378; Susan Haack, Evidence and Inquiry: Towards Reconstruction in Epistemology (Oxford: Blackwell, 1993), 109\u201327; Karl R. Popper, The Logic of Scientific Discovery (London: Routledge, 2002), 18\u201339."
+    "note": "Imre Lakatos, The Methodology of Scientific Research Programmes, ed. John Worrall and Gregory Currie (Cambridge: Cambridge University Press, 1978), 132\u201338, 175\u201378; Susan Haack, Evidence and Inquiry: Towards Reconstruction in Epistemology (Oxford: Blackwell, 1993), 109\u201327; Karl R. Popper, The Logic of Scientific Discovery (London: Routledge, 2002), 18\u201339.",
+    "author": [
+      {
+        "family": "Lakatos",
+        "given": "Imre"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1978
+        ]
+      ]
+    }
   }
 ]

@@ -2,76 +2,279 @@
   {
     "id": "tan2022work",
     "type": "book",
-    "note": "Tan, Tse Yen, Louise Wachsmuth, and Michele M. Tugade. \u201cEmotional Nuance: Examining Positive Emotional Granularity and Well-Being.\u201d Frontiers in Psychology 13 (2022): Article 715966. https://doi.org/10.3389/fpsyg.2022.715966."
+    "note": "Tan, Tse Yen, Louise Wachsmuth, and Michele M. Tugade. \u201cEmotional Nuance: Examining Positive Emotional Granularity and Well-Being.\u201d Frontiers in Psychology 13 (2022): Article 715966. https://doi.org/10.3389/fpsyg.2022.715966.",
+    "author": [
+      {
+        "family": "Tan",
+        "given": "Tse"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "title": "Emotional Nuance: Examining Positive Emotional Granularity and Well-Being."
   },
   {
     "id": "nakao2021work",
     "type": "book",
-    "note": "Nakao, Mutsuhiro, Kentaro Shirotsuki, and Nagisa Sugaya. \u201cCognitive\u2013Behavioral Therapy for Management of Mental Health and Stress-Related Disorders: Recent Advances in Techniques and Technologies.\u201d BioPsychoSocialMedicine 15, no. 1 (2021): Article 16. https://doi.org/10.1186/s13030-021-00219-w."
+    "note": "Nakao, Mutsuhiro, Kentaro Shirotsuki, and Nagisa Sugaya. \u201cCognitive\u2013Behavioral Therapy for Management of Mental Health and Stress-Related Disorders: Recent Advances in Techniques and Technologies.\u201d BioPsychoSocialMedicine 15, no. 1 (2021): Article 16. https://doi.org/10.1186/s13030-021-00219-w.",
+    "author": [
+      {
+        "family": "Nakao",
+        "given": "Mutsuhiro"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "title": "Cognitive\u2013Behavioral Therapy for Management of Mental Health and Stress-Related Disorders: Recent Advances in Techniques and Technologies."
   },
   {
     "id": "david2018work",
     "type": "book",
-    "note": "David, Daniel, Carmen Cotet, Silviu Matu, Cristina Mogoase, and Simona Stefan. \u201c50 Years of Rational-Emotive and Cognitive-Behavioral Therapy: A Systematic Review and Meta-Analysis.\u201d Journal of Clinical Psychology 74, no. 3 (2018): 304\u2013318. https://doi.org/10.1002/jclp.22514."
+    "note": "David, Daniel, Carmen Cotet, Silviu Matu, Cristina Mogoase, and Simona Stefan. \u201c50 Years of Rational-Emotive and Cognitive-Behavioral Therapy: A Systematic Review and Meta-Analysis.\u201d Journal of Clinical Psychology 74, no. 3 (2018): 304\u2013318. https://doi.org/10.1002/jclp.22514.",
+    "author": [
+      {
+        "family": "David",
+        "given": "Daniel"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "title": "50 Years of Rational-Emotive and Cognitive-Behavioral Therapy: A Systematic Review and Meta-Analysis."
   },
   {
     "id": "hayes2006work",
     "type": "book",
-    "note": "Hayes, Steven C., Jason B. Luoma, Frank W. Bond, Akihiko Masuda, and Jason Lillis. \u201cAcceptance and Commitment Therapy: Model, Processes and Outcomes.\u201d Behaviour Research and Therapy 44, no. 1 (2006): 1\u201325. https://doi.org/10.1016/j.brat.2005.06.006."
+    "note": "Hayes, Steven C., Jason B. Luoma, Frank W. Bond, Akihiko Masuda, and Jason Lillis. \u201cAcceptance and Commitment Therapy: Model, Processes and Outcomes.\u201d Behaviour Research and Therapy 44, no. 1 (2006): 1\u201325. https://doi.org/10.1016/j.brat.2005.06.006.",
+    "author": [
+      {
+        "family": "Hayes",
+        "given": "Steven"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2006
+        ]
+      ]
+    },
+    "title": "Acceptance and Commitment Therapy: Model, Processes and Outcomes."
   },
   {
     "id": "palmieri2022work",
     "type": "book",
-    "note": "Palmieri, Arianna, Katya C. Fernandez, Ylenia Cariolato, Johann R. Kleinbub, Sergio Salvatore, and James J. Gross. \u201cEmotion Regulation in Psychodynamic and Cognitive-Behavioural Therapy: An Integrative Perspective.\u201d Clinical Neuropsychiatry 19, no. 2 (2022): 103\u2013113. https://doi.org/10.36131/cnfioritieditore20220204."
+    "note": "Palmieri, Arianna, Katya C. Fernandez, Ylenia Cariolato, Johann R. Kleinbub, Sergio Salvatore, and James J. Gross. \u201cEmotion Regulation in Psychodynamic and Cognitive-Behavioural Therapy: An Integrative Perspective.\u201d Clinical Neuropsychiatry 19, no. 2 (2022): 103\u2013113. https://doi.org/10.36131/cnfioritieditore20220204.",
+    "author": [
+      {
+        "family": "Palmieri",
+        "given": "Arianna"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "title": "Emotion Regulation in Psychodynamic and Cognitive-Behavioural Therapy: An Integrative Perspective."
   },
   {
     "id": "smid2020work",
     "type": "book",
-    "note": "Smid, Geert E. \u201cA Framework of Meaning Attribution Following Loss.\u201d European Journal of Psychotraumatology 11, no. 1 (2020): Article 1776563. https://doi.org/10.1080/20008198.2020.1776563."
+    "note": "Smid, Geert E. \u201cA Framework of Meaning Attribution Following Loss.\u201d European Journal of Psychotraumatology 11, no. 1 (2020): Article 1776563. https://doi.org/10.1080/20008198.2020.1776563.",
+    "author": [
+      {
+        "family": "Smid",
+        "given": "Geert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "title": "A Framework of Meaning Attribution Following Loss."
   },
   {
     "id": "barrett2006work",
     "type": "book",
-    "note": "Barrett, Lisa Feldman. \u201cSolving the Emotion Paradox: Categorization and the Experience of Emotion.\u201d Personality and Social Psychology Review 10, no. 1 (2006): 20\u201346. https://doi.org/10.1207/s15327957pspr1001_2."
+    "note": "Barrett, Lisa Feldman. \u201cSolving the Emotion Paradox: Categorization and the Experience of Emotion.\u201d Personality and Social Psychology Review 10, no. 1 (2006): 20\u201346. https://doi.org/10.1207/s15327957pspr1001_2.",
+    "author": [
+      {
+        "family": "Barrett",
+        "given": "Lisa"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2006
+        ]
+      ]
+    },
+    "title": "Solving the Emotion Paradox: Categorization and the Experience of Emotion."
   },
   {
     "id": "hayes2019work",
     "type": "book",
-    "note": "Hayes, Steven C. \u201cAcceptance and Commitment Therapy: Towards a Unified Model of Behavior Change.\u201d World Psychiatry 18, no. 2 (2019): 226\u2013227. https://doi.org/10.1002/wps.20626."
+    "note": "Hayes, Steven C. \u201cAcceptance and Commitment Therapy: Towards a Unified Model of Behavior Change.\u201d World Psychiatry 18, no. 2 (2019): 226\u2013227. https://doi.org/10.1002/wps.20626.",
+    "author": [
+      {
+        "family": "Hayes",
+        "given": "Steven"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "title": "Acceptance and Commitment Therapy: Towards a Unified Model of Behavior Change."
   },
   {
     "id": "hayes2006work2",
     "type": "book",
-    "note": "Hayes, Steven C., Jason B. Luoma, Frank W. Bond, Akihiko Masuda, and Jason Lillis. \u201cAcceptance and Commitment Therapy: Model, Processes and Outcomes.\u201d Behaviour Research and Therapy 44, no. 1 (2006): 1\u201325. https://doi.org/10.1016/j.brat.2005.06.006; David, Daniel, Carmen Cotet, Silviu Matu, Cristina Mogoase, and Simona Stefan. \u201c50 Years of Rational-Emotive and Cognitive-Behavioral Therapy: A Systematic Review and Meta-Analysis.\u201d Journal of Clinical Psychology 74, no. 3 (2018): 304\u2013318. https://doi.org/10.1002/jclp.22514; Nakao, Mutsuhiro, Kentaro Shirotsuki, and Nagisa Sugaya. \u201cCognitive\u2013Behavioral Therapy for Management of Mental Health and Stress-Related Disorders: Recent Advances in Techniques and Technologies.\u201d BioPsychoSocialMedicine 15, no. 1 (2021): Article 16. https://doi.org/10.1186/s13030-021-00219-w; Tan, Tse Yen, Louise Wachsmuth, and Michele M. Tugade. \u201cEmotional Nuance: Examining Positive Emotional Granularity and Well-Being.\u201d Frontiers in Psychology 13 (2022): Article 715966. https://doi.org/10.3389/fpsyg.2022.715966."
+    "note": "Hayes, Steven C., Jason B. Luoma, Frank W. Bond, Akihiko Masuda, and Jason Lillis. \u201cAcceptance and Commitment Therapy: Model, Processes and Outcomes.\u201d Behaviour Research and Therapy 44, no. 1 (2006): 1\u201325. https://doi.org/10.1016/j.brat.2005.06.006; David, Daniel, Carmen Cotet, Silviu Matu, Cristina Mogoase, and Simona Stefan. \u201c50 Years of Rational-Emotive and Cognitive-Behavioral Therapy: A Systematic Review and Meta-Analysis.\u201d Journal of Clinical Psychology 74, no. 3 (2018): 304\u2013318. https://doi.org/10.1002/jclp.22514; Nakao, Mutsuhiro, Kentaro Shirotsuki, and Nagisa Sugaya. \u201cCognitive\u2013Behavioral Therapy for Management of Mental Health and Stress-Related Disorders: Recent Advances in Techniques and Technologies.\u201d BioPsychoSocialMedicine 15, no. 1 (2021): Article 16. https://doi.org/10.1186/s13030-021-00219-w; Tan, Tse Yen, Louise Wachsmuth, and Michele M. Tugade. \u201cEmotional Nuance: Examining Positive Emotional Granularity and Well-Being.\u201d Frontiers in Psychology 13 (2022): Article 715966. https://doi.org/10.3389/fpsyg.2022.715966.",
+    "author": [
+      {
+        "family": "Hayes",
+        "given": "Steven"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2006
+        ]
+      ]
+    },
+    "title": "Acceptance and Commitment Therapy: Model, Processes and Outcomes."
   },
   {
     "id": "pessoa2010work",
     "type": "book",
-    "note": "Pessoa, Luiz. \u201cEmotion and Cognition and the Amygdala: From \u2018What Is It?\u2019 to \u2018What\u2019s to Be Done?\u2019 Neuropsychologia 48, no. 12 (2010): 3416\u20133429. https://doi.org/10.1016/j.neuropsychologia.2010.06.038."
+    "note": "Pessoa, Luiz. \u201cEmotion and Cognition and the Amygdala: From \u2018What Is It?\u2019 to \u2018What\u2019s to Be Done?\u2019 Neuropsychologia 48, no. 12 (2010): 3416\u20133429. https://doi.org/10.1016/j.neuropsychologia.2010.06.038.",
+    "author": [
+      {
+        "family": "Pessoa",
+        "given": "Luiz"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    }
   },
   {
     "id": "erickson2015work",
     "type": "book",
-    "note": "Erickson, Kirk I., Charles H. Hillman, and Arthur F. Kramer. \u201cPhysical Activity, Brain, and Cognition.\u201d Current Opinion in Behavioral Sciences 4 (2015): 27\u201332. https://doi.org/10.1016/j.cobeha.2015.01.005."
+    "note": "Erickson, Kirk I., Charles H. Hillman, and Arthur F. Kramer. \u201cPhysical Activity, Brain, and Cognition.\u201d Current Opinion in Behavioral Sciences 4 (2015): 27\u201332. https://doi.org/10.1016/j.cobeha.2015.01.005.",
+    "author": [
+      {
+        "family": "Erickson",
+        "given": "Kirk"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "title": "Physical Activity, Brain, and Cognition."
   },
   {
     "id": "zaccaro2018work",
     "type": "book",
-    "note": "Zaccaro, Andrea, Andrea Piarulli, Marco Laurino, Elisa Garbella, Daniele Menicucci, Bruno Neri, and Angelo Gemignani. \u201cHow Breath-Control Can Change Your Life: A Systematic Review on Psycho-Physiological Correlates of Slow Breathing.\u201d Frontiers in Human Neuroscience 12 (2018): Article 353. https://doi.org/10.3389/fnhum.2018.00353."
+    "note": "Zaccaro, Andrea, Andrea Piarulli, Marco Laurino, Elisa Garbella, Daniele Menicucci, Bruno Neri, and Angelo Gemignani. \u201cHow Breath-Control Can Change Your Life: A Systematic Review on Psycho-Physiological Correlates of Slow Breathing.\u201d Frontiers in Human Neuroscience 12 (2018): Article 353. https://doi.org/10.3389/fnhum.2018.00353.",
+    "author": [
+      {
+        "family": "Zaccaro",
+        "given": "Andrea"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "title": "How Breath-Control Can Change Your Life: A Systematic Review on Psycho-Physiological Correlates of Slow Breathing."
   },
   {
     "id": "huttunen2004work",
     "type": "book",
-    "note": "Huttunen, P., M. Kokko, and J. Ylijukuri. \u201cWinter Swimming Improves General Well-Being.\u201d International Journal of Circumpolar Health 63, no. 2 (2004): 140\u2013144. https://doi.org/10.3402/ijch.v63i2.17700; Cain, Tara, Jacinta Brinsley, Hunter Bennett, Max Nelson, Carol Maher, and Ben Singh. \u201cEffects of Cold-Water Immersion on Health and Wellbeing: A Systematic Review and Meta-Analysis.\u201d PLOS ONE 20, no. 1 (2025): e0317615. https://doi.org/10.1371/journal.pone.0317615"
+    "note": "Huttunen, P., M. Kokko, and J. Ylijukuri. \u201cWinter Swimming Improves General Well-Being.\u201d International Journal of Circumpolar Health 63, no. 2 (2004): 140\u2013144. https://doi.org/10.3402/ijch.v63i2.17700; Cain, Tara, Jacinta Brinsley, Hunter Bennett, Max Nelson, Carol Maher, and Ben Singh. \u201cEffects of Cold-Water Immersion on Health and Wellbeing: A Systematic Review and Meta-Analysis.\u201d PLOS ONE 20, no. 1 (2025): e0317615. https://doi.org/10.1371/journal.pone.0317615",
+    "issued": {
+      "date-parts": [
+        [
+          2004
+        ]
+      ]
+    },
+    "title": "Winter Swimming Improves General Well-Being."
   },
   {
     "id": "barrett2017work",
     "type": "book",
-    "note": "Barrett, Lisa Feldman. \u201cThe Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization.\u201d Social Cognitive and Affective Neuroscience 12, no. 1 (2017): 1\u201323. https://doi.org/10.1093/scan/nsw154."
+    "note": "Barrett, Lisa Feldman. \u201cThe Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization.\u201d Social Cognitive and Affective Neuroscience 12, no. 1 (2017): 1\u201323. https://doi.org/10.1093/scan/nsw154.",
+    "author": [
+      {
+        "family": "Barrett",
+        "given": "Lisa"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "title": "The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization."
   },
   {
     "id": "tan2022work2",
     "type": "book",
-    "note": "Tan, Tse Yen, Louise Wachsmuth, and Michele M. Tugade. \u201cEmotional Nuance: Examining Positive Emotional Granularity and Well-Being.\u201d Frontiers in Psychology 13 (2022): Article 715966. https://doi.org/10.3389/fpsyg.2022.715966; Nakao, Mutsuhiro, Kentaro Shirotsuki, and Nagisa Sugaya. \u201cCognitive\u2013Behavioral Therapy for Management of Mental Health and Stress-Related Disorders: Recent Advances in Techniques and Technologies.\u201d BioPsychoSocialMedicine 15, no. 1 (2021): Article 16. https://doi.org/10.1186/s13030-021-00219-w; David, Daniel, Carmen Cotet, Silviu Matu, Cristina Mogoase, and Simona Stefan. \u201c50 Years of Rational-Emotive and Cognitive-Behavioral Therapy: A Systematic Review and Meta-Analysis.\u201d Journal of Clinical Psychology 74, no. 3 (2018): 304\u2013318. https://doi.org/10.1002/jclp.22514."
+    "note": "Tan, Tse Yen, Louise Wachsmuth, and Michele M. Tugade. \u201cEmotional Nuance: Examining Positive Emotional Granularity and Well-Being.\u201d Frontiers in Psychology 13 (2022): Article 715966. https://doi.org/10.3389/fpsyg.2022.715966; Nakao, Mutsuhiro, Kentaro Shirotsuki, and Nagisa Sugaya. \u201cCognitive\u2013Behavioral Therapy for Management of Mental Health and Stress-Related Disorders: Recent Advances in Techniques and Technologies.\u201d BioPsychoSocialMedicine 15, no. 1 (2021): Article 16. https://doi.org/10.1186/s13030-021-00219-w; David, Daniel, Carmen Cotet, Silviu Matu, Cristina Mogoase, and Simona Stefan. \u201c50 Years of Rational-Emotive and Cognitive-Behavioral Therapy: A Systematic Review and Meta-Analysis.\u201d Journal of Clinical Psychology 74, no. 3 (2018): 304\u2013318. https://doi.org/10.1002/jclp.22514.",
+    "author": [
+      {
+        "family": "Tan",
+        "given": "Tse"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "title": "Emotional Nuance: Examining Positive Emotional Granularity and Well-Being."
   }
 ]

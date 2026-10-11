@@ -2,206 +2,730 @@
   {
     "id": "barrett2017work",
     "type": "book",
-    "note": "Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin  Harcourt, 2017), 25\u201330."
+    "note": "Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin  Harcourt, 2017), 25\u201330.",
+    "author": [
+      {
+        "family": "Barrett",
+        "given": "Lisa Feldman"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    }
   },
   {
     "id": "russell2003core",
     "type": "book",
-    "note": "James A. Russell, \u201cCore Affect and the Psychological Construction of Emotion,\u201d Psychological Review  110, no. 1 (2003): 150\u2013153."
+    "note": "James A. Russell, \u201cCore Affect and the Psychological Construction of Emotion,\u201d Psychological Review  110, no. 1 (2003): 150\u2013153.",
+    "author": [
+      {
+        "family": "Russell",
+        "given": "James A."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "title": "Core Affect and the Psychological Construction of Emotion"
   },
   {
     "id": "damasio1999work",
     "type": "book",
-    "note": "Antonio Damasio, The Feeling of What Happens: Body and Emotion in the Making of Consciousness (New York: Harcourt Brace, 1999), 42\u201347."
+    "note": "Antonio Damasio, The Feeling of What Happens: Body and Emotion in the Making of Consciousness (New York: Harcourt Brace, 1999), 42\u201347.",
+    "author": [
+      {
+        "family": "Damasio",
+        "given": "Antonio"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    }
   },
   {
     "id": "barrett0000work",
     "type": "book",
-    "note": "Lisa Feldman Barrett, How Emotions Are Made, 104\u2013108."
+    "note": "Lisa Feldman Barrett, How Emotions Are Made, 104\u2013108.",
+    "author": [
+      {
+        "family": "Barrett",
+        "given": "Lisa Feldman"
+      }
+    ]
   },
   {
     "id": "barrett0000work2",
     "type": "book",
-    "note": "Lisa Feldman Barrett, How Emotions Are Made, 127\u2013132."
+    "note": "Lisa Feldman Barrett, How Emotions Are Made, 127\u2013132.",
+    "author": [
+      {
+        "family": "Barrett",
+        "given": "Lisa Feldman"
+      }
+    ]
   },
   {
     "id": "barsalou2008situated",
     "type": "book",
-    "note": "Lawrence W. Barsalou, \u201cSituated Conceptualization: Theory and Applications,\u201d in Handbook of  Grounded Cognition, ed. Lawrence W. Barsalou (Cambridge: Cambridge University Press, 2008), 236\u2013 241."
+    "note": "Lawrence W. Barsalou, \u201cSituated Conceptualization: Theory and Applications,\u201d in Handbook of  Grounded Cognition, ed. Lawrence W. Barsalou (Cambridge: Cambridge University Press, 2008), 236\u2013 241.",
+    "author": [
+      {
+        "family": "Barsalou",
+        "given": "Lawrence W."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "title": "Situated Conceptualization: Theory and Applications"
   },
   {
     "id": "oatley2018work",
     "type": "book",
-    "note": "Keith Oatley, Dacher Keltner, and Jennifer Jenkins, Understanding Emotions, 3rd ed. (Malden, MA:  Wiley-Blackwell, 2018), 54\u201360."
+    "note": "Keith Oatley, Dacher Keltner, and Jennifer Jenkins, Understanding Emotions, 3rd ed. (Malden, MA:  Wiley-Blackwell, 2018), 54\u201360.",
+    "author": [
+      {
+        "family": "Oatley",
+        "given": "Keith"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    }
   },
   {
     "id": "friston2010freeenergy",
     "type": "book",
-    "note": "Karl Friston, \u201cThe Free-Energy Principle: A Unified Brain Theory?\u201d Nature Reviews Neuroscience 11, no. 2 (2010): 127\u2013130."
+    "note": "Karl Friston, \u201cThe Free-Energy Principle: A Unified Brain Theory?\u201d Nature Reviews Neuroscience 11, no. 2 (2010): 127\u2013130.",
+    "author": [
+      {
+        "family": "Friston",
+        "given": "Karl"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "title": "The Free-Energy Principle: A Unified Brain Theory?"
   },
   {
     "id": "barrett2017work2",
     "type": "book",
-    "note": "Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin  Harcourt, 2017), 134\u2013139."
+    "note": "Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin  Harcourt, 2017), 134\u2013139.",
+    "author": [
+      {
+        "family": "Barrett",
+        "given": "Lisa Feldman"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    }
   },
   {
     "id": "clark2016work",
     "type": "book",
-    "note": "Andy Clark, Surfing Uncertainty: Prediction, Action, and the Embodied Mind (Oxford: Oxford University  Press, 2016), 45\u201351."
+    "note": "Andy Clark, Surfing Uncertainty: Prediction, Action, and the Embodied Mind (Oxford: Oxford University  Press, 2016), 45\u201351.",
+    "author": [
+      {
+        "family": "Clark",
+        "given": "Andy"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    }
   },
   {
     "id": "nussbaum2001work",
     "type": "book",
-    "note": "Martha C. Nussbaum, Upheavals of Thought: The Intelligence of Emotions (Cambridge: Cambridge  University Press, 2001), 23\u201330."
+    "note": "Martha C. Nussbaum, Upheavals of Thought: The Intelligence of Emotions (Cambridge: Cambridge  University Press, 2001), 23\u201330.",
+    "author": [
+      {
+        "family": "Nussbaum",
+        "given": "Martha C."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2001
+        ]
+      ]
+    }
   },
   {
     "id": "barrett2017work3",
     "type": "book",
-    "note": "Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin  Harcourt, 2017), 30\u201336."
+    "note": "Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin  Harcourt, 2017), 30\u201336.",
+    "author": [
+      {
+        "family": "Barrett",
+        "given": "Lisa Feldman"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    }
   },
   {
     "id": "barsalou2008situated2",
     "type": "book",
-    "note": "Lawrence W. Barsalou, \u201cSituated Conceptualization: Theory and Applications,\u201d in Handbook of  Grounded Cognition, ed. Lawrence W. Barsalou (Cambridge: Cambridge University Press, 2008), 240\u2013 244."
+    "note": "Lawrence W. Barsalou, \u201cSituated Conceptualization: Theory and Applications,\u201d in Handbook of  Grounded Cognition, ed. Lawrence W. Barsalou (Cambridge: Cambridge University Press, 2008), 240\u2013 244.",
+    "author": [
+      {
+        "family": "Barsalou",
+        "given": "Lawrence W."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "title": "Situated Conceptualization: Theory and Applications"
   },
   {
     "id": "barsalou2003situated",
     "type": "book",
-    "note": "Lawrence W. Barsalou, \u201cSituated Simulation in the Human Conceptual System,\u201d Language and  Cognitive Processes 18, no. 5\u20136 (2003): 525\u2013526."
+    "note": "Lawrence W. Barsalou, \u201cSituated Simulation in the Human Conceptual System,\u201d Language and  Cognitive Processes 18, no. 5\u20136 (2003): 525\u2013526.",
+    "author": [
+      {
+        "family": "Barsalou",
+        "given": "Lawrence W."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "title": "Situated Simulation in the Human Conceptual System"
   },
   {
     "id": "friston2010freeenergy2",
     "type": "book",
-    "note": "Karl Friston, \u201cThe Free-Energy Principle: A Unified Brain Theory?\u201d Nature Reviews Neuroscience 11,  no. 2 (2010): 128\u2013132."
+    "note": "Karl Friston, \u201cThe Free-Energy Principle: A Unified Brain Theory?\u201d Nature Reviews Neuroscience 11,  no. 2 (2010): 128\u2013132.",
+    "author": [
+      {
+        "family": "Friston",
+        "given": "Karl"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "title": "The Free-Energy Principle: A Unified Brain Theory?"
   },
   {
     "id": "barrett0000work3",
     "type": "book",
-    "note": "Lisa Feldman Barrett, How Emotions Are Made, 132\u2013138."
+    "note": "Lisa Feldman Barrett, How Emotions Are Made, 132\u2013138.",
+    "author": [
+      {
+        "family": "Barrett",
+        "given": "Lisa Feldman"
+      }
+    ]
   },
   {
     "id": "damasio1999work2",
     "type": "book",
-    "note": "Antonio Damasio, The Feeling of What Happens: Body and Emotion in the Making of Consciousness  (New York: Harcourt Brace, 1999), 276\u2013279."
+    "note": "Antonio Damasio, The Feeling of What Happens: Body and Emotion in the Making of Consciousness  (New York: Harcourt Brace, 1999), 276\u2013279.",
+    "author": [
+      {
+        "family": "Damasio",
+        "given": "Antonio"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    }
   },
   {
     "id": "clark2016work2",
     "type": "book",
-    "note": "Andy Clark, Surfing Uncertainty: Prediction, Action, and the Embodied Mind (Oxford: Oxford University  Press, 2016), 60\u201367."
+    "note": "Andy Clark, Surfing Uncertainty: Prediction, Action, and the Embodied Mind (Oxford: Oxford University  Press, 2016), 60\u201367.",
+    "author": [
+      {
+        "family": "Clark",
+        "given": "Andy"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    }
   },
   {
     "id": "sterling2012allostasis",
     "type": "book",
-    "note": "Peter Sterling, \u201cAllostasis: A Model of Predictive Regulation,\u201d Physiology & Behavior 106, no. 1 (2012):  5\u201315."
+    "note": "Peter Sterling, \u201cAllostasis: A Model of Predictive Regulation,\u201d Physiology & Behavior 106, no. 1 (2012):  5\u201315.",
+    "author": [
+      {
+        "family": "Sterling",
+        "given": "Peter"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "title": "Allostasis: A Model of Predictive Regulation"
   },
   {
     "id": "russell2003core2",
     "type": "book",
-    "note": "James A. Russell, \u201cCore Affect and the Psychological Construction of Emotion,\u201d Psychological Review  110, no. 1 (2003): 150\u2013155."
+    "note": "James A. Russell, \u201cCore Affect and the Psychological Construction of Emotion,\u201d Psychological Review  110, no. 1 (2003): 150\u2013155.",
+    "author": [
+      {
+        "family": "Russell",
+        "given": "James A."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "title": "Core Affect and the Psychological Construction of Emotion"
   },
   {
     "id": "seth2013interoceptive",
     "type": "book",
-    "note": "Anil K. Seth, \u201cInteroceptive Inference, Emotion, and the Embodied Self,\u201d Trends in Cognitive Sciences 17, no. 11 (2013): 567\u2013573."
+    "note": "Anil K. Seth, \u201cInteroceptive Inference, Emotion, and the Embodied Self,\u201d Trends in Cognitive Sciences 17, no. 11 (2013): 567\u2013573.",
+    "author": [
+      {
+        "family": "Seth",
+        "given": "Anil K."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "title": "Interoceptive Inference, Emotion, and the Embodied Self"
   },
   {
     "id": "barrett2017work4",
     "type": "book",
-    "note": "Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin  Harcourt, 2017), 140\u2013147."
+    "note": "Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin  Harcourt, 2017), 140\u2013147.",
+    "author": [
+      {
+        "family": "Barrett",
+        "given": "Lisa Feldman"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    }
   },
   {
     "id": "barsalou2008situated3",
     "type": "book",
-    "note": "Lawrence W. Barsalou, \u201cSituated Conceptualization: Theory and Applications,\u201d in Handbook of  Grounded Cognition, ed. Lawrence W. Barsalou (Cambridge: Cambridge University Press, 2008), 239\u2013 243."
+    "note": "Lawrence W. Barsalou, \u201cSituated Conceptualization: Theory and Applications,\u201d in Handbook of  Grounded Cognition, ed. Lawrence W. Barsalou (Cambridge: Cambridge University Press, 2008), 239\u2013 243.",
+    "author": [
+      {
+        "family": "Barsalou",
+        "given": "Lawrence W."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "title": "Situated Conceptualization: Theory and Applications"
   },
   {
     "id": "rosch1978principles",
     "type": "book",
-    "note": "Eleanor Rosch, \u201cPrinciples of Categorization,\u201d in Cognition and Categorization, ed. Eleanor Rosch and  Barbara B. Lloyd (Hillsdale, NJ: Lawrence Erlbaum, 1978), 28\u201331."
+    "note": "Eleanor Rosch, \u201cPrinciples of Categorization,\u201d in Cognition and Categorization, ed. Eleanor Rosch and  Barbara B. Lloyd (Hillsdale, NJ: Lawrence Erlbaum, 1978), 28\u201331.",
+    "author": [
+      {
+        "family": "Rosch",
+        "given": "Eleanor"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1978
+        ]
+      ]
+    },
+    "title": "Principles of Categorization"
   },
   {
     "id": "barsalou2003situated2",
     "type": "book",
-    "note": "Lawrence W. Barsalou, \u201cSituated Simulation in the Human Conceptual System,\u201d Language and  Cognitive Processes 18, no. 5\u20136 (2003): 521\u2013527."
+    "note": "Lawrence W. Barsalou, \u201cSituated Simulation in the Human Conceptual System,\u201d Language and  Cognitive Processes 18, no. 5\u20136 (2003): 521\u2013527.",
+    "author": [
+      {
+        "family": "Barsalou",
+        "given": "Lawrence W."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "title": "Situated Simulation in the Human Conceptual System"
   },
   {
     "id": "friston2010freeenergy3",
     "type": "book",
-    "note": "Karl Friston, \u201cThe Free-Energy Principle: A Unified Brain Theory?\u201d Nature Reviews Neuroscience 11,  no. 2 (2010): 130\u2013134."
+    "note": "Karl Friston, \u201cThe Free-Energy Principle: A Unified Brain Theory?\u201d Nature Reviews Neuroscience 11,  no. 2 (2010): 130\u2013134.",
+    "author": [
+      {
+        "family": "Friston",
+        "given": "Karl"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "title": "The Free-Energy Principle: A Unified Brain Theory?"
   },
   {
     "id": "barrett2017work5",
     "type": "book",
-    "note": "Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin  Harcourt, 2017), 150\u2013156."
+    "note": "Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin  Harcourt, 2017), 150\u2013156.",
+    "author": [
+      {
+        "family": "Barrett",
+        "given": "Lisa Feldman"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    }
   },
   {
     "id": "barrett2017work6",
     "type": "book",
-    "note": "Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin  Harcourt, 2017), 160\u2013165"
+    "note": "Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin  Harcourt, 2017), 160\u2013165",
+    "author": [
+      {
+        "family": "Barrett",
+        "given": "Lisa Feldman"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    }
   },
   {
     "id": "eyer1988allostasis",
     "type": "book",
-    "note": "Peter Sterling and Joseph R. Eyer, \u201cAllostasis: A New Paradigm to Explain Arousal Pathology,\u201d in  Handbook of Life Stress, Cognition and Health, ed. Shirley Fisher and James Reason (Chichester: Wiley,  1988), 636\u2013639."
+    "note": "Peter Sterling and Joseph R. Eyer, \u201cAllostasis: A New Paradigm to Explain Arousal Pathology,\u201d in  Handbook of Life Stress, Cognition and Health, ed. Shirley Fisher and James Reason (Chichester: Wiley,  1988), 636\u2013639.",
+    "author": [
+      {
+        "family": "Sterling",
+        "given": "Peter"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1988
+        ]
+      ]
+    },
+    "title": "Allostasis: A New Paradigm to Explain Arousal Pathology"
   },
   {
     "id": "clark2016work3",
     "type": "book",
-    "note": "Andy Clark, Surfing Uncertainty: Prediction, Action, and the Embodied Mind (Oxford: Oxford University  Press, 2016), 86\u201391."
+    "note": "Andy Clark, Surfing Uncertainty: Prediction, Action, and the Embodied Mind (Oxford: Oxford University  Press, 2016), 86\u201391.",
+    "author": [
+      {
+        "family": "Clark",
+        "given": "Andy"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    }
   },
   {
     "id": "russell2003core3",
     "type": "book",
-    "note": "James A. Russell, \u201cCore Affect and the Psychological Construction of Emotion,\u201d Psychological Review  110, no. 1 (2003): 158\u2013161."
+    "note": "James A. Russell, \u201cCore Affect and the Psychological Construction of Emotion,\u201d Psychological Review  110, no. 1 (2003): 158\u2013161.",
+    "author": [
+      {
+        "family": "Russell",
+        "given": "James A."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "title": "Core Affect and the Psychological Construction of Emotion"
   },
   {
     "id": "nussbaum2001work2",
     "type": "book",
-    "note": "Martha C. Nussbaum, Upheavals of Thought: The Intelligence of Emotions (Cambridge: Cambridge  University Press, 2001), 34\u201340."
+    "note": "Martha C. Nussbaum, Upheavals of Thought: The Intelligence of Emotions (Cambridge: Cambridge  University Press, 2001), 34\u201340.",
+    "author": [
+      {
+        "family": "Nussbaum",
+        "given": "Martha C."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2001
+        ]
+      ]
+    }
   },
   {
     "id": "barsalou2008situated4",
     "type": "book",
-    "note": "Lawrence W. Barsalou, \u201cSituated Conceptualization: Theory and Applications,\u201d in Handbook of  Grounded Cognition, ed. Lawrence W. Barsalou (Cambridge: Cambridge University Press, 2008), 246\u2013 249."
+    "note": "Lawrence W. Barsalou, \u201cSituated Conceptualization: Theory and Applications,\u201d in Handbook of  Grounded Cognition, ed. Lawrence W. Barsalou (Cambridge: Cambridge University Press, 2008), 246\u2013 249.",
+    "author": [
+      {
+        "family": "Barsalou",
+        "given": "Lawrence W."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "title": "Situated Conceptualization: Theory and Applications"
   },
   {
     "id": "friston2010freeenergy4",
     "type": "book",
-    "note": "Karl Friston, \u201cThe Free-Energy Principle: A Unified Brain Theory?\u201d Nature Reviews Neuroscience 11,  no. 2 (2010): 132\u2013135."
+    "note": "Karl Friston, \u201cThe Free-Energy Principle: A Unified Brain Theory?\u201d Nature Reviews Neuroscience 11,  no. 2 (2010): 132\u2013135.",
+    "author": [
+      {
+        "family": "Friston",
+        "given": "Karl"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "title": "The Free-Energy Principle: A Unified Brain Theory?"
   },
   {
     "id": "clark0000work",
     "type": "book",
-    "note": "Andy Clark, Surfing Uncertainty, 99\u2013104."
+    "note": "Andy Clark, Surfing Uncertainty, 99\u2013104.",
+    "author": [
+      {
+        "family": "Clark",
+        "given": "Andy"
+      }
+    ]
   },
   {
     "id": "damasio1999work3",
     "type": "book",
-    "note": "Antonio Damasio, The Feeling of What Happens: Body and Emotion in the Making of Consciousness  (New York: Harcourt Brace, 1999), 303\u2013308."
+    "note": "Antonio Damasio, The Feeling of What Happens: Body and Emotion in the Making of Consciousness  (New York: Harcourt Brace, 1999), 303\u2013308.",
+    "author": [
+      {
+        "family": "Damasio",
+        "given": "Antonio"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    }
   },
   {
     "id": "clark2016work4",
     "type": "book",
-    "note": "Andy Clark, Surfing Uncertainty: Prediction, Action, and the Embodied Mind (Oxford: Oxford University  Press, 2016), 112\u2013118."
+    "note": "Andy Clark, Surfing Uncertainty: Prediction, Action, and the Embodied Mind (Oxford: Oxford University  Press, 2016), 112\u2013118.",
+    "author": [
+      {
+        "family": "Clark",
+        "given": "Andy"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    }
   },
   {
     "id": "barrett2017work7",
     "type": "book",
-    "note": "Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin  Harcourt, 2017), 170\u2013175."
+    "note": "Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin  Harcourt, 2017), 170\u2013175.",
+    "author": [
+      {
+        "family": "Barrett",
+        "given": "Lisa Feldman"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    }
   },
   {
     "id": "friston2010freeenergy5",
     "type": "book",
-    "note": "Karl Friston, \u201cThe Free-Energy Principle: A Unified Brain Theory?\u201d Nature Reviews Neuroscience 11,  no. 2 (2010): 133\u2013136."
+    "note": "Karl Friston, \u201cThe Free-Energy Principle: A Unified Brain Theory?\u201d Nature Reviews Neuroscience 11,  no. 2 (2010): 133\u2013136.",
+    "author": [
+      {
+        "family": "Friston",
+        "given": "Karl"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "title": "The Free-Energy Principle: A Unified Brain Theory?"
   },
   {
     "id": "nussbaum2001work3",
     "type": "book",
-    "note": "Martha C. Nussbaum, Upheavals of Thought: The Intelligence of Emotions (Cambridge: Cambridge  University Press, 2001), 45\u201352."
+    "note": "Martha C. Nussbaum, Upheavals of Thought: The Intelligence of Emotions (Cambridge: Cambridge  University Press, 2001), 45\u201352.",
+    "author": [
+      {
+        "family": "Nussbaum",
+        "given": "Martha C."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2001
+        ]
+      ]
+    }
   },
   {
     "id": "russell2003core4",
     "type": "book",
-    "note": "James A. Russell, \u201cCore Affect and the Psychological Construction of Emotion,\u201d Psychological Review  110, no. 1 (2003): 168\u2013171."
+    "note": "James A. Russell, \u201cCore Affect and the Psychological Construction of Emotion,\u201d Psychological Review  110, no. 1 (2003): 168\u2013171.",
+    "author": [
+      {
+        "family": "Russell",
+        "given": "James A."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "title": "Core Affect and the Psychological Construction of Emotion"
   }
 ]

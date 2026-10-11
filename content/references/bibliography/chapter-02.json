@@ -2,76 +2,268 @@
   {
     "id": "frege1952sense",
     "type": "book",
-    "note": "Gottlob Frege, \"On Sense and Reference,\" trans. Max Black, in Translations from the Philosophical Writings of Gottlob Frege, ed. Peter Geach and Max Black (Oxford: Blackwell, 1952), 56-78; see also Edward N. Zalta, \"Gottlob Frege,\" in The Stanford Encyclopedia of Philosophy, https://plato.stanford.edu/entries/frege/. Access basis: Open scholarly reference for verification."
+    "note": "Gottlob Frege, \"On Sense and Reference,\" trans. Max Black, in Translations from the Philosophical Writings of Gottlob Frege, ed. Peter Geach and Max Black (Oxford: Blackwell, 1952), 56-78; see also Edward N. Zalta, \"Gottlob Frege,\" in The Stanford Encyclopedia of Philosophy, https://plato.stanford.edu/entries/frege/. Access basis: Open scholarly reference for verification.",
+    "author": [
+      {
+        "family": "Frege",
+        "given": "Gottlob"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1952
+        ]
+      ]
+    },
+    "title": "On Sense and Reference"
   },
   {
     "id": "gupta2021definitions",
     "type": "book",
-    "note": "Anil Gupta, \"Definitions,\" in The Stanford Encyclopedia of Philosophy, Fall 2021 ed., ed. Edward N. Zalta, https://plato.stanford.edu/entries/definitions/. Access basis: Open scholarly reference."
+    "note": "Anil Gupta, \"Definitions,\" in The Stanford Encyclopedia of Philosophy, Fall 2021 ed., ed. Edward N. Zalta, https://plato.stanford.edu/entries/definitions/. Access basis: Open scholarly reference.",
+    "author": [
+      {
+        "family": "Gupta",
+        "given": "Anil"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "title": "Definitions"
   },
   {
     "id": "margolis2023concepts",
     "type": "book",
-    "note": "Eric Margolis and Stephen Laurence, \"Concepts,\" in The Stanford Encyclopedia of Philosophy, Fall 2023 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/concepts/. Access basis: Open scholarly reference."
+    "note": "Eric Margolis and Stephen Laurence, \"Concepts,\" in The Stanford Encyclopedia of Philosophy, Fall 2023 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/concepts/. Access basis: Open scholarly reference.",
+    "author": [
+      {
+        "family": "Margolis",
+        "given": "Eric"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "title": "Concepts"
   },
   {
     "id": "omg2017uml",
     "type": "book",
-    "note": "Object Management Group, Unified Modeling Language, Version 2.5.1, formal/17-12-05 (Milford, MA: Object Management Group, 2017). Access basis: Official open standard."
+    "note": "Object Management Group, Unified Modeling Language, Version 2.5.1, formal/17-12-05 (Milford, MA: Object Management Group, 2017). Access basis: Official open standard.",
+    "author": [
+      {
+        "family": "Group",
+        "given": "Object Management"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    }
   },
   {
     "id": "aristotleMetaphysics",
     "type": "book",
-    "note": "Aristotle, Metaphysics, trans. W. D. Ross, Internet Classics Archive, http://classics.mit.edu/Aristotle/metaphysics.html. Access basis: Open primary text."
+    "note": "Aristotle, Metaphysics, trans. W. D. Ross, Internet Classics Archive, http://classics.mit.edu/Aristotle/metaphysics.html. Access basis: Open primary text.",
+    "author": [
+      {
+        "family": "Aristotle",
+        "given": "Metaphysics"
+      }
+    ]
   },
   {
     "id": "scarantino2024emotion",
     "type": "book",
-    "note": "Andrea Scarantino and Ronald de Sousa, \"Emotion,\" in The Stanford Encyclopedia of Philosophy, Spring 2024 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/emotion/. Access basis: Open scholarly reference."
+    "note": "Andrea Scarantino and Ronald de Sousa, \"Emotion,\" in The Stanford Encyclopedia of Philosophy, Spring 2024 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/emotion/. Access basis: Open scholarly reference.",
+    "author": [
+      {
+        "family": "Scarantino",
+        "given": "Andrea"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "title": "Emotion"
   },
   {
     "id": "russell2003core",
     "type": "book",
-    "note": "James A. Russell, \"Core Affect and the Psychological Construction of Emotion,\" Psychological Review 110, no. 1 (2003): 145-172, https://doi.org/10.1037/0033-295X.110.1.145. Access basis: DOI and abstract/full-text preview verified."
+    "note": "James A. Russell, \"Core Affect and the Psychological Construction of Emotion,\" Psychological Review 110, no. 1 (2003): 145-172, https://doi.org/10.1037/0033-295X.110.1.145. Access basis: DOI and abstract/full-text preview verified.",
+    "author": [
+      {
+        "family": "Russell",
+        "given": "James A."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "title": "Core Affect and the Psychological Construction of Emotion"
   },
   {
     "id": "ekman1992argument",
     "type": "book",
-    "note": "Paul Ekman, \"An Argument for Basic Emotions,\" Cognition and Emotion 6, nos. 3-4 (1992): 169-200, https://doi.org/10.1080/02699939208411068. Access basis: Publisher abstract and DOI verified."
+    "note": "Paul Ekman, \"An Argument for Basic Emotions,\" Cognition and Emotion 6, nos. 3-4 (1992): 169-200, https://doi.org/10.1080/02699939208411068. Access basis: Publisher abstract and DOI verified.",
+    "author": [
+      {
+        "family": "Ekman",
+        "given": "Paul"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1992
+        ]
+      ]
+    },
+    "title": "An Argument for Basic Emotions"
   },
   {
     "id": "barrett2017constructed",
     "type": "book",
-    "note": "Lisa Feldman Barrett, \"The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization,\" Social Cognitive and Affective Neuroscience 12, no. 1 (2017): 1-23, https://doi.org/10.1093/scan/nsw154. Access basis: PubMed Central."
+    "note": "Lisa Feldman Barrett, \"The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization,\" Social Cognitive and Affective Neuroscience 12, no. 1 (2017): 1-23, https://doi.org/10.1093/scan/nsw154. Access basis: PubMed Central.",
+    "author": [
+      {
+        "family": "Barrett",
+        "given": "Lisa Feldman"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "title": "The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization"
   },
   {
     "id": "quine1951two",
     "type": "book",
-    "note": "W. V. O. Quine, \"Two Dogmas of Empiricism,\" Philosophical Review 60, no. 1 (1951): 20-43, https://doi.org/10.2307/2181906. Access basis: DOI metadata and widely available journal record; claim verified through open scholarly summaries."
+    "note": "W. V. O. Quine, \"Two Dogmas of Empiricism,\" Philosophical Review 60, no. 1 (1951): 20-43, https://doi.org/10.2307/2181906. Access basis: DOI metadata and widely available journal record; claim verified through open scholarly summaries.",
+    "issued": {
+      "date-parts": [
+        [
+          1951
+        ]
+      ]
+    },
+    "title": "Two Dogmas of Empiricism"
   },
   {
     "id": "posner1968genesis",
     "type": "book",
-    "note": "Michael I. Posner and Steven W. Keele, \"On the Genesis of Abstract Ideas,\" Journal of Experimental Psychology 77, no. 3 (1968): 353-363, https://doi.org/10.1037/h0025953. Access basis: DOI and author-uploaded full text."
+    "note": "Michael I. Posner and Steven W. Keele, \"On the Genesis of Abstract Ideas,\" Journal of Experimental Psychology 77, no. 3 (1968): 353-363, https://doi.org/10.1037/h0025953. Access basis: DOI and author-uploaded full text.",
+    "author": [
+      {
+        "family": "Posner",
+        "given": "Michael I."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1968
+        ]
+      ]
+    },
+    "title": "On the Genesis of Abstract Ideas"
   },
   {
     "id": "barsalou1983adhoc",
     "type": "book",
-    "note": "Lawrence W. Barsalou, \"Ad Hoc Categories,\" Memory & Cognition 11, no. 3 (1983): 211-227, https://doi.org/10.3758/BF03196968. Access basis: DOI and publisher metadata verified."
+    "note": "Lawrence W. Barsalou, \"Ad Hoc Categories,\" Memory & Cognition 11, no. 3 (1983): 211-227, https://doi.org/10.3758/BF03196968. Access basis: DOI and publisher metadata verified.",
+    "author": [
+      {
+        "family": "Barsalou",
+        "given": "Lawrence W."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1983
+        ]
+      ]
+    },
+    "title": "Ad Hoc Categories"
   },
   {
     "id": "kripke1980naming",
     "type": "book",
-    "note": "Saul A. Kripke, Naming and Necessity (Cambridge, MA: Harvard University Press, 1980), 91-97."
+    "note": "Saul A. Kripke, Naming and Necessity (Cambridge, MA: Harvard University Press, 1980), 91-97.",
+    "author": [
+      {
+        "family": "Kripke",
+        "given": "Saul A."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1980
+        ]
+      ]
+    }
   },
   {
     "id": "fodor1998concepts",
     "type": "book",
-    "note": "Jerry A. Fodor, Concepts: Where Cognitive Science Went Wrong (Oxford: Oxford University Press, 1998), 9-16."
+    "note": "Jerry A. Fodor, Concepts: Where Cognitive Science Went Wrong (Oxford: Oxford University Press, 1998), 9-16.",
+    "author": [
+      {
+        "family": "Fodor",
+        "given": "Jerry A."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1998
+        ]
+      ]
+    }
   },
   {
     "id": "wittgenstein1953investigations",
     "type": "book",
-    "note": "Ludwig Wittgenstein, Philosophical Investigations, trans. G. E. M. Anscombe (Oxford: Blackwell, 1953), \u00a7\u00a765-71."
+    "note": "Ludwig Wittgenstein, Philosophical Investigations, trans. G. E. M. Anscombe (Oxford: Blackwell, 1953), \u00a7\u00a765-71.",
+    "author": [
+      {
+        "family": "Wittgenstein",
+        "given": "Ludwig"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1953
+        ]
+      ]
+    }
   }
 ]

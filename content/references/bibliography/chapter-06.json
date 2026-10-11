@@ -2,66 +2,232 @@
   {
     "id": "lisa2017theory",
     "type": "book",
-    "note": "Lisa Feldman Barrett, \"The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization,\" Social Cognitive and Affective Neuroscience 12, no. 1 (2017): 1-23, https://doi.org/10.1093/scan/nsw154. Access basis: PubMed Central."
+    "note": "Lisa Feldman Barrett, \"The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization,\" Social Cognitive and Affective Neuroscience 12, no. 1 (2017): 1-23, https://doi.org/10.1093/scan/nsw154. Access basis: PubMed Central.",
+    "author": [
+      {
+        "family": "Barrett",
+        "given": "Lisa Feldman"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "title": "The Theory of Constructed Emotion: An Active Inference Account of Interoception and Categorization"
   },
   {
     "id": "posner1968genesis",
     "type": "book",
-    "note": "Michael I. Posner and Steven W. Keele, \"On the Genesis of Abstract Ideas,\" Journal of Experimental Psychology 77, no. 3 (1968): 353-363, https://doi.org/10.1037/h0025953. Access basis: DOI and author-uploaded full text."
+    "note": "Michael I. Posner and Steven W. Keele, \"On the Genesis of Abstract Ideas,\" Journal of Experimental Psychology 77, no. 3 (1968): 353-363, https://doi.org/10.1037/h0025953. Access basis: DOI and author-uploaded full text.",
+    "author": [
+      {
+        "family": "Posner",
+        "given": "Michael I."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1968
+        ]
+      ]
+    },
+    "title": "On the Genesis of Abstract Ideas"
   },
   {
     "id": "david1982marr",
     "type": "book",
-    "note": "David Marr, Vision: A Computational Investigation into the Human Representation and Processing of Visual Information (San Francisco: W. H. Freeman, 1982), 24-27; see also Shimon Edelman, \"Marr, David,\" in Encyclopedia of Cognitive Science (2006), https://doi.org/10.1002/0470018860.s00143. Access basis: DOI/publisher page and standard scholarly reference."
+    "note": "David Marr, Vision: A Computational Investigation into the Human Representation and Processing of Visual Information (San Francisco: W. H. Freeman, 1982), 24-27; see also Shimon Edelman, \"Marr, David,\" in Encyclopedia of Cognitive Science (2006), https://doi.org/10.1002/0470018860.s00143. Access basis: DOI/publisher page and standard scholarly reference.",
+    "author": [
+      {
+        "family": "Marr",
+        "given": "David"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1982
+        ]
+      ]
+    },
+    "title": "Marr, David"
   },
   {
     "id": "eric2023concepts",
     "type": "book",
-    "note": "Eric Margolis and Stephen Laurence, \"Concepts,\" in The Stanford Encyclopedia of Philosophy, Fall 2023 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/concepts/. Access basis: Open scholarly reference."
+    "note": "Eric Margolis and Stephen Laurence, \"Concepts,\" in The Stanford Encyclopedia of Philosophy, Fall 2023 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/concepts/. Access basis: Open scholarly reference.",
+    "author": [
+      {
+        "family": "Margolis",
+        "given": "Eric"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "title": "Concepts"
   },
   {
     "id": "gottlob1952on",
     "type": "book",
-    "note": "Gottlob Frege, \"On Sense and Reference,\" trans. Max Black, in Translations from the Philosophical Writings of Gottlob Frege, ed. Peter Geach and Max Black (Oxford: Blackwell, 1952), 56-78; see also Edward N. Zalta, \"Gottlob Frege,\" in The Stanford Encyclopedia of Philosophy, https://plato.stanford.edu/entries/frege/. Access basis: Open scholarly reference for verification."
+    "note": "Gottlob Frege, \"On Sense and Reference,\" trans. Max Black, in Translations from the Philosophical Writings of Gottlob Frege, ed. Peter Geach and Max Black (Oxford: Blackwell, 1952), 56-78; see also Edward N. Zalta, \"Gottlob Frege,\" in The Stanford Encyclopedia of Philosophy, https://plato.stanford.edu/entries/frege/. Access basis: Open scholarly reference for verification.",
+    "author": [
+      {
+        "family": "Frege",
+        "given": "Gottlob"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1952
+        ]
+      ]
+    },
+    "title": "On Sense and Reference"
   },
   {
     "id": "aristotlemetaphysics",
     "type": "book",
-    "note": "Aristotle, Metaphysics, trans. W. D. Ross, Internet Classics Archive, http://classics.mit.edu/Aristotle/metaphysics.html. Access basis: Open primary text."
+    "note": "Aristotle, Metaphysics, trans. W. D. Ross, Internet Classics Archive, http://classics.mit.edu/Aristotle/metaphysics.html. Access basis: Open primary text.",
+    "author": [
+      {
+        "family": "Aristotle",
+        "given": "Metaphysics"
+      }
+    ]
   },
   {
     "id": "anil2021definitions",
     "type": "book",
-    "note": "Anil Gupta, \"Definitions,\" in The Stanford Encyclopedia of Philosophy, Fall 2021 ed., ed. Edward N. Zalta, https://plato.stanford.edu/entries/definitions/. Access basis: Open scholarly reference."
+    "note": "Anil Gupta, \"Definitions,\" in The Stanford Encyclopedia of Philosophy, Fall 2021 ed., ed. Edward N. Zalta, https://plato.stanford.edu/entries/definitions/. Access basis: Open scholarly reference.",
+    "author": [
+      {
+        "family": "Gupta",
+        "given": "Anil"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "title": "Definitions"
   },
   {
     "id": "object2017work",
     "type": "book",
-    "note": "Object Management Group, Unified Modeling Language, Version 2.5.1, formal/17-12-05 (Milford, MA: Object Management Group, 2017), https://www.omg.org/spec/UML/2.5.1/PDF. Access basis: Official open standard."
+    "note": "Object Management Group, Unified Modeling Language, Version 2.5.1, formal/17-12-05 (Milford, MA: Object Management Group, 2017), https://www.omg.org/spec/UML/2.5.1/PDF. Access basis: Official open standard.",
+    "author": [
+      {
+        "family": "Group",
+        "given": "Object Management"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    }
   },
   {
     "id": "barsalou1983adhoc",
     "type": "book",
-    "note": "Lawrence W. Barsalou, \"Ad Hoc Categories,\" Memory & Cognition 11, no. 3 (1983): 211-227, https://doi.org/10.3758/BF03196968. Access basis: DOI and publisher metadata verified."
+    "note": "Lawrence W. Barsalou, \"Ad Hoc Categories,\" Memory & Cognition 11, no. 3 (1983): 211-227, https://doi.org/10.3758/BF03196968. Access basis: DOI and publisher metadata verified.",
+    "author": [
+      {
+        "family": "Barsalou",
+        "given": "Lawrence W."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1983
+        ]
+      ]
+    },
+    "title": "Ad Hoc Categories"
   },
   {
     "id": "object2017work2",
     "type": "book",
-    "note": "Object Management Group, Unified Modeling Language, Version 2.5.1, formal/17-12-05 (Milford, MA: Object Management Group, 2017), 126, https://www.omg.org/spec/UML/2.5.1/PDF. Access basis: Official open standard."
+    "note": "Object Management Group, Unified Modeling Language, Version 2.5.1, formal/17-12-05 (Milford, MA: Object Management Group, 2017), 126, https://www.omg.org/spec/UML/2.5.1/PDF. Access basis: Official open standard.",
+    "author": [
+      {
+        "family": "Group",
+        "given": "Object Management"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    }
   },
   {
     "id": "karl2010freeenergy",
     "type": "book",
-    "note": "Karl Friston, \"The Free-Energy Principle: A Unified Brain Theory?\" Nature Reviews Neuroscience 11, no. 2 (2010): 127-138, https://doi.org/10.1038/nrn2787. Access basis: DOI/publisher abstract verified."
+    "note": "Karl Friston, \"The Free-Energy Principle: A Unified Brain Theory?\" Nature Reviews Neuroscience 11, no. 2 (2010): 127-138, https://doi.org/10.1038/nrn2787. Access basis: DOI/publisher abstract verified.",
+    "author": [
+      {
+        "family": "Friston",
+        "given": "Karl"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "title": "The Free-Energy Principle: A Unified Brain Theory?"
   },
   {
     "id": "quine1951twodogmas",
     "type": "book",
-    "note": "W. V. O. Quine, \"Two Dogmas of Empiricism,\" Philosophical Review 60, no. 1 (1951): 20-43, https://doi.org/10.2307/2181906. Access basis: DOI metadata and widely available journal record; claim verified through open scholarly summaries."
+    "note": "W. V. O. Quine, \"Two Dogmas of Empiricism,\" Philosophical Review 60, no. 1 (1951): 20-43, https://doi.org/10.2307/2181906. Access basis: DOI metadata and widely available journal record; claim verified through open scholarly summaries.",
+    "issued": {
+      "date-parts": [
+        [
+          1951
+        ]
+      ]
+    },
+    "title": "Two Dogmas of Empiricism"
   },
   {
     "id": "peirce1955logic",
     "type": "book",
-    "note": "Charles S. Peirce, \"Logic as Semiotic: The Theory of Signs,\" in Philosophical Writings of Peirce, ed. Justus Buchler (New York: Dover, 1955), 98-119; see also James Liszka, \"Charles Sanders Peirce,\" Internet Encyclopedia of Philosophy, https://iep.utm.edu/peirce/. Access basis: Open scholarly reference and public primary selections."
+    "note": "Charles S. Peirce, \"Logic as Semiotic: The Theory of Signs,\" in Philosophical Writings of Peirce, ed. Justus Buchler (New York: Dover, 1955), 98-119; see also James Liszka, \"Charles Sanders Peirce,\" Internet Encyclopedia of Philosophy, https://iep.utm.edu/peirce/. Access basis: Open scholarly reference and public primary selections.",
+    "author": [
+      {
+        "family": "Peirce",
+        "given": "Charles S."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1955
+        ]
+      ]
+    },
+    "title": "Logic as Semiotic: The Theory of Signs"
   }
 ]

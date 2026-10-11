@@ -2,6 +2,20 @@
   {
     "id": "posner1968on",
     "type": "book",
-    "note": "Posner, Michael I., and Stephen W. Keele. \u201c*On the Genesis of Abstract Ideas*.\u201d *Journal of Experimental Psychology* 77, no. 3 (1968): 353-63."
+    "note": "Posner, Michael I., and Stephen W. Keele. \u201c*On the Genesis of Abstract Ideas*.\u201d *Journal of Experimental Psychology* 77, no. 3 (1968): 353-63.",
+    "author": [
+      {
+        "family": "Posner",
+        "given": "Michael"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1968
+        ]
+      ]
+    },
+    "title": "*On the Genesis of Abstract Ideas*."
   }
 ]

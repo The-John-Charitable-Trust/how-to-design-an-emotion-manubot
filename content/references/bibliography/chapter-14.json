@@ -2,186 +2,449 @@
   {
     "id": "james1962what",
     "type": "book",
-    "note": "William James, \"What Is an Emotion?,\" Mind os-IX, no. 34 (April 1884): 188-205, https://doi.org/10.1093/mind/os-IX.34.188; Stanley Schachter and Jerome E. Singer, \"Cognitive, Social, and Physiological Determinants of Emotional State,\" Psychological Review 69, no. 5 (1962): 379-99, https://doi.org/10.1037/h0046234; Lisa Feldman Barrett, \"Are Emotions Natural Kinds?,\" Perspectives on Psychological Science 1, no. 1 (2006): 28-58, https://doi.org/10.1111/j.1745-6916.2006.00003.x."
+    "note": "William James, \"What Is an Emotion?,\" Mind os-IX, no. 34 (April 1884): 188-205, https://doi.org/10.1093/mind/os-IX.34.188; Stanley Schachter and Jerome E. Singer, \"Cognitive, Social, and Physiological Determinants of Emotional State,\" Psychological Review 69, no. 5 (1962): 379-99, https://doi.org/10.1037/h0046234; Lisa Feldman Barrett, \"Are Emotions Natural Kinds?,\" Perspectives on Psychological Science 1, no. 1 (2006): 28-58, https://doi.org/10.1111/j.1745-6916.2006.00003.x.",
+    "author": [
+      {
+        "family": "James",
+        "given": "William"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1962
+        ]
+      ]
+    },
+    "title": "What Is an Emotion?"
   },
   {
     "id": "damasio1999how",
     "type": "book",
-    "note": "Antonio R. Damasio, The Feeling of What Happens: Body and Emotion in the Making of Consciousness (New York: Harcourt Brace, 1999); A. D. Craig, \"How Do You Feel? Interoception: The Sense of the Physiological Condition of the Body,\" Nature Reviews Neuroscience 3, no. 8 (2002): 655-66, https://doi.org/10.1038/nrn894; Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017)."
+    "note": "Antonio R. Damasio, The Feeling of What Happens: Body and Emotion in the Making of Consciousness (New York: Harcourt Brace, 1999); A. D. Craig, \"How Do You Feel? Interoception: The Sense of the Physiological Condition of the Body,\" Nature Reviews Neuroscience 3, no. 8 (2002): 655-66, https://doi.org/10.1038/nrn894; Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017).",
+    "author": [
+      {
+        "family": "Damasio",
+        "given": "Antonio R."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    },
+    "title": "How Do You Feel? Interoception: The Sense of the Physiological Condition of the Body"
   },
   {
     "id": "panksepp1998are",
     "type": "book",
-    "note": "Jaak Panksepp, Affective Neuroscience: The Foundations of Human and Animal Emotions (New York: Oxford University Press, 1998); Joseph E. LeDoux, The Emotional Brain: The Mysterious Underpinnings of Emotional Life (New York: Simon & Schuster, 1996); Barrett, \"Are Emotions Natural Kinds?\""
+    "note": "Jaak Panksepp, Affective Neuroscience: The Foundations of Human and Animal Emotions (New York: Oxford University Press, 1998); Joseph E. LeDoux, The Emotional Brain: The Mysterious Underpinnings of Emotional Life (New York: Simon & Schuster, 1996); Barrett, \"Are Emotions Natural Kinds?\"",
+    "author": [
+      {
+        "family": "Panksepp",
+        "given": "Jaak"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1998
+        ]
+      ]
+    },
+    "title": "Are Emotions Natural Kinds?"
   },
   {
     "id": "lazarus1991appraisal",
     "type": "book",
-    "note": "Richard S. Lazarus, Emotion and Adaptation (New York: Oxford University Press, 1991); Klaus R. Scherer, \"Appraisal Considered as a Process of Multilevel Sequential Checking,\" in Appraisal Processes in Emotion: Theory, Methods, Research, ed. Klaus R. Scherer, Angela Schorr, and Tom Johnstone (New York: Oxford University Press, 2001), 92-120; Barrett, How Emotions Are Made."
+    "note": "Richard S. Lazarus, Emotion and Adaptation (New York: Oxford University Press, 1991); Klaus R. Scherer, \"Appraisal Considered as a Process of Multilevel Sequential Checking,\" in Appraisal Processes in Emotion: Theory, Methods, Research, ed. Klaus R. Scherer, Angela Schorr, and Tom Johnstone (New York: Oxford University Press, 2001), 92-120; Barrett, How Emotions Are Made.",
+    "author": [
+      {
+        "family": "Lazarus",
+        "given": "Richard S."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1991
+        ]
+      ]
+    },
+    "title": "Appraisal Considered as a Process of Multilevel Sequential Checking"
   },
   {
     "id": "frege1952on",
     "type": "book",
-    "note": "Gottlob Frege, \"On Sense and Reference,\" trans. Max Black, in Translations from the Philosophical Writings of Gottlob Frege, ed. Peter Geach and Max Black (Oxford: Blackwell, 1952), 56-78; Anil Gupta, \"Definitions,\" in The Stanford Encyclopedia of Philosophy, Fall 2021 ed., ed. Edward N. Zalta, https://plato.stanford.edu/entries/definitions/; Eric Margolis and Stephen Laurence, \"Concepts,\" in The Stanford Encyclopedia of Philosophy, Fall 2023 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/concepts/."
+    "note": "Gottlob Frege, \"On Sense and Reference,\" trans. Max Black, in Translations from the Philosophical Writings of Gottlob Frege, ed. Peter Geach and Max Black (Oxford: Blackwell, 1952), 56-78; Anil Gupta, \"Definitions,\" in The Stanford Encyclopedia of Philosophy, Fall 2021 ed., ed. Edward N. Zalta, https://plato.stanford.edu/entries/definitions/; Eric Margolis and Stephen Laurence, \"Concepts,\" in The Stanford Encyclopedia of Philosophy, Fall 2023 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/concepts/.",
+    "author": [
+      {
+        "family": "Frege",
+        "given": "Gottlob"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1952
+        ]
+      ]
+    },
+    "title": "On Sense and Reference"
   },
   {
     "id": "rosch1975cognitive",
     "type": "book",
-    "note": "Eleanor Rosch, \"Cognitive Representations of Semantic Categories,\" Journal of Experimental Psychology: General 104, no. 3 (1975): 192-233, https://doi.org/10.1037/0096-3445.104.3.192; Lawrence W. Barsalou, \"Ad Hoc Categories,\" Memory & Cognition 11, no. 3 (1983): 211-27, https://doi.org/10.3758/BF03196968; Margolis and Laurence, \"Concepts.\""
+    "note": "Eleanor Rosch, \"Cognitive Representations of Semantic Categories,\" Journal of Experimental Psychology: General 104, no. 3 (1975): 192-233, https://doi.org/10.1037/0096-3445.104.3.192; Lawrence W. Barsalou, \"Ad Hoc Categories,\" Memory & Cognition 11, no. 3 (1983): 211-27, https://doi.org/10.3758/BF03196968; Margolis and Laurence, \"Concepts.\"",
+    "author": [
+      {
+        "family": "Rosch",
+        "given": "Eleanor"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1975
+        ]
+      ]
+    },
+    "title": "Cognitive Representations of Semantic Categories"
   },
   {
     "id": "saussure1986work",
     "type": "book",
-    "note": "Ferdinand de Saussure, Course in General Linguistics, trans. Wade Baskin (La Salle, IL: Open Court, 1986); Charles Sanders Peirce, The Essential Peirce: Selected Philosophical Writings, vol. 2, ed. Peirce Edition Project (Bloomington: Indiana University Press, 1998); Umberto Eco, A Theory of Semiotics (Bloomington: Indiana University Press, 1976)."
+    "note": "Ferdinand de Saussure, Course in General Linguistics, trans. Wade Baskin (La Salle, IL: Open Court, 1986); Charles Sanders Peirce, The Essential Peirce: Selected Philosophical Writings, vol. 2, ed. Peirce Edition Project (Bloomington: Indiana University Press, 1998); Umberto Eco, A Theory of Semiotics (Bloomington: Indiana University Press, 1976).",
+    "issued": {
+      "date-parts": [
+        [
+          1986
+        ]
+      ]
+    }
   },
   {
     "id": "lazarus0000appraisal",
     "type": "book",
-    "note": "Lazarus, Emotion and Adaptation; Scherer, \"Appraisal Considered as a Process of Multilevel Sequential Checking\"; Ira J. Roseman, \"A Model of Appraisal in the Emotion System: Integrating Theory, Research, and Applications,\" in Appraisal Processes in Emotion, ed. Scherer, Schorr, and Johnstone, 68-91."
+    "note": "Lazarus, Emotion and Adaptation; Scherer, \"Appraisal Considered as a Process of Multilevel Sequential Checking\"; Ira J. Roseman, \"A Model of Appraisal in the Emotion System: Integrating Theory, Research, and Applications,\" in Appraisal Processes in Emotion, ed. Scherer, Schorr, and Johnstone, 68-91.",
+    "author": [
+      {
+        "family": "Lazarus",
+        "given": "Emotion"
+      }
+    ],
+    "title": "Appraisal Considered as a Process of Multilevel Sequential Checking"
   },
   {
     "id": "panksepp0000how",
     "type": "book",
-    "note": "Panksepp, Affective Neuroscience; Craig, \"How Do You Feel?\"; Damasio, The Feeling of What Happens."
+    "note": "Panksepp, Affective Neuroscience; Craig, \"How Do You Feel?\"; Damasio, The Feeling of What Happens.",
+    "author": [
+      {
+        "family": "Panksepp",
+        "given": "Affective"
+      }
+    ],
+    "title": "How Do You Feel?"
   },
   {
     "id": "damasio0000how",
     "type": "book",
-    "note": "Damasio, The Feeling of What Happens; Craig, \"How Do You Feel?\"; Barrett, How Emotions Are Made."
+    "note": "Damasio, The Feeling of What Happens; Craig, \"How Do You Feel?\"; Barrett, How Emotions Are Made.",
+    "author": [
+      {
+        "family": "Damasio",
+        "given": "The"
+      }
+    ],
+    "title": "How Do You Feel?"
   },
   {
     "id": "peirce1994work",
     "type": "book",
-    "note": "Peirce, The Essential Peirce, vol. 2; Saussure, Course in General Linguistics; Robert B. Brandom, Making It Explicit: Reasoning, Representing, and Discursive Commitment (Cambridge, MA: Harvard University Press, 1994); John R. Searle, The Construction of Social Reality (New York: Free Press, 1995)."
+    "note": "Peirce, The Essential Peirce, vol. 2; Saussure, Course in General Linguistics; Robert B. Brandom, Making It Explicit: Reasoning, Representing, and Discursive Commitment (Cambridge, MA: Harvard University Press, 1994); John R. Searle, The Construction of Social Reality (New York: Free Press, 1995).",
+    "author": [
+      {
+        "family": "Peirce",
+        "given": "The"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1994
+        ]
+      ]
+    }
   },
   {
     "id": "barrett0000work",
     "type": "book",
-    "note": "Barrett, How Emotions Are Made; Searle, The Construction of Social Reality; Damasio, The Feeling of What Happens; Peirce, The Essential Peirce, vol. 2."
+    "note": "Barrett, How Emotions Are Made; Searle, The Construction of Social Reality; Damasio, The Feeling of What Happens; Peirce, The Essential Peirce, vol. 2.",
+    "author": [
+      {
+        "family": "Barrett",
+        "given": "How"
+      }
+    ]
   },
   {
     "id": "klein1990work",
     "type": "book",
-    "note": "Julie Thompson Klein, Interdisciplinarity: History, Theory, and Practice (Detroit: Wayne State University Press, 1990); David Marr, Vision: A Computational Investigation into the Human Representation and Processing of Visual Information (San Francisco: W. H. Freeman, 1982)."
+    "note": "Julie Thompson Klein, Interdisciplinarity: History, Theory, and Practice (Detroit: Wayne State University Press, 1990); David Marr, Vision: A Computational Investigation into the Human Representation and Processing of Visual Information (San Francisco: W. H. Freeman, 1982).",
+    "author": [
+      {
+        "family": "Klein",
+        "given": "Julie Thompson"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1990
+        ]
+      ]
+    }
   },
   {
     "id": "frege1953on",
     "type": "book",
-    "note": "Frege, \"On Sense and Reference\"; Craig, \"How Do You Feel?\"; Peirce, The Essential Peirce, vol. 2; Susanne K. Langer, Feeling and Form: A Theory of Art (New York: Charles Scribner's Sons, 1953); Object Management Group, Unified Modeling Language, Version 2.5.1, formal/17-12-05 (Milford, MA: Object Management Group, 2017), https://www.omg.org/spec/UML/2.5.1/PDF."
+    "note": "Frege, \"On Sense and Reference\"; Craig, \"How Do You Feel?\"; Peirce, The Essential Peirce, vol. 2; Susanne K. Langer, Feeling and Form: A Theory of Art (New York: Charles Scribner's Sons, 1953); Object Management Group, Unified Modeling Language, Version 2.5.1, formal/17-12-05 (Milford, MA: Object Management Group, 2017), https://www.omg.org/spec/UML/2.5.1/PDF.",
+    "issued": {
+      "date-parts": [
+        [
+          1953
+        ]
+      ]
+    },
+    "title": "On Sense and Reference"
   },
   {
     "id": "klein0000work",
     "type": "book",
-    "note": "Klein, Interdisciplinarity; Marr, Vision."
+    "note": "Klein, Interdisciplinarity; Marr, Vision.",
+    "author": [
+      {
+        "family": "Klein",
+        "given": "Interdisciplinarity"
+      }
+    ]
   },
   {
     "id": "marr0000are",
     "type": "book",
-    "note": "Marr, Vision; Barrett, \"Are Emotions Natural Kinds?\"; Scherer, \"Appraisal Considered as a Process of Multilevel Sequential Checking.\""
+    "note": "Marr, Vision; Barrett, \"Are Emotions Natural Kinds?\"; Scherer, \"Appraisal Considered as a Process of Multilevel Sequential Checking.\"",
+    "author": [
+      {
+        "family": "Marr",
+        "given": "Vision"
+      }
+    ],
+    "title": "Are Emotions Natural Kinds?"
   },
   {
     "id": "marr0000work",
     "type": "book",
-    "note": "Marr, Vision; Klein, Interdisciplinarity; Object Management Group, Unified Modeling Language, Version 2.5.1."
+    "note": "Marr, Vision; Klein, Interdisciplinarity; Object Management Group, Unified Modeling Language, Version 2.5.1.",
+    "author": [
+      {
+        "family": "Marr",
+        "given": "Vision"
+      }
+    ]
   },
   {
     "id": "frege0000on",
     "type": "book",
-    "note": "Frege, \"On Sense and Reference\"; Peirce, The Essential Peirce, vol. 2; Searle, The Construction of Social Reality."
+    "note": "Frege, \"On Sense and Reference\"; Peirce, The Essential Peirce, vol. 2; Searle, The Construction of Social Reality.",
+    "title": "On Sense and Reference"
   },
   {
     "id": "rosch0000cognitive",
     "type": "book",
-    "note": "Rosch, \"Cognitive Representations of Semantic Categories\"; Barsalou, \"Ad Hoc Categories\"; Saussure, Course in General Linguistics; Peirce, The Essential Peirce, vol. 2."
+    "note": "Rosch, \"Cognitive Representations of Semantic Categories\"; Barsalou, \"Ad Hoc Categories\"; Saussure, Course in General Linguistics; Peirce, The Essential Peirce, vol. 2.",
+    "title": "Cognitive Representations of Semantic Categories"
   },
   {
     "id": "group0000work",
     "type": "book",
-    "note": "Object Management Group, Unified Modeling Language, Version 2.5.1; Marr, Vision; Brandom, Making It Explicit."
+    "note": "Object Management Group, Unified Modeling Language, Version 2.5.1; Marr, Vision; Brandom, Making It Explicit.",
+    "author": [
+      {
+        "family": "Group",
+        "given": "Object Management"
+      }
+    ]
   },
   {
     "id": "searle0000work",
     "type": "book",
-    "note": "Searle, The Construction of Social Reality; Brandom, Making It Explicit; Saussure, Course in General Linguistics."
+    "note": "Searle, The Construction of Social Reality; Brandom, Making It Explicit; Saussure, Course in General Linguistics.",
+    "author": [
+      {
+        "family": "Searle",
+        "given": "The"
+      }
+    ]
   },
   {
     "id": "marr0000work2",
     "type": "book",
-    "note": "Marr, Vision; Klein, Interdisciplinarity; Peirce, The Essential Peirce, vol. 2."
+    "note": "Marr, Vision; Klein, Interdisciplinarity; Peirce, The Essential Peirce, vol. 2.",
+    "author": [
+      {
+        "family": "Marr",
+        "given": "Vision"
+      }
+    ]
   },
   {
     "id": "damasio0000how2",
     "type": "book",
-    "note": "Damasio, The Feeling of What Happens; Craig, \"How Do You Feel?\"; Brandom, Making It Explicit; Searle, The Construction of Social Reality."
+    "note": "Damasio, The Feeling of What Happens; Craig, \"How Do You Feel?\"; Brandom, Making It Explicit; Searle, The Construction of Social Reality.",
+    "author": [
+      {
+        "family": "Damasio",
+        "given": "The"
+      }
+    ],
+    "title": "How Do You Feel?"
   },
   {
     "id": "james2004what",
     "type": "book",
-    "note": "James, \"What Is an Emotion?\"; Schachter and Singer, \"Cognitive, Social, and Physiological Determinants\"; Fred Feldman, Pleasure and the Good Life: Concerning the Nature, Varieties, and Plausibility of Hedonism (Oxford: Clarendon Press, 2004); Martha C. Nussbaum, Upheavals of Thought: The Intelligence of Emotions (Cambridge: Cambridge University Press, 2001)."
+    "note": "James, \"What Is an Emotion?\"; Schachter and Singer, \"Cognitive, Social, and Physiological Determinants\"; Fred Feldman, Pleasure and the Good Life: Concerning the Nature, Varieties, and Plausibility of Hedonism (Oxford: Clarendon Press, 2004); Martha C. Nussbaum, Upheavals of Thought: The Intelligence of Emotions (Cambridge: Cambridge University Press, 2001).",
+    "issued": {
+      "date-parts": [
+        [
+          2004
+        ]
+      ]
+    },
+    "title": "What Is an Emotion?"
   },
   {
     "id": "barrett0000are",
     "type": "book",
-    "note": "Barrett, \"Are Emotions Natural Kinds?\"; Lazarus, Emotion and Adaptation; Scherer, \"Appraisal Considered as a Process of Multilevel Sequential Checking\"; Nussbaum, Upheavals of Thought."
+    "note": "Barrett, \"Are Emotions Natural Kinds?\"; Lazarus, Emotion and Adaptation; Scherer, \"Appraisal Considered as a Process of Multilevel Sequential Checking\"; Nussbaum, Upheavals of Thought.",
+    "title": "Are Emotions Natural Kinds?"
   },
   {
     "id": "gupta0000definitions",
     "type": "book",
-    "note": "Gupta, \"Definitions\"; Frege, \"On Sense and Reference\"; Barrett, \"Are Emotions Natural Kinds?\""
+    "note": "Gupta, \"Definitions\"; Frege, \"On Sense and Reference\"; Barrett, \"Are Emotions Natural Kinds?\"",
+    "title": "Definitions"
   },
   {
     "id": "damasio0000how3",
     "type": "book",
-    "note": "Damasio, The Feeling of What Happens; Craig, \"How Do You Feel?\"; Scherer, \"Appraisal Considered as a Process of Multilevel Sequential Checking.\""
+    "note": "Damasio, The Feeling of What Happens; Craig, \"How Do You Feel?\"; Scherer, \"Appraisal Considered as a Process of Multilevel Sequential Checking.\"",
+    "author": [
+      {
+        "family": "Damasio",
+        "given": "The"
+      }
+    ],
+    "title": "How Do You Feel?"
   },
   {
     "id": "barrett0000are2",
     "type": "book",
-    "note": "Barrett, \"Are Emotions Natural Kinds?\"; LeDoux, The Emotional Brain; Panksepp, Affective Neuroscience."
+    "note": "Barrett, \"Are Emotions Natural Kinds?\"; LeDoux, The Emotional Brain; Panksepp, Affective Neuroscience.",
+    "title": "Are Emotions Natural Kinds?"
   },
   {
     "id": "frege0000on2",
     "type": "book",
-    "note": "Frege, \"On Sense and Reference\"; Saussure, Course in General Linguistics; Brandom, Making It Explicit."
+    "note": "Frege, \"On Sense and Reference\"; Saussure, Course in General Linguistics; Brandom, Making It Explicit.",
+    "title": "On Sense and Reference"
   },
   {
     "id": "brandom0000work",
     "type": "book",
-    "note": "Brandom, Making It Explicit; Searle, The Construction of Social Reality; Barrett, How Emotions Are Made."
+    "note": "Brandom, Making It Explicit; Searle, The Construction of Social Reality; Barrett, How Emotions Are Made.",
+    "author": [
+      {
+        "family": "Brandom",
+        "given": "Making"
+      }
+    ]
   },
   {
     "id": "damasio0000how4",
     "type": "book",
-    "note": "Damasio, The Feeling of What Happens; Craig, \"How Do You Feel?\"; Barrett, How Emotions Are Made; Scherer, \"Appraisal Considered as a Process of Multilevel Sequential Checking.\""
+    "note": "Damasio, The Feeling of What Happens; Craig, \"How Do You Feel?\"; Barrett, How Emotions Are Made; Scherer, \"Appraisal Considered as a Process of Multilevel Sequential Checking.\"",
+    "author": [
+      {
+        "family": "Damasio",
+        "given": "The"
+      }
+    ],
+    "title": "How Do You Feel?"
   },
   {
     "id": "peirce0000ad",
     "type": "book",
-    "note": "Peirce, The Essential Peirce, vol. 2; Brandom, Making It Explicit; Searle, The Construction of Social Reality; Barsalou, \"Ad Hoc Categories.\""
+    "note": "Peirce, The Essential Peirce, vol. 2; Brandom, Making It Explicit; Searle, The Construction of Social Reality; Barsalou, \"Ad Hoc Categories.\"",
+    "author": [
+      {
+        "family": "Peirce",
+        "given": "The"
+      }
+    ],
+    "title": "Ad Hoc Categories."
   },
   {
     "id": "barrett0000are3",
     "type": "book",
-    "note": "Barrett, \"Are Emotions Natural Kinds?\"; Damasio, The Feeling of What Happens; Searle, The Construction of Social Reality."
+    "note": "Barrett, \"Are Emotions Natural Kinds?\"; Damasio, The Feeling of What Happens; Searle, The Construction of Social Reality.",
+    "title": "Are Emotions Natural Kinds?"
   },
   {
     "id": "brandom0000work2",
     "type": "book",
-    "note": "Brandom, Making It Explicit; Barrett, How Emotions Are Made; Peirce, The Essential Peirce, vol. 2."
+    "note": "Brandom, Making It Explicit; Barrett, How Emotions Are Made; Peirce, The Essential Peirce, vol. 2.",
+    "author": [
+      {
+        "family": "Brandom",
+        "given": "Making"
+      }
+    ]
   },
   {
     "id": "damasio0000how5",
     "type": "book",
-    "note": "Damasio, The Feeling of What Happens; Craig, \"How Do You Feel?\"; Peirce, The Essential Peirce, vol. 2; Searle, The Construction of Social Reality."
+    "note": "Damasio, The Feeling of What Happens; Craig, \"How Do You Feel?\"; Peirce, The Essential Peirce, vol. 2; Searle, The Construction of Social Reality.",
+    "author": [
+      {
+        "family": "Damasio",
+        "given": "The"
+      }
+    ],
+    "title": "How Do You Feel?"
   },
   {
     "id": "brandom0000work3",
     "type": "book",
-    "note": "Brandom, Making It Explicit; Lazarus, Emotion and Adaptation; Barrett, How Emotions Are Made."
+    "note": "Brandom, Making It Explicit; Lazarus, Emotion and Adaptation; Barrett, How Emotions Are Made.",
+    "author": [
+      {
+        "family": "Brandom",
+        "given": "Making"
+      }
+    ]
   },
   {
     "id": "peirce0000work",
     "type": "book",
-    "note": "Peirce, The Essential Peirce, vol. 2; Brandom, Making It Explicit; Barrett, How Emotions Are Made."
+    "note": "Peirce, The Essential Peirce, vol. 2; Brandom, Making It Explicit; Barrett, How Emotions Are Made.",
+    "author": [
+      {
+        "family": "Peirce",
+        "given": "The"
+      }
+    ]
   }
 ]
