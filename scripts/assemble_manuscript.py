@@ -1,0 +1,93 @@
+#!/usr/bin/env python3
+"""
+Assemble the manuscript from content files in the order defined by
+publishing/manuscript.yml. Outputs a single combined markdown file
+ready for Pandoc processing.
+"""
+
+import yaml
+import os
+import sys
+import re
+
+def load_manifest(path='publishing/manuscript.yml'):
+    with open(path, encoding='utf-8') as f:
+        return yaml.safe_load(f)
+
+def read_file(path):
+    if not os.path.exists(path):
+        print(f'WARNING: Missing file {path}', file=sys.stderr)
+        return f'\n\n<!-- MISSING: {path} -->\n\n'
+    with open(path, encoding='utf-8') as f:
+        return f.read()
+
+def assemble(manifest, output_path='build/manuscript.md'):
+    sections = []
+    
+    # Title block
+    sections.append('---')
+    sections.append(f'title: "{manifest.get("title", "")}"')
+    sections.append(f'author: "{manifest.get("author", "")}"')
+    if manifest.get('subtitle'):
+        sections.append(f'subtitle: "{manifest["subtitle"]}"')
+    sections.append('---')
+    sections.append('')
+    
+    # Front matter
+    for f in manifest.get('front_matter', []):
+        content = read_file(f)
+        # Mark section breakers for styling
+        if 'related-books' in f or f.endswith('introduction.md'):
+            content = '<div class="section-breaker">\n\n' + content + '\n\n</div>'
+        sections.append(content)
+        sections.append('\n\n<div class="page-break"></div>\n\n')
+    
+    # Parts
+    for part in manifest.get('parts', []):
+        for f in part.get('files', []):
+            content = read_file(f)
+            if '_part.md' in f:
+                # Style as navy section breaker
+                content = '<div class="section-breaker part-divider">\n\n' + content + '\n\n</div>'
+            elif '_metamorphosis.md' in f:
+                content = '<div class="section-breaker metamorphosis">\n\n' + content + '\n\n</div>'
+            sections.append(content)
+            sections.append('\n\n<div class="page-break"></div>\n\n')
+    
+    # Appendices
+    for f in manifest.get('appendices', []):
+        sections.append(read_file(f))
+        sections.append('\n\n<div class="page-break"></div>\n\n')
+    
+    # Back matter
+    for f in manifest.get('back_matter', []):
+        sections.append(read_file(f))
+        sections.append('\n\n<div class="page-break"></div>\n\n')
+    
+    # Combine bibliography JSON files
+    import json
+    all_entries = []
+    seen_ids = set()
+    for bf in manifest.get('bibliographies', []):
+        if os.path.exists(bf):
+            entries = json.load(open(bf, encoding='utf-8'))
+            for e in entries:
+                if e['id'] not in seen_ids:
+                    seen_ids.add(e['id'])
+                    all_entries.append(e)
+    
+    # Write combined bibliography
+    os.makedirs('build', exist_ok=True)
+    json.dump(all_entries, open('build/bibliography.json', 'w'), indent=2)
+    print(f'Combined {len(all_entries)} bibliography entries')
+    
+    # Write assembled manuscript
+    os.makedirs(os.path.dirname(output_path) or '.', exist_ok=True)
+    with open(output_path, 'w', encoding='utf-8') as f:
+        f.write('\n'.join(sections))
+    print(f'Manuscript assembled: {output_path} ({len(sections)} sections)')
+
+if __name__ == '__main__':
+    manifest = load_manifest()
+    output = sys.argv[1] if len(sys.argv) > 1 else 'build/manuscript.md'
+    assemble(manifest, output)

@@ -1,0 +1,112 @@
+# Manuscript assembly order for How to Design an Emotion
+# This defines the exact reading order for the built output
+
+title: "How to Design an Emotion"
+author: "Cézjah"
+subtitle: "Architecting the Values, Meaning and Actions To Help You Succeed"
+
+# Front matter (in order)
+front_matter:
+  - content/front-matter/title-page.md
+  - content/front-matter/copyright.md
+  - content/front-matter/acknowledgments.md
+  - content/front-matter/preface.md
+  - content/front-matter/introduction.md
+  - content/front-matter/about-the-nft.md
+  - content/front-matter/about-universal-moral-concepts.md
+  - content/front-matter/related-books.md
+  - content/front-matter/methodology.md
+
+# Parts (each: cover -> divider -> chapters -> metamorphosis)
+parts:
+  - name: "Part I"
+    subtitle: "The Problem of Definition"
+    files:
+      - content/part-1/_part.md
+      - content/part-1/chapter-01.md
+      - content/part-1/_metamorphosis.md
+  - name: "Part II"
+    subtitle: "The Architecture of Identity"
+    files:
+      - content/part-2/_part.md
+      - content/part-2/chapter-02.md
+      - content/part-2/chapter-03.md
+      - content/part-2/chapter-04.md
+      - content/part-2/chapter-05.md
+      - content/part-2/chapter-06.md
+      - content/part-2/_metamorphosis.md
+  - name: "Part III"
+    subtitle: "The Architecture of Meaning"
+    files:
+      - content/part-3/_part.md
+      - content/part-3/chapter-07.md
+      - content/part-3/chapter-08.md
+      - content/part-3/_metamorphosis.md
+  - name: "Part IV"
+    subtitle: "The Construction of Emotion"
+    files:
+      - content/part-4/_part.md
+      - content/part-4/chapter-09.md
+      - content/part-4/chapter-10.md
+      - content/part-4/chapter-11.md
+      - content/part-4/chapter-12.md
+      - content/part-4/chapter-13.md
+      - content/part-4/_metamorphosis.md
+  - name: "Part V"
+    subtitle: "The Constructivist Linguistics of Emotion"
+    files:
+      - content/part-5/_part.md
+      - content/part-5/chapter-14.md
+      - content/part-5/_metamorphosis.md
+
+# Appendices
+appendices:
+  - content/appendices/appendix-a.md
+  - content/appendices/appendix-b.md
+  - content/appendices/appendix-c.md
+  - content/appendices/appendix-d.md
+  - content/appendices/appendix-e.md
+  - content/appendices/appendix-f.md
+  - content/appendices/appendix-g.md
+  - content/appendices/appendix-h.md
+  - content/appendices/appendix-i.md
+  - content/appendices/appendix-j.md
+  - content/appendices/appendix-k.md
+  - content/appendices/appendix-l.md
+  - content/appendices/appendix-m.md
+  - content/appendices/appendix-n.md
+
+# Back matter
+back_matter:
+  - content/back-matter/glossary.md
+  - content/back-matter/about-the-author.md
+
+# Bibliography JSON files (for Pandoc citation resolution)
+bibliographies:
+  - content/references/bibliography/introduction.json
+  - content/references/bibliography/preface.json
+  - content/references/bibliography/chapter-01.json
+  - content/references/bibliography/chapter-02.json
+  - content/references/bibliography/chapter-03.json
+  - content/references/bibliography/chapter-04.json
+  - content/references/bibliography/chapter-05.json
+  - content/references/bibliography/chapter-06.json
+  - content/references/bibliography/chapter-07.json
+  - content/references/bibliography/chapter-08.json
+  - content/references/bibliography/chapter-09.json
+  - content/references/bibliography/chapter-10.json
+  - content/references/bibliography/chapter-11.json
+  - content/references/bibliography/chapter-12.json
+  - content/references/bibliography/chapter-13.json
+  - content/references/bibliography/chapter-14.json
+  - content/references/bibliography/appendix-a.json
+  - content/references/bibliography/appendix-b.json
+  - content/references/bibliography/appendix-c.json
+  - content/references/bibliography/appendix-d.json
+  - content/references/bibliography/appendix-f.json
+  - content/references/bibliography/appendix-g.json
+  - content/references/bibliography/appendix-h.json
+  - content/references/bibliography/appendix-i.json
+  - content/references/bibliography/appendix-j.json
+  - content/references/bibliography/appendix-l.json
+  - content/references/bibliography/appendix-n.json

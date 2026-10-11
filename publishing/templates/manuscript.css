@@ -1,0 +1,130 @@
+/* How to Design an Emotion - Manuscript Styles */
+
+/* Navy section breakers (part dividers, metamorphosis pages) */
+.section-breaker {
+  background-color: #0a1931;
+  color: #ffffff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 4rem 2rem;
+  page-break-before: always;
+  page-break-after: always;
+}
+
+.section-breaker h1 {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 3rem;
+  font-weight: normal;
+  letter-spacing: 0.15em;
+  color: #ffffff;
+  margin-bottom: 1rem;
+  text-transform: uppercase;
+}
+
+.section-breaker h2 {
+  font-family: Georgia, serif;
+  font-size: 1.5rem;
+  font-style: italic;
+  font-weight: normal;
+  color: #c0c0c0;
+  margin-bottom: 3rem;
+}
+
+.section-breaker p {
+  font-family: Georgia, serif;
+  color: #ffffff;
+}
+
+.section-breaker em {
+  color: #c0c0c0;
+  font-size: 1.2rem;
+}
+
+/* Part divider specific */
+.part-divider h1 {
+  font-size: 3.5rem;
+}
+
+/* Metamorphosis pages */
+.metamorphosis h1 {
+  font-size: 2rem;
+  letter-spacing: 0.1em;
+}
+
+/* Page breaks for print/PDF */
+.page-break {
+  page-break-after: always;
+  height: 0;
+}
+
+/* Centered captions */
+p[align="center"] {
+  text-align: center;
+  font-style: italic;
+  margin: 0.5rem 0 1.5rem 0;
+  color: #333;
+}
+
+/* Body text */
+body {
+  font-family: Georgia, 'Times New Roman', serif;
+  line-height: 1.7;
+  max-width: 42rem;
+  margin: 0 auto;
+  padding: 2rem;
+  color: #1a1a1a;
+}
+
+/* Citations */
+.citation {
+  font-size: 0.9em;
+}
+
+/* Footnotes */
+.footnote {
+  font-size: 0.85em;
+  color: #555;
+}
+
+/* Blockquotes */
+blockquote {
+  border-left: 3px solid #0a1931;
+  margin-left: 0;
+  padding-left: 1rem;
+  font-style: italic;
+  color: #444;
+}
+
+/* Tables */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1rem 0;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 0.5rem;
+  text-align: left;
+}
+
+th {
+  background-color: #f5f5f5;
+  font-weight: bold;
+}
+
+/* Print styles */
+@media print {
+  .section-breaker {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+  
+  body {
+    max-width: none;
+  }
+}
