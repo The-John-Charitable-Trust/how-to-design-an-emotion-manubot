@@ -1,0 +1,16 @@
+# Generated build outputs - delivered as workflow artifacts, not tracked in git
+build/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.swp
+*~

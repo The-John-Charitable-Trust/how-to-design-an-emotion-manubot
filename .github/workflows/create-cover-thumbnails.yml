@@ -4,7 +4,7 @@ on:
   push:
     paths:
       - ".github/workflows/create-cover-thumbnails.yml"
-      - "content/images/covers/how-to-design-an-emotion/cover.jpg"
+      - "assets/covers/how-to-design-an-emotion/cover.jpg"
   workflow_dispatch:
 
 permissions:
@@ -27,7 +27,7 @@ jobs:
 
       - name: Create front and back cover images
         run: |
-          src="content/images/covers/how-to-design-an-emotion/cover.jpg"
+          src="assets/covers/how-to-design-an-emotion/cover.jpg"
           outdir="${RUNNER_TEMP}/cover-thumbnails"
           mkdir -p "$outdir"
           w=$(identify -format "%w" "$src")
@@ -40,7 +40,7 @@ jobs:
           echo "Generated thumbnails in $outdir"
 
       - name: Upload thumbnails as artifacts
-        uses: actions/upload-artifact@65c4c4a7ddee1b0f0d3c9e0d5c1a5d1b0a1b0a1 # v4.6.0
+        uses: actions/upload-artifact@65c4c4a5ddee575a47d8b7fcb8b8ff950ba2d8c19 # v4.6.0
         with:
           name: cover-thumbnails
           path: ${{ runner.temp }}/cover-thumbnails/

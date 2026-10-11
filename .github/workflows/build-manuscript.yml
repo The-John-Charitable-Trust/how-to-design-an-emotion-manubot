@@ -20,14 +20,32 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Install dependencies
+      - name: Install Python dependencies
         run: pip install -r publishing/requirements.lock
 
+      - name: Install Pandoc
+        run: |
+          PANDOC_VERSION="3.1.13"
+          wget -q "https://github.com/jgm/pandoc/releases/download/${PANDOC_VERSION}/pandoc-${PANDOC_VERSION}-1-amd64.deb"
+          sudo dpkg -i "pandoc-${PANDOC_VERSION}-1-amd64.deb"
+          pandoc --version | head -1
+
       - name: Assemble manuscript
-        run: python scripts/assemble_manuscript.py --manifest publishing/manuscript.yml --output build/output/
+        run: |
+          mkdir -p build/output
+          python scripts/assemble_manuscript.py \
+            --manifest publishing/manuscript.yml \
+            --output build/output/manuscript.md
+          # Copy bibliography assembled alongside manuscript.md
+          cp build/bibliography.json build/output/bibliography.json
 
       - name: Build DOCX
-        run: python scripts/build_docx.py --input build/output/manuscript.md --output build/output/How-To-Design-an-Emotion-Master.docx
+        run: |
+          python scripts/build_docx.py \
+            --input build/output/manuscript.md \
+            --output build/output/How-To-Design-an-Emotion-Master.docx \
+            --bibliography build/output/bibliography.json \
+            --csl publishing/chicago-author-date.csl
 
       - name: Upload DOCX artifact
         uses: actions/upload-artifact@v4

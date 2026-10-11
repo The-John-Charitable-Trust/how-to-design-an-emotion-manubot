@@ -1,0 +1,3 @@
+# Locked dependencies for manuscript build and validation workflows
+# Generated 2026-10-11. Update with: pip freeze > publishing/requirements.lock
+PyYAML==6.0.1
