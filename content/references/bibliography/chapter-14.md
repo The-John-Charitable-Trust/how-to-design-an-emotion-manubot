@@ -1,59 +1,77 @@
 # Chapter 14 — Bibliography
 
-[Return to Chapter 14](../../part-5/chapter-14.md)
+[Back to Chapter 14](../../part-5/chapter-14.md)
 
-Barrett, Lisa Feldman. "Are Emotions Natural Kinds?" Perspectives on Psychological Science 1, no. 1 (2006): 28-58. https://doi.org/10.1111/j.1745-6916.2006.00003.x.
+William James, "What Is an Emotion?," Mind os-IX, no. 34 (April 1884): 188-205, https://doi.org/10.1093/mind/os-IX.34.188; Stanley Schachter and Jerome E. Singer, "Cognitive, Social, and Physiological Determinants of Emotional State," Psychological Review 69, no. 5 (1962): 379-99, https://doi.org/10.1037/h0046234; Lisa Feldman Barrett, "Are Emotions Natural Kinds?," Perspectives on Psychological Science 1, no. 1 (2006): 28-58, https://doi.org/10.1111/j.1745-6916.2006.00003.x.
 
-Barrett, Lisa Feldman. How Emotions Are Made: The Secret Life of the Brain. Boston: Houghton Mifflin Harcourt, 2017.
+Antonio R. Damasio, The Feeling of What Happens: Body and Emotion in the Making of Consciousness (New York: Harcourt Brace, 1999); A. D. Craig, "How Do You Feel? Interoception: The Sense of the Physiological Condition of the Body," Nature Reviews Neuroscience 3, no. 8 (2002): 655-66, https://doi.org/10.1038/nrn894; Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017).
 
-Barsalou, Lawrence W. "Ad Hoc Categories." Memory & Cognition 11, no. 3 (1983): 211-27. https://doi.org/10.3758/BF03196968.
+Jaak Panksepp, Affective Neuroscience: The Foundations of Human and Animal Emotions (New York: Oxford University Press, 1998); Joseph E. LeDoux, The Emotional Brain: The Mysterious Underpinnings of Emotional Life (New York: Simon & Schuster, 1996); Barrett, "Are Emotions Natural Kinds?"
 
-Brandom, Robert B. Making It Explicit: Reasoning, Representing, and Discursive Commitment. Cambridge, MA: Harvard University Press, 1994.
+Richard S. Lazarus, Emotion and Adaptation (New York: Oxford University Press, 1991); Klaus R. Scherer, "Appraisal Considered as a Process of Multilevel Sequential Checking," in Appraisal Processes in Emotion: Theory, Methods, Research, ed. Klaus R. Scherer, Angela Schorr, and Tom Johnstone (New York: Oxford University Press, 2001), 92-120; Barrett, How Emotions Are Made.
 
-Craig, A. D. "How Do You Feel? Interoception: The Sense of the Physiological Condition of the Body." Nature Reviews Neuroscience 3, no. 8 (2002): 655-66. https://doi.org/10.1038/nrn894.
+Gottlob Frege, "On Sense and Reference," trans. Max Black, in Translations from the Philosophical Writings of Gottlob Frege, ed. Peter Geach and Max Black (Oxford: Blackwell, 1952), 56-78; Anil Gupta, "Definitions," in The Stanford Encyclopedia of Philosophy, Fall 2021 ed., ed. Edward N. Zalta, https://plato.stanford.edu/entries/definitions/; Eric Margolis and Stephen Laurence, "Concepts," in The Stanford Encyclopedia of Philosophy, Fall 2023 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/concepts/.
 
-Damasio, Antonio R. The Feeling of What Happens: Body and Emotion in the Making of Consciousness. New York: Harcourt Brace, 1999.
+Eleanor Rosch, "Cognitive Representations of Semantic Categories," Journal of Experimental Psychology: General 104, no. 3 (1975): 192-233, https://doi.org/10.1037/0096-3445.104.3.192; Lawrence W. Barsalou, "Ad Hoc Categories," Memory & Cognition 11, no. 3 (1983): 211-27, https://doi.org/10.3758/BF03196968; Margolis and Laurence, "Concepts."
 
-Eco, Umberto. A Theory of Semiotics. Bloomington: Indiana University Press, 1976.
+Ferdinand de Saussure, Course in General Linguistics, trans. Wade Baskin (La Salle, IL: Open Court, 1986); Charles Sanders Peirce, The Essential Peirce: Selected Philosophical Writings, vol. 2, ed. Peirce Edition Project (Bloomington: Indiana University Press, 1998); Umberto Eco, A Theory of Semiotics (Bloomington: Indiana University Press, 1976).
 
-Feldman, Fred. Pleasure and the Good Life: Concerning the Nature, Varieties, and Plausibility of Hedonism. Oxford: Clarendon Press, 2004.
+Lazarus, Emotion and Adaptation; Scherer, "Appraisal Considered as a Process of Multilevel Sequential Checking"; Ira J. Roseman, "A Model of Appraisal in the Emotion System: Integrating Theory, Research, and Applications," in Appraisal Processes in Emotion, ed. Scherer, Schorr, and Johnstone, 68-91.
 
-Frege, Gottlob. "On Sense and Reference." Translated by Max Black. In Translations from the Philosophical Writings of Gottlob Frege, edited by Peter Geach and Max Black, 56-78. Oxford: Blackwell, 1952.
+Panksepp, Affective Neuroscience; Craig, "How Do You Feel?"; Damasio, The Feeling of What Happens.
 
-Gupta, Anil. "Definitions." In The Stanford Encyclopedia of Philosophy. Fall 2021 edition. Edited by Edward N. Zalta. https://plato.stanford.edu/entries/definitions/.
+Damasio, The Feeling of What Happens; Craig, "How Do You Feel?"; Barrett, How Emotions Are Made.
 
-James, William. "What Is an Emotion?" Mind os-IX, no. 34 (April 1884): 188-205. https://doi.org/10.1093/mind/os-IX.34.188.
+Peirce, The Essential Peirce, vol. 2; Saussure, Course in General Linguistics; Robert B. Brandom, Making It Explicit: Reasoning, Representing, and Discursive Commitment (Cambridge, MA: Harvard University Press, 1994); John R. Searle, The Construction of Social Reality (New York: Free Press, 1995).
 
-Klein, Julie Thompson. Interdisciplinarity: History, Theory, and Practice. Detroit: Wayne State University Press, 1990.
+Barrett, How Emotions Are Made; Searle, The Construction of Social Reality; Damasio, The Feeling of What Happens; Peirce, The Essential Peirce, vol. 2.
 
-Langer, Susanne K. Feeling and Form: A Theory of Art. New York: Charles Scribner's Sons, 1953.
+Julie Thompson Klein, Interdisciplinarity: History, Theory, and Practice (Detroit: Wayne State University Press, 1990); David Marr, Vision: A Computational Investigation into the Human Representation and Processing of Visual Information (San Francisco: W. H. Freeman, 1982).
 
-Lange, Carl Georg. The Emotions. Translated by I. A. Haupt. Baltimore: Williams & Wilkins, 1922.
+Frege, "On Sense and Reference"; Craig, "How Do You Feel?"; Peirce, The Essential Peirce, vol. 2; Susanne K. Langer, Feeling and Form: A Theory of Art (New York: Charles Scribner's Sons, 1953); Object Management Group, Unified Modeling Language, Version 2.5.1, formal/17-12-05 (Milford, MA: Object Management Group, 2017), https://www.omg.org/spec/UML/2.5.1/PDF.
 
-Lazarus, Richard S. Emotion and Adaptation. New York: Oxford University Press, 1991.
+Klein, Interdisciplinarity; Marr, Vision.
 
-LeDoux, Joseph E. The Emotional Brain: The Mysterious Underpinnings of Emotional Life. New York: Simon & Schuster, 1996.
+Marr, Vision; Barrett, "Are Emotions Natural Kinds?"; Scherer, "Appraisal Considered as a Process of Multilevel Sequential Checking."
 
-Margolis, Eric, and Stephen Laurence. "Concepts." In The Stanford Encyclopedia of Philosophy. Fall 2023 edition. Edited by Edward N. Zalta and Uri Nodelman. https://plato.stanford.edu/entries/concepts/.
+Marr, Vision; Klein, Interdisciplinarity; Object Management Group, Unified Modeling Language, Version 2.5.1.
 
-Marr, David. Vision: A Computational Investigation into the Human Representation and Processing of Visual Information. San Francisco: W. H. Freeman, 1982.
+Frege, "On Sense and Reference"; Peirce, The Essential Peirce, vol. 2; Searle, The Construction of Social Reality.
 
-Nussbaum, Martha C. Upheavals of Thought: The Intelligence of Emotions. Cambridge: Cambridge University Press, 2001.
+Rosch, "Cognitive Representations of Semantic Categories"; Barsalou, "Ad Hoc Categories"; Saussure, Course in General Linguistics; Peirce, The Essential Peirce, vol. 2.
 
-Object Management Group. Unified Modeling Language, Version 2.5.1. formal/17-12-05. Milford, MA: Object Management Group, 2017. https://www.omg.org/spec/UML/2.5.1/PDF.
+Object Management Group, Unified Modeling Language, Version 2.5.1; Marr, Vision; Brandom, Making It Explicit.
 
-Panksepp, Jaak. Affective Neuroscience: The Foundations of Human and Animal Emotions. New York: Oxford University Press, 1998.
+Searle, The Construction of Social Reality; Brandom, Making It Explicit; Saussure, Course in General Linguistics.
 
-Peirce, Charles Sanders. The Essential Peirce: Selected Philosophical Writings. Vol. 2. Edited by the Peirce Edition Project. Bloomington: Indiana University Press, 1998.
+Marr, Vision; Klein, Interdisciplinarity; Peirce, The Essential Peirce, vol. 2.
 
-Roseman, Ira J. "A Model of Appraisal in the Emotion System: Integrating Theory, Research, and Applications." In Appraisal Processes in Emotion: Theory, Methods, Research, edited by Klaus R. Scherer, Angela Schorr, and Tom Johnstone, 68-91. New York: Oxford University Press, 2001.
+Damasio, The Feeling of What Happens; Craig, "How Do You Feel?"; Brandom, Making It Explicit; Searle, The Construction of Social Reality.
 
-Rosch, Eleanor. "Cognitive Representations of Semantic Categories." Journal of Experimental Psychology: General 104, no. 3 (1975): 192-233. https://doi.org/10.1037/0096-3445.104.3.192.
+James, "What Is an Emotion?"; Schachter and Singer, "Cognitive, Social, and Physiological Determinants"; Fred Feldman, Pleasure and the Good Life: Concerning the Nature, Varieties, and Plausibility of Hedonism (Oxford: Clarendon Press, 2004); Martha C. Nussbaum, Upheavals of Thought: The Intelligence of Emotions (Cambridge: Cambridge University Press, 2001).
 
-Saussure, Ferdinand de. Course in General Linguistics. Translated by Wade Baskin. La Salle, IL: Open Court, 1986.
+Barrett, "Are Emotions Natural Kinds?"; Lazarus, Emotion and Adaptation; Scherer, "Appraisal Considered as a Process of Multilevel Sequential Checking"; Nussbaum, Upheavals of Thought.
 
-Schachter, Stanley, and Jerome E. Singer. "Cognitive, Social, and Physiological Determinants of Emotional State." Psychological Review 69, no. 5 (1962): 379-99. https://doi.org/10.1037/h0046234.
+Gupta, "Definitions"; Frege, "On Sense and Reference"; Barrett, "Are Emotions Natural Kinds?"
 
-Scherer, Klaus R. "Appraisal Considered as a Process of Multilevel Sequential Checking." In Appraisal Processes in Emotion: Theory, Methods, Research, edited by Klaus R. Scherer, Angela Schorr, and Tom Johnstone, 92-120. New York: Oxford University Press, 2001.
+Damasio, The Feeling of What Happens; Craig, "How Do You Feel?"; Scherer, "Appraisal Considered as a Process of Multilevel Sequential Checking."
 
-Searle, John R. The Construction of Social Reality. New York: Free Press, 1995.
+Barrett, "Are Emotions Natural Kinds?"; LeDoux, The Emotional Brain; Panksepp, Affective Neuroscience.
+
+Frege, "On Sense and Reference"; Saussure, Course in General Linguistics; Brandom, Making It Explicit.
+
+Brandom, Making It Explicit; Searle, The Construction of Social Reality; Barrett, How Emotions Are Made.
+
+Damasio, The Feeling of What Happens; Craig, "How Do You Feel?"; Barrett, How Emotions Are Made; Scherer, "Appraisal Considered as a Process of Multilevel Sequential Checking."
+
+Peirce, The Essential Peirce, vol. 2; Brandom, Making It Explicit; Searle, The Construction of Social Reality; Barsalou, "Ad Hoc Categories."
+
+Barrett, "Are Emotions Natural Kinds?"; Damasio, The Feeling of What Happens; Searle, The Construction of Social Reality.
+
+Brandom, Making It Explicit; Barrett, How Emotions Are Made; Peirce, The Essential Peirce, vol. 2.
+
+Damasio, The Feeling of What Happens; Craig, "How Do You Feel?"; Peirce, The Essential Peirce, vol. 2; Searle, The Construction of Social Reality.
+
+Brandom, Making It Explicit; Lazarus, Emotion and Adaptation; Barrett, How Emotions Are Made.
+
+Peirce, The Essential Peirce, vol. 2; Brandom, Making It Explicit; Barrett, How Emotions Are Made.

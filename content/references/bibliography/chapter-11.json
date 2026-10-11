@@ -1,0 +1,287 @@
+[
+  {
+    "id": "peirce1955logic",
+    "type": "book",
+    "note": "Charles Sanders Peirce, \u201cLogic as Semiotic: The Theory of Signs,\u201d in Philosophical Writings of Peirce, ed. Justus Buchler (New York: Dover, 1955), 98-119; Saul A. Kripke, Naming and Necessity (Cambridge, MA: Harvard University Press, 1980), 48-96; Robert Brandom, Making It Explicit: Reasoning, Representing, and Discursive Commitment (Cambridge, MA: Harvard University Press, 1994), 159-200; Josef Perner, Understanding the Representational Mind (Cambridge, MA: MIT Press, 1991), 7-35."
+  },
+  {
+    "id": "panksepp1998work",
+    "type": "book",
+    "note": "Jaak Panksepp, Affective Neuroscience: The Foundations of Human and Animal Emotions (New York: Oxford University Press, 1998), 17-45; Antonio Damasio, The Feeling of What Happens: Body and Emotion in the Making of Consciousness (New York: Harcourt, 1999), 35-81."
+  },
+  {
+    "id": "lewis1993work",
+    "type": "book",
+    "note": "Michael Lewis, The Rise of Consciousness and the Development of Emotional Life (New York: Guilford Press, 1993), 95-128; Susan A. Denham, Emotional Development in Young Children (New York: Guilford Press, 1998), 89-120."
+  },
+  {
+    "id": "tomasello2008work",
+    "type": "book",
+    "note": "Michael Tomasello, Origins of Human Communication (Cambridge, MA: MIT Press, 2008), 3-28; Katherine Nelson, Narratives from the Crib (Cambridge, MA: Harvard University Press, 1989), 105-32."
+  },
+  {
+    "id": "perner0000work",
+    "type": "book",
+    "note": "Perner, Understanding the Representational Mind, 7-35."
+  },
+  {
+    "id": "brandom0000work",
+    "type": "book",
+    "note": "Brandom, Making It Explicit, 159-200; Kripke, Naming and Necessity, 48-96."
+  },
+  {
+    "id": "peirce0000logic",
+    "type": "book",
+    "note": "Peirce, \u201cLogic as Semiotic,\u201d 98-119; Brandom, Making It Explicit, 159-200; Perner, Understanding the Representational Mind, 75-105."
+  },
+  {
+    "id": "panksepp0000work",
+    "type": "book",
+    "note": "Panksepp, Affective Neuroscience, 17-45; Lewis, Rise of Consciousness, 95-128."
+  },
+  {
+    "id": "panksepp0000work2",
+    "type": "book",
+    "note": "Panksepp, Affective Neuroscience, 17-45; Lewis, Rise of Consciousness, 95-128; Perner, Understanding the Representational Mind, 75-105."
+  },
+  {
+    "id": "seyfarth1990work",
+    "type": "book",
+    "note": "Dorothy L. Cheney and Robert M. Seyfarth, How Monkeys See the World: Inside the Mind of Another Species (Chicago: University of Chicago Press, 1990), 131-58."
+  },
+  {
+    "id": "dickinson1998episodiclike",
+    "type": "book",
+    "note": "Nicola S. Clayton and Anthony Dickinson, \u201cEpisodic-Like Memory during Cache Recovery by Scrub Jays,\u201d Nature 395 (1998): 272-74; Caroline Raby et al., \u201cPlanning for the Future by Western Scrub-Jays,\u201d Nature 445 (2007): 919-21."
+  },
+  {
+    "id": "savagerumbaugh1998work",
+    "type": "book",
+    "note": "Sue Savage-Rumbaugh, Stuart G. Shanker, and Talbot J. Taylor, Apes, Language, and the Human Mind (New York: Oxford University Press, 1998), 23-67."
+  },
+  {
+    "id": "kaminski2004word",
+    "type": "book",
+    "note": "Juliane Kaminski, Josep Call, and Julia Fischer, \u201cWord Learning in a Domestic Dog: Evidence for \u2018Fast Mapping,\u2019\u201d Science 304, no. 5677 (2004): 1682-83."
+  },
+  {
+    "id": "clayton2004mentality",
+    "type": "book",
+    "note": "Nicky J. Clayton, Nathan J. Emery, and Anthony Dickinson, \u201cThe Mentality of Crows: Convergent Evolution of Intelligence in Corvids and Apes,\u201d Science 306, no. 5703 (2004): 1903-7; Josep Call and Michael Tomasello, \u201cDoes the Chimpanzee Have a Theory of Mind? 30 Years Later,\u201d Trends in Cognitive Sciences 12, no. 5 (2008): 187-92."
+  },
+  {
+    "id": "peirce0000logic2",
+    "type": "book",
+    "note": "Peirce, \u201cLogic as Semiotic,\u201d 98-119; Cheney and Seyfarth, How Monkeys See the World, 131-58."
+  },
+  {
+    "id": "dickinson0000episodiclike",
+    "type": "book",
+    "note": "Clayton and Dickinson, \u201cEpisodic-Like Memory,\u201d 272-74; Raby et al., \u201cPlanning for the Future,\u201d 919-21."
+  },
+  {
+    "id": "marr1982work",
+    "type": "book",
+    "note": "David Marr, Vision: A Computational Investigation into the Human Representation and Processing of Visual Information (Cambridge, MA: MIT Press, 1982), 24-29."
+  },
+  {
+    "id": "savagerumbaugh0000work",
+    "type": "book",
+    "note": "Savage-Rumbaugh, Shanker, and Taylor, Apes, Language, and the Human Mind, 23-67."
+  },
+  {
+    "id": "kaminski0000word",
+    "type": "book",
+    "note": "Kaminski, Call, and Fischer, \u201cWord Learning in a Domestic Dog,\u201d 1682-83."
+  },
+  {
+    "id": "clayton1903mentality",
+    "type": "book",
+    "note": "Clayton, Emery, and Dickinson, \u201cMentality of Crows,\u201d 1903-7; Call and Tomasello, \u201cDoes the Chimpanzee Have a Theory of Mind?\u201d 187-92."
+  },
+  {
+    "id": "dennett1987work",
+    "type": "book",
+    "note": "Daniel C. Dennett, The Intentional Stance (Cambridge, MA: MIT Press, 1987), 13-35; Tomasello, Origins of Human Communication, 3-28."
+  },
+  {
+    "id": "brandom1994work",
+    "type": "book",
+    "note": "Brandom, Making It Explicit, 159-200; John McDowell, Mind and World (Cambridge, MA: Harvard University Press, 1994), 4-13."
+  },
+  {
+    "id": "popper2002work",
+    "type": "book",
+    "note": "Karl Popper, The Logic of Scientific Discovery (London: Routledge, 2002), 27-48; Imre Lakatos, The Methodology of Scientific Research Programmes, ed. John Worrall and Gregory Currie (Cambridge: Cambridge University Press, 1978), 8-31."
+  },
+  {
+    "id": "brandom0000work2",
+    "type": "book",
+    "note": "Brandom, Making It Explicit, 159-200; McDowell, Mind and World, 4-13."
+  },
+  {
+    "id": "perner1995work",
+    "type": "book",
+    "note": "Perner, Understanding the Representational Mind, 7-35; Dan Sperber and Deirdre Wilson, Relevance: Communication and Cognition, 2nd ed. (Oxford: Blackwell, 1995), 45-70."
+  },
+  {
+    "id": "seyfarth1903episodiclike",
+    "type": "book",
+    "note": "Cheney and Seyfarth, How Monkeys See the World, 131-58; Clayton and Dickinson, \u201cEpisodic-Like Memory,\u201d 272-74; Kaminski, Call, and Fischer, \u201cWord Learning in a Domestic Dog,\u201d 1682-83; Clayton, Emery, and Dickinson, \u201cMentality of Crows,\u201d 1903-7."
+  },
+  {
+    "id": "peirce0000logic3",
+    "type": "book",
+    "note": "Peirce, \u201cLogic as Semiotic,\u201d 98-119; Tomasello, Origins of Human Communication, 3-28; Savage-Rumbaugh, Shanker, and Taylor, Apes, Language, and the Human Mind, 23-67."
+  },
+  {
+    "id": "kripke0000work",
+    "type": "book",
+    "note": "Kripke, Naming and Necessity, 48-96; Brandom, Making It Explicit, 159-200."
+  },
+  {
+    "id": "peirce0000logic4",
+    "type": "book",
+    "note": "Peirce, \u201cLogic as Semiotic,\u201d 98-119; Brandom, Making It Explicit, 159-200."
+  },
+  {
+    "id": "rosch1978principles",
+    "type": "book",
+    "note": "Eleanor Rosch, \u201cPrinciples of Categorization,\u201d in Cognition and Categorization, ed. Eleanor Rosch and Barbara B. Lloyd (Hillsdale, NJ: Lawrence Erlbaum, 1978), 27-48; Lewis, Rise of Consciousness, 95-128."
+  },
+  {
+    "id": "lewis0000work",
+    "type": "book",
+    "note": "Lewis, Rise of Consciousness, 95-128; Denham, Emotional Development in Young Children, 89-120."
+  },
+  {
+    "id": "panksepp2009work",
+    "type": "book",
+    "note": "Panksepp, Affective Neuroscience, 17-45; Alexandra Horowitz, Inside of a Dog: What Dogs See, Smell, and Know (New York: Scribner, 2009), 163-88."
+  },
+  {
+    "id": "rosch0000principles",
+    "type": "book",
+    "note": "Rosch, \u201cPrinciples of Categorization,\u201d 27-48."
+  },
+  {
+    "id": "rosch0000principles2",
+    "type": "book",
+    "note": "Rosch, \u201cPrinciples of Categorization,\u201d 27-48; Kripke, Naming and Necessity, 48-96."
+  },
+  {
+    "id": "perner0000work2",
+    "type": "book",
+    "note": "Perner, Understanding the Representational Mind, 75-105."
+  },
+  {
+    "id": "clayton1903mentality2",
+    "type": "book",
+    "note": "Clayton, Emery, and Dickinson, \u201cMentality of Crows,\u201d 1903-7; Call and Tomasello, \u201cDoes the Chimpanzee Have a Theory of Mind?\u201d 187-92; Alexandra Horowitz, \u201cDisambiguating the \u2018Guilty Look\u2019: Salient Prompts to a Familiar Dog Behaviour,\u201d Behavioural Processes 81, no. 3 (2009): 447-52."
+  },
+  {
+    "id": "perner1978does",
+    "type": "book",
+    "note": "Perner, Understanding the Representational Mind, 75-105; David Premack and Guy Woodruff, \u201cDoes the Chimpanzee Have a Theory of Mind?\u201d Behavioral and Brain Sciences 1, no. 4 (1978): 515-26."
+  },
+  {
+    "id": "clayton1903mentality3",
+    "type": "book",
+    "note": "Clayton, Emery, and Dickinson, \u201cMentality of Crows,\u201d 1903-7."
+  },
+  {
+    "id": "tomasello0000does",
+    "type": "book",
+    "note": "Call and Tomasello, \u201cDoes the Chimpanzee Have a Theory of Mind?\u201d 187-92."
+  },
+  {
+    "id": "horowitz0000disambiguating",
+    "type": "book",
+    "note": "Horowitz, \u201cDisambiguating the \u2018Guilty Look,\u2019\u201d 447-52; Emery and Clayton, \u201cEffects of Experience and Social Context,\u201d 443\u2013446."
+  },
+  {
+    "id": "panksepp0000work3",
+    "type": "book",
+    "note": "Panksepp, Affective Neuroscience, 17-45; Perner, Understanding the Representational Mind, 75-105."
+  },
+  {
+    "id": "lewis0000work2",
+    "type": "book",
+    "note": "Lewis, Rise of Consciousness, 95-128; Denham, Emotional Development in Young Children, 89-120; Perner, Understanding the Representational Mind, 75-105."
+  },
+  {
+    "id": "lewis1989work",
+    "type": "book",
+    "note": "Lewis, Rise of Consciousness, 95-128; Denham, Emotional Development in Young Children, 89-120; Paul L. Harris, Children and Emotion (Oxford: Blackwell, 1989), 45-78."
+  },
+  {
+    "id": "nelson0000work",
+    "type": "book",
+    "note": "Nelson, Narratives from the Crib, 105-32; Harris, Children and Emotion, 45-78."
+  },
+  {
+    "id": "denham0000work",
+    "type": "book",
+    "note": "Denham, Emotional Development in Young Children, 89-120; Lewis, Rise of Consciousness, 95-128."
+  },
+  {
+    "id": "denham0000work2",
+    "type": "book",
+    "note": "Denham, Emotional Development in Young Children, 89-120; Harris, Children and Emotion, 45-78."
+  },
+  {
+    "id": "perner2001metaanalysis",
+    "type": "book",
+    "note": "Perner, Understanding the Representational Mind, 75-105; Henry M. Wellman, David Cross, and Julanne Watson, \u201cMeta-Analysis of Theory-of-Mind Development: The Truth about False Belief,\u201d Child Development 72, no. 3 (2001): 655-84."
+  },
+  {
+    "id": "brandom0000work3",
+    "type": "book",
+    "note": "Brandom, Making It Explicit, 159-200; Perner, Understanding the Representational Mind, 75-105."
+  },
+  {
+    "id": "seyfarth0000episodiclike",
+    "type": "book",
+    "note": "Cheney and Seyfarth, How Monkeys See the World, 131-58; Clayton and Dickinson, \u201cEpisodic-Like Memory,\u201d 272-74; Call and Tomasello, \u201cDoes the Chimpanzee Have a Theory of Mind?\u201d 187-92; Horowitz, \u201cDisambiguating the \u2018Guilty Look,\u2019\u201d 447-52."
+  },
+  {
+    "id": "lewis0000metaanalysis",
+    "type": "book",
+    "note": "Lewis, Rise of Consciousness, 95-128; Denham, Emotional Development in Young Children, 89-120; Wellman, Cross, and Watson, \u201cMeta-Analysis of Theory-of-Mind Development,\u201d 655-84."
+  },
+  {
+    "id": "tomasello0000work",
+    "type": "book",
+    "note": "Tomasello, Origins of Human Communication, 3-28; Dennett, Intentional Stance, 13-35."
+  },
+  {
+    "id": "ledoux1996work",
+    "type": "book",
+    "note": "Joseph LeDoux, The Emotional Brain (New York: Simon & Schuster, 1996), 69-96; Damasio, Feeling of What Happens, 35-81; Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), 30-45."
+  },
+  {
+    "id": "panksepp0000work4",
+    "type": "book",
+    "note": "Panksepp, Affective Neuroscience, 17-45; Damasio, Feeling of What Happens, 35-81."
+  },
+  {
+    "id": "merleauponty2012work",
+    "type": "book",
+    "note": "Maurice Merleau-Ponty, Phenomenology of Perception, trans. Donald A. Landes (London: Routledge, 2012), 203-34; Damasio, Feeling of What Happens, 35-81."
+  },
+  {
+    "id": "peirce0000logic5",
+    "type": "book",
+    "note": "Peirce, \u201cLogic as Semiotic,\u201d 98-119; Kripke, Naming and Necessity, 48-96; Brandom, Making It Explicit, 159-200."
+  },
+  {
+    "id": "ledoux0000work",
+    "type": "book",
+    "note": "LeDoux, Emotional Brain, 69-96; Damasio, Feeling of What Happens, 35-81."
+  },
+  {
+    "id": "barrett0000work",
+    "type": "book",
+    "note": "Barrett, How Emotions Are Made, 30-45; LeDoux, Emotional Brain, 69-96."
+  }
+]

@@ -1,0 +1,747 @@
+[
+  {
+    "id": "kant1998work",
+    "type": "book",
+    "note": "Immanuel Kant, Critique of Pure Reason, trans. Paul Guyer and Allen W. Wood (Cambridge: Cambridge University Press, 1998), A50/B74-A51/B75, A79/B104-A83/B109; Ernst Cassirer, An Essay on Man: An Introduction to a Philosophy of Human Culture (New Haven, CT: Yale University Press, 1944), 23-26, 44-46."
+  },
+  {
+    "id": "panksepp1998work",
+    "type": "book",
+    "note": "Jaak Panksepp, Affective Neuroscience: The Foundations of Human and Animal Emotions (New York: Oxford University Press, 1998), 18-23, 47-52; Antonio Damasio, The Feeling of What Happens: Body and Emotion in the Making of Consciousness (New York: Harcourt, 1999), 42-49, 279-84; Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), 29-34, 89-92."
+  },
+  {
+    "id": "sellars1997work",
+    "type": "book",
+    "note": "Wilfrid Sellars, Empiricism and the Philosophy of Mind (Cambridge, MA: Harvard University Press, 1997), \u00a7\u00a716-19, 30-32; Robert B. Brandom, Making It Explicit: Reasoning, Representing, and Discursive Commitment (Cambridge, MA: Harvard University Press, 1994), 89-95, 137-41; Donald Davidson, Essays on Actions and Events, 2nd ed. (Oxford: Oxford University Press, 2001), 3-19."
+  },
+  {
+    "id": "lazarus1991appraisal",
+    "type": "book",
+    "note": "Richard S. Lazarus, Emotion and Adaptation (New York: Oxford University Press, 1991), 153-58, 181-87; Klaus R. Scherer, \u201cAppraisal Considered as a Process of Multilevel Sequential Checking,\u201d in Appraisal Processes in Emotion: Theory, Methods, Research, ed. Klaus R. Scherer, Angela Schorr, and Tom Johnstone (Oxford: Oxford University Press, 2001), 92-98, 113-20."
+  },
+  {
+    "id": "barsalou1999perceptual",
+    "type": "book",
+    "note": "Lawrence W. Barsalou, \u201cPerceptual Symbol Systems,\u201d Behavioral and Brain Sciences 22, no. 4 (1999): 583-89, 603-7; Eleanor Rosch, \u201cPrinciples of Categorization,\u201d in Cognition and Categorization, ed. Eleanor Rosch and Barbara B. Lloyd (Hillsdale, NJ: Lawrence Erlbaum, 1978), 28-32, 38-41."
+  },
+  {
+    "id": "ryle2009work",
+    "type": "book",
+    "note": "Gilbert Ryle, The Concept of Mind (London: Routledge, 2009), 15-22, 96-104; Harry G. Frankfurt, The Importance of What We Care About: Philosophical Essays (Cambridge: Cambridge University Press, 1988), 11-20."
+  },
+  {
+    "id": "peirce1992work",
+    "type": "book",
+    "note": "Charles Sanders Peirce, The Essential Peirce: Selected Philosophical Writings, vol. 1, ed. Nathan Houser and Christian Kloesel (Bloomington: Indiana University Press, 1992), 4-10, 26-31; Umberto Eco, A Theory of Semiotics (Bloomington: Indiana University Press, 1976), 16-21, 48-52; Robert B. Brandom, Articulating Reasons: An Introduction to Inferentialism (Cambridge, MA: Harvard University Press, 2000), 50-58."
+  },
+  {
+    "id": "damasio0000work",
+    "type": "book",
+    "note": "Damasio, The Feeling of What Happens, 42-49, 279-84; Panksepp, Affective Neuroscience, 18-23, 309-15; Barrett, How Emotions Are Made, 127-35."
+  },
+  {
+    "id": "peirce0000work",
+    "type": "book",
+    "note": "Peirce, Essential Peirce, 1:4-10, 26-31; Eco, Theory of Semiotics, 16-21, 48-52."
+  },
+  {
+    "id": "brandom0000work",
+    "type": "book",
+    "note": "Brandom, Articulating Reasons, 50-58, 162-68; Frankfurt, Importance of What We Care About, 11-20; Davidson, Essays on Actions and Events, 3-19."
+  },
+  {
+    "id": "lazarus0000appraisal",
+    "type": "book",
+    "note": "Lazarus, Emotion and Adaptation, 153-58; Scherer, \u201cAppraisal Considered as a Process,\u201d 92-98; Brandom, Making It Explicit, 137-41."
+  },
+  {
+    "id": "marr1982freeenergy",
+    "type": "book",
+    "note": "David Marr, Vision: A Computational Investigation into the Human Representation and Processing of Visual Information (Cambridge, MA: MIT Press, 1982), 19-25; Allen Newell, Unified Theories of Cognition (Cambridge, MA: Harvard University Press, 1990), 12-20; Karl Friston, \u201cThe Free-Energy Principle: A Unified Brain Theory?\u201d Nature Reviews Neuroscience 11 (2010): 127-38."
+  },
+  {
+    "id": "brandom1983work",
+    "type": "book",
+    "note": "Brandom, Making It Explicit, 89-95; John R. Searle, Intentionality: An Essay in the Philosophy of Mind (Cambridge: Cambridge University Press, 1983), 28-36; Sellars, Empiricism and the Philosophy of Mind, \u00a7\u00a716-19."
+  },
+  {
+    "id": "marr1978confirmation",
+    "type": "book",
+    "note": "Marr, Vision, 19-27; Imre Lakatos, The Methodology of Scientific Research Programmes, ed. John Worrall and Gregory Currie (Cambridge: Cambridge University Press, 1978), 132-38, 175-78; Raymond S. Nickerson, \u201cConfirmation Bias: A Ubiquitous Phenomenon in Many Guises,\u201d Review of General Psychology 2, no. 2 (1998): 175-76; Newell, Unified Theories of Cognition, 12-20."
+  },
+  {
+    "id": "popper2002why",
+    "type": "book",
+    "note": "Karl Popper, The Logic of Scientific Discovery (London: Routledge, 2002), 18-25, 33-39; John P. A. Ioannidis, \u201cWhy Most Published Research Findings Are False,\u201d PLoS Medicine 2, no. 8 (2005): 696-98; Brandom, Making It Explicit, 89-95; Searle, Intentionality, 28-36."
+  },
+  {
+    "id": "panksepp0000appraisal",
+    "type": "book",
+    "note": "Panksepp, Affective Neuroscience, 18-23, 309-15; Lazarus, Emotion and Adaptation, 153-58; Scherer, \u201cAppraisal Considered as a Process,\u201d 92-98; Barrett, How Emotions Are Made, 29-34, 89-92."
+  },
+  {
+    "id": "damasio2002how",
+    "type": "book",
+    "note": "Damasio, The Feeling of What Happens, 42-49, 279-84; A. D. Craig, \u201cHow Do You Feel? Interoception: The Sense of the Physiological Condition of the Body,\u201d Nature Reviews Neuroscience 3 (2002): 655-66."
+  },
+  {
+    "id": "barrett2003core",
+    "type": "book",
+    "note": "Barrett, How Emotions Are Made, 67-74; James A. Russell, \u201cCore Affect and the Psychological Construction of Emotion,\u201d Psychological Review 110, no. 1 (2003): 148-52; Damasio, The Feeling of What Happens, 86-92."
+  },
+  {
+    "id": "peirce0000work2",
+    "type": "book",
+    "note": "Peirce, Essential Peirce, 1:4-10, 26-31; Eco, Theory of Semiotics, 16-21."
+  },
+  {
+    "id": "lazarus0000appraisal2",
+    "type": "book",
+    "note": "Lazarus, Emotion and Adaptation, 181-87; Scherer, \u201cAppraisal Considered as a Process,\u201d 113-20; Barrett, How Emotions Are Made, 127-35."
+  },
+  {
+    "id": "brandom0000work2",
+    "type": "book",
+    "note": "Brandom, Articulating Reasons, 50-58, 162-68; Searle, Intentionality, 28-36."
+  },
+  {
+    "id": "singer1962cognitive",
+    "type": "book",
+    "note": "Stanley Schachter and Jerome E. Singer, \u201cCognitive, Social, and Physiological Determinants of Emotional State,\u201d Psychological Review 69, no. 5 (1962): 379-81; Damasio, The Feeling of What Happens, 279-84."
+  },
+  {
+    "id": "husserl1983work",
+    "type": "book",
+    "note": "Edmund Husserl, Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy, First Book, trans. F. Kersten (The Hague: Martinus Nijhoff, 1983); Jean-Paul Sartre, The Emotions: Outline of a Theory, trans. Bernard Frechtman (New York: Philosophical Library, 1948); Maurice Merleau-Ponty, Phenomenology of Perception, trans. Colin Smith (London: Routledge, 1962)."
+  },
+  {
+    "id": "husserl0000work",
+    "type": "book",
+    "note": "Edmund Husserl, Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy, First Book."
+  },
+  {
+    "id": "sartre0000work",
+    "type": "book",
+    "note": "Jean-Paul Sartre, The Emotions: Outline of a Theory."
+  },
+  {
+    "id": "husserl0000work2",
+    "type": "book",
+    "note": "Edmund Husserl, Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy, First Book; Maurice Merleau-Ponty, Phenomenology of Perception."
+  },
+  {
+    "id": "husserl0000work3",
+    "type": "book",
+    "note": "Edmund Husserl, Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy, First Book; Jean-Paul Sartre, The Emotions: Outline of a Theory; Maurice Merleau-Ponty, Phenomenology of Perception."
+  },
+  {
+    "id": "lakatos1978work",
+    "type": "book",
+    "note": "Imre Lakatos, The Methodology of Scientific Research Programmes, ed. John Worrall and Gregory Currie (Cambridge: Cambridge University Press, 1978), 175\u201378; Susan Haack, Evidence and Inquiry: Towards Reconstruction in Epistemology (Oxford: Blackwell, 1993), 197\u2013201."
+  },
+  {
+    "id": "brandom1994work",
+    "type": "book",
+    "note": "Robert B. Brandom, Making It Explicit: Reasoning, Representing, and Discursive Commitment (Cambridge, MA: Harvard University Press, 1994), 131\u2013156; David Marr, Vision: A Computational Investigation into the Human Representation and Processing of Visual Information (Cambridge, MA: MIT Press, 1982), 19\u201327."
+  },
+  {
+    "id": "barrett2017work",
+    "type": "book",
+    "note": "Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017)."
+  },
+  {
+    "id": "barrett2014conceptual",
+    "type": "book",
+    "note": "Lisa Feldman Barrett, How Emotions Are Made; Lisa Feldman Barrett, \u201cThe Conceptual Act Theory: A Roadmap,\u201d Emotion Review 6, no. 4 (2014): 292\u2013297."
+  },
+  {
+    "id": "barrett0000work",
+    "type": "book",
+    "note": "Lisa Feldman Barrett, How Emotions Are Made."
+  },
+  {
+    "id": "barrett0000conceptual",
+    "type": "book",
+    "note": "Lisa Feldman Barrett, \u201cThe Conceptual Act Theory: A Roadmap,\u201d 292\u2013297."
+  },
+  {
+    "id": "barrett2010freeenergy",
+    "type": "book",
+    "note": "Lisa Feldman Barrett, How Emotions Are Made; Karl Friston, \u201cThe Free-Energy Principle: A Unified Brain Theory?\u201d Nature Reviews Neuroscience 11 (2010): 127\u2013138."
+  },
+  {
+    "id": "barrett2003core2",
+    "type": "book",
+    "note": "Lisa Feldman Barrett, How Emotions Are Made; James A. Russell, \u201cCore Affect and the Psychological Construction of Emotion,\u201d Psychological Review 110, no. 1 (2003): 145\u2013172."
+  },
+  {
+    "id": "barrett0000conceptual2",
+    "type": "book",
+    "note": "Lisa Feldman Barrett, How Emotions Are Made; Lisa Feldman Barrett, \u201cThe Conceptual Act Theory: A Roadmap.\u201d"
+  },
+  {
+    "id": "russell0000core",
+    "type": "book",
+    "note": "James A. Russell, \u201cCore Affect and the Psychological Construction of Emotion\u201d; Lisa Feldman Barrett, How Emotions Are Made."
+  },
+  {
+    "id": "barrett0000core",
+    "type": "book",
+    "note": "Lisa Feldman Barrett, How Emotions Are Made; James A. Russell, \u201cCore Affect and the Psychological Construction of Emotion.\u201d"
+  },
+  {
+    "id": "machery2009work",
+    "type": "book",
+    "note": "Edouard Machery, Doing without Concepts (Oxford: Oxford University Press, 2009); Robert B. Brandom, Making It Explicit: Reasoning, Representing, and Discursive Commitment (Cambridge, MA: Harvard University Press, 1994), 131\u2013156."
+  },
+  {
+    "id": "brandom1934work",
+    "type": "book",
+    "note": "Robert B. Brandom, Making It Explicit; Charles Sanders Peirce, Collected Papers of Charles Sanders Peirce, vol. 5 (Cambridge, MA: Harvard University Press, 1934), \u00a7\u00a75.473\u20135.491."
+  },
+  {
+    "id": "panksepp1998work2",
+    "type": "book",
+    "note": "Jaak Panksepp, Affective Neuroscience: The Foundations of Human and Animal Emotions (New York: Oxford University Press, 1998)."
+  },
+  {
+    "id": "husserl1983work2",
+    "type": "book",
+    "note": "Edmund Husserl, Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy, First Book, trans. F. Kersten (The Hague: Martinus Nijhoff, 1983)."
+  },
+  {
+    "id": "lazarus1991work",
+    "type": "book",
+    "note": "Richard S. Lazarus, Emotion and Adaptation (New York: Oxford University Press, 1991)."
+  },
+  {
+    "id": "peirce2000work",
+    "type": "book",
+    "note": "Charles Sanders Peirce, Collected Papers of Charles Sanders Peirce, vol. 5, \u00a7\u00a75.473\u20135.491; Robert B. Brandom, Articulating Reasons: An Introduction to Inferentialism (Cambridge, MA: Harvard University Press, 2000), 50\u201358, 162\u2013168."
+  },
+  {
+    "id": "marr1982work",
+    "type": "book",
+    "note": "David Marr, Vision: A Computational Investigation into the Human Representation and Processing of Visual Information (San Francisco: W. H. Freeman, 1982), 19\u201327; Robert B. Brandom, Making It Explicit, 131\u2013156."
+  },
+  {
+    "id": "lazarus1991model",
+    "type": "book",
+    "note": "Richard S. Lazarus, Emotion and Adaptation (New York: Oxford University Press, 1991); Ira J. Roseman, \u201cA Model of Appraisal in the Emotion System,\u201d in Appraisal Processes in Emotion: Theory, Methods, Research, ed. Klaus R. Scherer, Angela Schorr, and Tom Johnstone (New York: Oxford University Press, 2001), 68\u201391."
+  },
+  {
+    "id": "roseman2001model",
+    "type": "book",
+    "note": "Ira J. Roseman, \u201cA Model of Appraisal in the Emotion System,\u201d in Appraisal Processes in Emotion: Theory, Methods, Research, ed. Klaus R. Scherer, Angela Schorr, and Tom Johnstone (New York: Oxford University Press, 2001), 68\u201391."
+  },
+  {
+    "id": "roseman0000model",
+    "type": "book",
+    "note": "Ira J. Roseman, \u201cA Model of Appraisal in the Emotion System,\u201d 68\u201391."
+  },
+  {
+    "id": "scherer1999appraisal",
+    "type": "book",
+    "note": "Klaus R. Scherer, \u201cAppraisal Theory,\u201d in Handbook of Cognition and Emotion, ed. Tim Dalgleish and Mick Power (Chichester: Wiley, 1999), 637\u2013663."
+  },
+  {
+    "id": "lazarus1991model2",
+    "type": "book",
+    "note": "Richard S. Lazarus, Emotion and Adaptation (New York: Oxford University Press, 1991); Ira J. Roseman, \u201cA Model of Appraisal in the Emotion System,\u201d 68\u201391."
+  },
+  {
+    "id": "scherer0000appraisal",
+    "type": "book",
+    "note": "Klaus R. Scherer, \u201cAppraisal Theory,\u201d in Handbook of Cognition and Emotion, 637\u2013663."
+  },
+  {
+    "id": "davidson1963actions",
+    "type": "book",
+    "note": "Donald Davidson, \u201cActions, Reasons, and Causes,\u201d Journal of Philosophy 60, no. 23 (1963): 685\u2013700."
+  },
+  {
+    "id": "peirce1934work",
+    "type": "book",
+    "note": "Charles Sanders Peirce, Collected Papers of Charles Sanders Peirce, vol. 5 (Cambridge, MA: Harvard University Press, 1934), \u00a7\u00a75.473\u20135.491."
+  },
+  {
+    "id": "brandom2000work",
+    "type": "book",
+    "note": "Robert B. Brandom, Articulating Reasons: An Introduction to Inferentialism (Cambridge, MA: Harvard University Press, 2000), 50\u201358, 162\u201368."
+  },
+  {
+    "id": "peirce1934work2",
+    "type": "book",
+    "note": "Charles Sanders Peirce, Collected Papers of Charles Sanders Peirce, vol. 5 (Cambridge, MA: Harvard University Press, 1934), \u00a7\u00a75.473\u20135.491; Robert B. Brandom, Articulating Reasons: An Introduction to Inferentialism (Cambridge, MA: Harvard University Press, 2000), 162\u201368."
+  },
+  {
+    "id": "lazarus1991work2",
+    "type": "book",
+    "note": "Richard S. Lazarus, Emotion and Adaptation (New York: Oxford University Press, 1991); Charles Sanders Peirce, Collected Papers of Charles Sanders Peirce, vol. 5 (Cambridge, MA: Harvard University Press, 1934), \u00a7\u00a75.473\u20135.491."
+  },
+  {
+    "id": "peirce1934work3",
+    "type": "book",
+    "note": "Charles Sanders Peirce, Collected Papers of Charles Sanders Peirce, vol. 5 (Cambridge, MA: Harvard University Press, 1934), \u00a7\u00a75.473\u20135.491; Robert B. Brandom, Making It Explicit: Reasoning, Representing, and Discursive Commitment (Cambridge, MA: Harvard University Press, 1994), 131\u2013156."
+  },
+  {
+    "id": "scherer2009dynamic",
+    "type": "book",
+    "note": "Klaus R. Scherer, \u201cThe Dynamic Architecture of Emotion: Evidence for the Component Process Model,\u201d Cognition and Emotion 23, no. 7 (2009): 1307\u20131351."
+  },
+  {
+    "id": "scherer0000dynamic",
+    "type": "book",
+    "note": "Klaus R. Scherer, \u201cThe Dynamic Architecture of Emotion,\u201d 1307\u20131351."
+  },
+  {
+    "id": "scherer2005what",
+    "type": "book",
+    "note": "Klaus R. Scherer, \u201cWhat Are Emotions? And How Can They Be Measured?\u201d Social Science Information 44, no. 4 (2005): 695\u2013729."
+  },
+  {
+    "id": "marr1982work2",
+    "type": "book",
+    "note": "David Marr, Vision: A Computational Investigation into the Human Representation and Processing of Visual Information (San Francisco: W. H. Freeman, 1982), 19\u201327."
+  },
+  {
+    "id": "carnap1956work",
+    "type": "book",
+    "note": "Rudolf Carnap, Meaning and Necessity: A Study in Semantics and Modal Logic, 2nd ed. (Chicago: University of Chicago Press, 1956), 3\u201328."
+  },
+  {
+    "id": "peirce1934work4",
+    "type": "book",
+    "note": "Charles Sanders Peirce, Collected Papers of Charles Sanders Peirce, vol. 5 (Cambridge, MA: Harvard University Press, 1934), \u00a7\u00a75.473\u20135.491; Robert B. Brandom, Articulating Reasons: An Introduction to Inferentialism (Cambridge, MA: Harvard University Press, 2000), 50\u201358, 162\u201368."
+  },
+  {
+    "id": "carnap1956work2",
+    "type": "book",
+    "note": "Rudolf Carnap, Meaning and Necessity: A Study in Semantics and Modal Logic, 2nd ed. (Chicago: University of Chicago Press, 1956), 3\u201328; Charles Sanders Peirce, Collected Papers of Charles Sanders Peirce, vol. 5 (Cambridge, MA: Harvard University Press, 1934), \u00a7\u00a75.473\u20135.491."
+  },
+  {
+    "id": "panksepp0000work",
+    "type": "book",
+    "note": "Jaak Panksepp, Affective Neuroscience."
+  },
+  {
+    "id": "biven2012work",
+    "type": "book",
+    "note": "Jaak Panksepp and Lucy Biven, The Archaeology of Mind: Neuroevolutionary Origins of Human Emotion (New York: W. W. Norton, 2012)."
+  },
+  {
+    "id": "damasio1994work",
+    "type": "book",
+    "note": "Antonio R. Damasio, Descartes\u2019 Error: Emotion, Reason, and the Human Brain (New York: Putnam, 1994)."
+  },
+  {
+    "id": "biven0000work",
+    "type": "book",
+    "note": "Jaak Panksepp and Lucy Biven, The Archaeology of Mind."
+  },
+  {
+    "id": "damasio1983work",
+    "type": "book",
+    "note": "Antonio R. Damasio, Descartes\u2019 Error; Edmund Husserl, Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy, First Book, trans. F. Kersten (The Hague: Martinus Nijhoff, 1983)."
+  },
+  {
+    "id": "peirce2000work2",
+    "type": "book",
+    "note": "Charles Sanders Peirce, Collected Papers of Charles Sanders Peirce, vol. 5, \u00a7\u00a75.473\u20135.491; Robert B. Brandom, Articulating Reasons: An Introduction to Inferentialism (Cambridge, MA: Harvard University Press, 2000), 50\u201358, 162\u201368."
+  },
+  {
+    "id": "damasio0000work2",
+    "type": "book",
+    "note": "Antonio R. Damasio, Descartes\u2019 Error; Charles Sanders Peirce, Collected Papers of Charles Sanders Peirce, vol. 5, \u00a7\u00a75.473\u20135.491."
+  },
+  {
+    "id": "peirce1934work5",
+    "type": "book",
+    "note": "Charles Sanders Peirce, Collected Papers of Charles Sanders Peirce, vol. 5 (Cambridge, MA: Harvard University Press, 1934), \u00a7\u00a75.473\u20135.491; Robert B. Brandom, Making It Explicit: Reasoning, Representing, and Discursive Commitment (Cambridge, MA: Harvard University Press, 1994), 131\u2013156; David Marr, Vision: A Computational Investigation into the Human Representation and Processing of Visual Information (San Francisco: W. H. Freeman, 1982), 19\u201327."
+  },
+  {
+    "id": "husserl1983work3",
+    "type": "book",
+    "note": "Edmund Husserl, Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy, First Book, trans. F. Kersten (The Hague: Martinus Nijhoff, 1983); Charles Sanders Peirce, Collected Papers of Charles Sanders Peirce, vol. 5 (Cambridge, MA: Harvard University Press, 1934), \u00a7\u00a75.473\u20135.491; Robert B. Brandom, Making It Explicit: Reasoning, Representing, and Discursive Commitment (Cambridge, MA: Harvard University Press, 1994), 131\u2013156."
+  },
+  {
+    "id": "panksepp1998work3",
+    "type": "book",
+    "note": "Jaak Panksepp, Affective Neuroscience: The Foundations of Human and Animal Emotions (New York: Oxford University Press, 1998); Jaak Panksepp and Lucy Biven, The Archaeology of Mind: Neuroevolutionary Origins of Human Emotion (New York: W. W. Norton, 2012)."
+  },
+  {
+    "id": "husserl1983work4",
+    "type": "book",
+    "note": "Edmund Husserl, Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy, First Book, trans. F. Kersten (The Hague: Martinus Nijhoff, 1983); Charles Sanders Peirce, Collected Papers of Charles Sanders Peirce, vol. 5 (Cambridge, MA: Harvard University Press, 1934), \u00a7\u00a75.473\u20135.491."
+  },
+  {
+    "id": "brandom1994work2",
+    "type": "book",
+    "note": "Robert B. Brandom, Making It Explicit: Reasoning, Representing, and Discursive Commitment (Cambridge, MA: Harvard University Press, 1994), 131\u2013156."
+  },
+  {
+    "id": "carnap1956work3",
+    "type": "book",
+    "note": "Rudolf Carnap, Meaning and Necessity: A Study in Semantics and Modal Logic, 2nd ed. (Chicago: University of Chicago Press, 1956), 3\u201328; David Marr, Vision: A Computational Investigation into the Human Representation and Processing of Visual Information (Cambridge, MA: MIT Press, 1982), 19\u201327."
+  },
+  {
+    "id": "husserl1983work5",
+    "type": "book",
+    "note": "Edmund Husserl, Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy, First Book, trans. F. Kersten (The Hague: Martinus Nijhoff, 1983); Maurice Merleau-Ponty, Phenomenology of Perception, trans. Colin Smith (London: Routledge, 1962)."
+  },
+  {
+    "id": "husserl1994work",
+    "type": "book",
+    "note": "Edmund Husserl, Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy, First Book; Antonio R. Damasio, Descartes\u2019 Error: Emotion, Reason, and the Human Brain (New York: Putnam, 1994)."
+  },
+  {
+    "id": "husserl1948work",
+    "type": "book",
+    "note": "Edmund Husserl, Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy, First Book; Jean-Paul Sartre, The Emotions: Outline of a Theory, trans. Bernard Frechtman (New York: Philosophical Library, 1948)."
+  },
+  {
+    "id": "barrett2017conceptual",
+    "type": "book",
+    "note": "Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017); Lisa Feldman Barrett, \u201cThe Conceptual Act Theory: A Roadmap,\u201d Emotion Review 6, no. 4 (2014): 292\u2013297."
+  },
+  {
+    "id": "peirce1994work",
+    "type": "book",
+    "note": "Charles Sanders Peirce, Collected Papers of Charles Sanders Peirce, vol. 5, \u00a7\u00a75.473\u20135.491; Robert B. Brandom, Making It Explicit: Reasoning, Representing, and Discursive Commitment (Cambridge, MA: Harvard University Press, 1994), 131\u2013156."
+  },
+  {
+    "id": "lazarus1991appraisal2",
+    "type": "book",
+    "note": "Richard S. Lazarus, Emotion and Adaptation (New York: Oxford University Press, 1991); Klaus R. Scherer, \u201cAppraisal Theory,\u201d in Handbook of Cognition and Emotion, ed. Tim Dalgleish and Mick Power (Chichester: Wiley, 1999), 637\u2013663."
+  },
+  {
+    "id": "scherer2009dynamic2",
+    "type": "book",
+    "note": "Klaus R. Scherer, \u201cThe Dynamic Architecture of Emotion: Evidence for the Component Process Model,\u201d Cognition and Emotion 23, no. 7 (2009): 1307\u20131351; Charles Sanders Peirce, Collected Papers of Charles Sanders Peirce, vol. 5, \u00a7\u00a75.473\u20135.491."
+  },
+  {
+    "id": "brandom1994work3",
+    "type": "book",
+    "note": "Robert B. Brandom, Making It Explicit: Reasoning, Representing, and Discursive Commitment (Cambridge, MA: Harvard University Press, 1994), 131\u2013156; David Marr, Vision: A Computational Investigation into the Human Representation and Processing of Visual Information (San Francisco: W. H. Freeman, 1982), 19\u201327."
+  },
+  {
+    "id": "scherer2009dynamic3",
+    "type": "book",
+    "note": "Klaus R. Scherer, \u201cThe Dynamic Architecture of Emotion: Evidence for the Component Process Model,\u201d Cognition and Emotion 23, no. 7 (2009): 1307\u20131351; David Marr, Vision: A Computational Investigation into the Human Representation and Processing of Visual Information (San Francisco: W. H. Freeman, 1982), 19\u201327."
+  },
+  {
+    "id": "scherer2017dynamic",
+    "type": "book",
+    "note": "Klaus R. Scherer, \u201cThe Dynamic Architecture of Emotion,\u201d 1307\u20131351; Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017); Charles Sanders Peirce, Collected Papers of Charles Sanders Peirce, vol. 5 (Cambridge, MA: Harvard University Press, 1934), \u00a7\u00a75.473\u20135.491."
+  },
+  {
+    "id": "damasio1994work2",
+    "type": "book",
+    "note": "Antonio R. Damasio, Descartes\u2019 Error: Emotion, Reason, and the Human Brain (New York: Putnam, 1994); Jaak Panksepp, Affective Neuroscience: The Foundations of Human and Animal Emotions (New York: Oxford University Press, 1998)."
+  },
+  {
+    "id": "damasio1999how",
+    "type": "book",
+    "note": "Antonio R. Damasio, The Feeling of What Happens: Body and Emotion in the Making of Consciousness (New York: Harcourt, 1999), 42\u201349, 279\u201384; A. D. Craig, \u201cHow Do You Feel? Interoception: The Sense of the Physiological Condition of the Body,\u201d Nature Reviews Neuroscience 3 (2002): 655\u2013666."
+  },
+  {
+    "id": "husserl1983work6",
+    "type": "book",
+    "note": "Edmund Husserl, Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy, First Book, trans. F. Kersten (The Hague: Martinus Nijhoff, 1983), \u00a7\u00a784\u201390; Rudolf Carnap, Meaning and Necessity: A Study in Semantics and Modal Logic, 2nd ed. (Chicago: University of Chicago Press, 1956), 3\u201328; David Marr, Vision: A Computational Investigation into the Human Representation and Processing of Visual Information (Cambridge, MA: MIT Press, 1982), 19\u201327."
+  },
+  {
+    "id": "helmholtz0000work",
+    "type": "book",
+    "note": "Hermann von Helmholtz, On the Sensations of Tone as a Physiological Basis for the Theory of Music, trans. Alexander J. Ellis (London: Longmans, Green, 1875)."
+  },
+  {
+    "id": "marr1982work3",
+    "type": "book",
+    "note": "David Marr, Vision: A Computational Investigation into the Human Representation and Processing of Visual Information (San Francisco: W. H. Freeman, 1982), 19\u201327; Gerald M. Edelman, Bright Air, Brilliant Fire: On the Matter of the Mind (New York: Basic Books, 1992)."
+  },
+  {
+    "id": "carnap1956work4",
+    "type": "book",
+    "note": "Rudolf Carnap, Meaning and Necessity: A Study in Semantics and Modal Logic, 2nd ed. (Chicago: University of Chicago Press, 1956), 3\u201328; Robert B. Brandom, Making It Explicit: Reasoning, Representing, and Discursive Commitment (Cambridge, MA: Harvard University Press, 1994), 131\u2013156."
+  },
+  {
+    "id": "barrett2017work2",
+    "type": "book",
+    "note": "Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017); Richard S. Lazarus, Emotion and Adaptation (New York: Oxford University Press, 1991)."
+  },
+  {
+    "id": "barrett0000work2",
+    "type": "book",
+    "note": "Lisa Feldman Barrett, How Emotions Are Made; Richard S. Lazarus, Emotion and Adaptation."
+  },
+  {
+    "id": "peirce0000work3",
+    "type": "book",
+    "note": "Charles Sanders Peirce, Collected Papers of Charles Sanders Peirce, vol. 5, \u00a7\u00a75.473\u20135.491; Robert B. Brandom, Making It Explicit, 131\u2013156."
+  },
+  {
+    "id": "panksepp1998work4",
+    "type": "book",
+    "note": "Jaak Panksepp, Affective Neuroscience: The Foundations of Human and Animal Emotions (New York: Oxford University Press, 1998); Antonio R. Damasio, Descartes\u2019 Error: Emotion, Reason, and the Human Brain (New York: Putnam, 1994)."
+  },
+  {
+    "id": "lazarus1991work3",
+    "type": "book",
+    "note": "Richard S. Lazarus, Emotion and Adaptation (New York: Oxford University Press, 1991); Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017)."
+  },
+  {
+    "id": "brandom2000actions",
+    "type": "book",
+    "note": "Robert B. Brandom, Articulating Reasons: An Introduction to Inferentialism (Cambridge, MA: Harvard University Press, 2000), 50\u201358, 162\u2013168; Donald Davidson, \u201cActions, Reasons, and Causes,\u201d Journal of Philosophy 60, no. 23 (1963): 685\u2013700."
+  },
+  {
+    "id": "brentano1995work",
+    "type": "book",
+    "note": "Franz Brentano, Psychology from an Empirical Standpoint, trans. Antos C. Rancurello, D. B. Terrell, and Linda L. McAlister (London: Routledge, 1995), 88\u2013103; Edmund Husserl, Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy, First Book, trans. F. Kersten (The Hague: Martinus Nijhoff, 1983), \u00a7\u00a784\u201386."
+  },
+  {
+    "id": "searle1983work",
+    "type": "book",
+    "note": "John R. Searle, Intentionality: An Essay in the Philosophy of Mind (Cambridge: Cambridge University Press, 1983), 1\u201329; Edmund Husserl, Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy, First Book, \u00a7\u00a787\u201390."
+  },
+  {
+    "id": "peirce1934work6",
+    "type": "book",
+    "note": "Charles Sanders Peirce, Collected Papers of Charles Sanders Peirce, vol. 5 (Cambridge, MA: Harvard University Press, 1934), \u00a7\u00a75.473\u20135.491; Umberto Eco, A Theory of Semiotics (Bloomington: Indiana University Press, 1976), 16\u201321."
+  },
+  {
+    "id": "brandom2000work2",
+    "type": "book",
+    "note": "Robert B. Brandom, Articulating Reasons: An Introduction to Inferentialism (Cambridge, MA: Harvard University Press, 2000), 50\u201358, 162\u201368; Richard S. Lazarus, Emotion and Adaptation (New York: Oxford University Press, 1991)."
+  },
+  {
+    "id": "brandom1994work4",
+    "type": "book",
+    "note": "Robert B. Brandom, Making It Explicit: Reasoning, Representing, and Discursive Commitment (Cambridge, MA: Harvard University Press, 1994), 141\u201376; Robert B. Brandom, Articulating Reasons: An Introduction to Inferentialism (Cambridge, MA: Harvard University Press, 2000), 162\u201368."
+  },
+  {
+    "id": "brandom1994work5",
+    "type": "book",
+    "note": "Robert B. Brandom, Making It Explicit: Reasoning, Representing, and Discursive Commitment (Cambridge, MA: Harvard University Press, 1994), 141\u201376; Harry G. Frankfurt, The Importance of What We Care About: Philosophical Essays (Cambridge: Cambridge University Press, 1988), 11\u201320"
+  },
+  {
+    "id": "husserl1983work7",
+    "type": "book",
+    "note": "Edmund Husserl, Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy, First Book, trans. F. Kersten (The Hague: Martinus Nijhoff, 1983), \u00a7\u00a784\u201390; Jean-Paul Sartre, The Emotions: Outline of a Theory, trans. Bernard Frechtman (New York: Philosophical Library, 1948)."
+  },
+  {
+    "id": "panksepp1998work5",
+    "type": "book",
+    "note": "Jaak Panksepp, Affective Neuroscience: The Foundations of Human and Animal Emotions (New York: Oxford University Press, 1998); Jaak Panksepp and Lucy Biven, The Archaeology of Mind: Neuroevolutionary Origins of Human Emotion (New York: W. W. Norton, 2012); Edmund Husserl, Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy, First Book."
+  },
+  {
+    "id": "husserl1934work",
+    "type": "book",
+    "note": "Edmund Husserl, Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy, First Book; Charles Sanders Peirce, Collected Papers of Charles Sanders Peirce, vol. 5 (Cambridge, MA: Harvard University Press, 1934), \u00a7\u00a75.473\u20135.491."
+  },
+  {
+    "id": "merleauponty1962work",
+    "type": "book",
+    "note": "Maurice Merleau-Ponty, Phenomenology of Perception, trans. Colin Smith (London: Routledge, 1962); Jaak Panksepp, Affective Neuroscience: The Foundations of Human and Animal Emotions (New York: Oxford University Press, 1998)."
+  },
+  {
+    "id": "husserl1994work2",
+    "type": "book",
+    "note": "Edmund Husserl, Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy, First Book; Robert B. Brandom, Making It Explicit: Reasoning, Representing, and Discursive Commitment (Cambridge, MA: Harvard University Press, 1994), 131\u2013156; Charles Sanders Peirce, Collected Papers of Charles Sanders Peirce, vol. 5 (Cambridge, MA: Harvard University Press, 1934), \u00a7\u00a75.473\u20135.491."
+  },
+  {
+    "id": "marr1982work4",
+    "type": "book",
+    "note": "David Marr, Vision: A Computational Investigation into the Human Representation and Processing of Visual Information (San Francisco: W. H. Freeman, 1982), 19\u201327; Imre Lakatos, The Methodology of Scientific Research Programmes, ed. John Worrall and Gregory Currie (Cambridge: Cambridge University Press, 1978), 132\u2013138."
+  },
+  {
+    "id": "booch2005work",
+    "type": "book",
+    "note": "Grady Booch, James Rumbaugh, and Ivar Jacobson, The Unified Modeling Language User Guide, 2nd ed. (Boston: Addison-Wesley, 2005), 35\u201374; Martin Fowler, UML Distilled: A Brief Guide to the Standard Object Modeling Language, 3rd ed. (Boston: Addison-Wesley, 2004), 11\u201328; David Marr, Vision: A Computational Investigation into the Human Representation and Processing of Visual Information (San Francisco: W. H. Freeman, 1982), 19\u201327."
+  },
+  {
+    "id": "brandom1994actions",
+    "type": "book",
+    "note": "Robert B. Brandom, Making It Explicit: Reasoning, Representing, and Discursive Commitment (Cambridge, MA: Harvard University Press, 1994), 131\u2013156; Donald Davidson, \u201cActions, Reasons, and Causes,\u201d Journal of Philosophy 60, no. 23 (1963): 685\u2013700; Karl R. Popper, The Logic of Scientific Discovery (London: Routledge, 2002), 18\u201339."
+  },
+  {
+    "id": "booch2005work2",
+    "type": "book",
+    "note": "Grady Booch, James Rumbaugh, and Ivar Jacobson, The Unified Modeling Language User Guide, 2nd ed. (Boston: Addison-Wesley, 2005), 35\u201374; Martin Fowler, UML Distilled: A Brief Guide to the Standard Object Modeling Language, 3rd ed. (Boston: Addison-Wesley, 2004), 11\u201328."
+  },
+  {
+    "id": "marr1982work5",
+    "type": "book",
+    "note": "David Marr, Vision: A Computational Investigation into the Human Representation and Processing of Visual Information (San Francisco: W. H. Freeman, 1982), 19\u201327; Grady Booch, James Rumbaugh, and Ivar Jacobson, The Unified Modeling Language User Guide, 2nd ed. (Boston: Addison-Wesley, 2005), 35\u201374."
+  },
+  {
+    "id": "panksepp1998work6",
+    "type": "book",
+    "note": "Jaak Panksepp, Affective Neuroscience: The Foundations of Human and Animal Emotions (New York: Oxford University Press, 1998), 18\u201323, 47\u201352; Jaak Panksepp and Lucy Biven, The Archaeology of Mind: Neuroevolutionary Origins of Human Emotion (New York: W. W. Norton, 2012)."
+  },
+  {
+    "id": "husserl1983work8",
+    "type": "book",
+    "note": "Edmund Husserl, Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy, First Book, trans. F. Kersten (The Hague: Martinus Nijhoff, 1983), \u00a7\u00a784\u201390; Antonio Damasio, The Feeling of What Happens: Body and Emotion in the Making of Consciousness (New York: Harcourt, 1999), 42\u201349, 279\u201384."
+  },
+  {
+    "id": "peirce1992work2",
+    "type": "book",
+    "note": "Charles Sanders Peirce, The Essential Peirce: Selected Philosophical Writings, vol. 1, ed. Nathan Houser and Christian Kloesel (Bloomington: Indiana University Press, 1992), 4\u201310, 26\u201331; Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), 29\u201334, 127\u201335; Richard S. Lazarus, Emotion and Adaptation (New York: Oxford University Press, 1991), 153\u201358."
+  },
+  {
+    "id": "booch2005work3",
+    "type": "book",
+    "note": "Grady Booch, James Rumbaugh, and Ivar Jacobson, The Unified Modeling Language User Guide, 2nd ed. (Boston: Addison-Wesley, 2005), 35\u201374; Robert B. Brandom, Making It Explicit: Reasoning, Representing, and Discursive Commitment (Cambridge, MA: Harvard University Press, 1994), 131\u201356."
+  },
+  {
+    "id": "davidson1963actions2",
+    "type": "book",
+    "note": "Donald Davidson, \u201cActions, Reasons, and Causes,\u201d Journal of Philosophy 60, no. 23 (1963): 685\u2013700; Harry G. Frankfurt, The Importance of What We Care About: Philosophical Essays (Cambridge: Cambridge University Press, 1988), 11\u201320; Robert B. Brandom, Making It Explicit: Reasoning, Representing, and Discursive Commitment (Cambridge, MA: Harvard University Press, 1994), 131\u2013156."
+  },
+  {
+    "id": "frege1980on",
+    "type": "book",
+    "note": "Gottlob Frege, \u201cOn Sense and Reference,\u201d in Translations from the Philosophical Writings of Gottlob Frege, ed. Peter Geach and Max Black, 3rd ed. (Oxford: Blackwell, 1980), 56\u201378; Charles Sanders Peirce, Collected Papers of Charles Sanders Peirce, vol. 5, \u00a7\u00a75.473\u20135.491."
+  },
+  {
+    "id": "carnap1956work5",
+    "type": "book",
+    "note": "Rudolf Carnap, Meaning and Necessity: A Study in Semantics and Modal Logic, 2nd ed. (Chicago: University of Chicago Press, 1956), 3\u201328; Robert B. Brandom, Articulating Reasons: An Introduction to Inferentialism (Cambridge, MA: Harvard University Press, 2000), 50\u201358."
+  },
+  {
+    "id": "carnap2005work",
+    "type": "book",
+    "note": "Rudolf Carnap, Meaning and Necessity, 3\u201328; Grady Booch, James Rumbaugh, and Ivar Jacobson, The Unified Modeling Language User Guide, 2nd ed. (Boston: Addison-Wesley, 2005), 35\u201374."
+  },
+  {
+    "id": "panksepp1998work7",
+    "type": "book",
+    "note": "Jaak Panksepp, Affective Neuroscience: The Foundations of Human and Animal Emotions (New York: Oxford University Press, 1998); Edmund Husserl, Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy, First Book, trans. F. Kersten (The Hague: Martinus Nijhoff, 1983); Maurice Merleau-Ponty, Phenomenology of Perception, trans. Colin Smith (London: Routledge, 1962)."
+  },
+  {
+    "id": "marr1982work6",
+    "type": "book",
+    "note": "David Marr, Vision: A Computational Investigation into the Human Representation and Processing of Visual Information (Cambridge, MA: MIT Press, 1982), 19\u201327."
+  },
+  {
+    "id": "friston2010freeenergy",
+    "type": "book",
+    "note": "Karl Friston, \u201cThe Free-Energy Principle: A Unified Brain Theory?\u201d Nature Reviews Neuroscience 11 (2010): 127\u2013138; Andy Clark, Surfing Uncertainty: Prediction, Action, and the Embodied Mind (Oxford: Oxford University Press, 2016)."
+  },
+  {
+    "id": "sterling2012allostasis",
+    "type": "book",
+    "note": "Peter Sterling, \u201cAllostasis: A Model of Predictive Regulation,\u201d Physiology & Behavior 106, no. 1 (2012): 5\u201315."
+  },
+  {
+    "id": "barrett2016work",
+    "type": "book",
+    "note": "Barrett, How Emotions Are Made; Marr, Vision; Andy Clark, Surfing Uncertainty: Prediction, Action, and the Embodied Mind (Oxford: Oxford University Press, 2016)."
+  },
+  {
+    "id": "sellars0000work",
+    "type": "book",
+    "note": "Sellars, Empiricism and the Philosophy of Mind; Barrett, How Emotions Are Made."
+  },
+  {
+    "id": "friston0000freeenergy",
+    "type": "book",
+    "note": "Friston, \u201cFree-Energy Principle,\u201d 127-38; Clark, Surfing Uncertainty; Barrett, How Emotions Are Made."
+  },
+  {
+    "id": "clark0000work",
+    "type": "book",
+    "note": "Clark, Surfing Uncertainty; Marr, Vision."
+  },
+  {
+    "id": "sterling2012allostasis2",
+    "type": "book",
+    "note": "Peter Sterling, \u201cAllostasis: A Model of Predictive Regulation,\u201d Physiology & Behavior 106, no. 1 (2012): 5-1; Craig, \u201cHow Do You Feel?\u201d 655-66; Barrett, How Emotions Are Made."
+  },
+  {
+    "id": "damasio0000how",
+    "type": "book",
+    "note": "Damasio, The Feeling of What Happens; Craig, \u201cHow Do You Feel?\u201d 655-66."
+  },
+  {
+    "id": "lazarus0000work",
+    "type": "book",
+    "note": "Lazarus, Emotion and Adaptation; Brandom, Articulating Reasons; Searle, Intentionality."
+  },
+  {
+    "id": "gross1998emerging",
+    "type": "book",
+    "note": "James J. Gross, \u201cThe Emerging Field of Emotion Regulation: An Integrative Review,\u201d Review of General Psychology 2, no. 3 (1998): 271-99; Barrett, How Emotions Are Made."
+  },
+  {
+    "id": "singer0000cognitive",
+    "type": "book",
+    "note": "Schachter and Singer, \u201cCognitive, Social, and Physiological Determinants,\u201d 379-99; Brandom, Making It Explicit; Barrett, How Emotions Are Made."
+  },
+  {
+    "id": "marr0000work",
+    "type": "book",
+    "note": "Marr, Vision, 19-25; Brandom, Making It Explicit, 89-95."
+  },
+  {
+    "id": "panksepp0000work2",
+    "type": "book",
+    "note": "Panksepp, Affective Neuroscience, 18-23; Damasio, The Feeling of What Happens, 42-49; Searle, Intentionality, 28-36."
+  },
+  {
+    "id": "peirce0000work4",
+    "type": "book",
+    "note": "Peirce, Essential Peirce, 1:4-10, 26-31; Eco, Theory of Semiotics, 16-21; Sellars, Empiricism and the Philosophy of Mind, \u00a7\u00a716-19."
+  },
+  {
+    "id": "brandom0000work3",
+    "type": "book",
+    "note": "Brandom, Articulating Reasons, 50-58, 162-68; Popper, Logic of Scientific Discovery, 33-39."
+  },
+  {
+    "id": "marr0000work2",
+    "type": "book",
+    "note": "Marr, Vision, 19-25; Newell, Unified Theories of Cognition, 12-20; Barrett, How Emotions Are Made, 127-35."
+  },
+  {
+    "id": "clark0000freeenergy",
+    "type": "book",
+    "note": "Clark, Surfing Uncertainty, 15-24; Friston, \u201cFree-Energy Principle,\u201d 127-38; Barrett, How Emotions Are Made, 67-74."
+  },
+  {
+    "id": "brandom0000work4",
+    "type": "book",
+    "note": "Brandom, Making It Explicit, 137-41; Frankfurt, Importance of What We Care About, 11-20."
+  },
+  {
+    "id": "barrett0000work3",
+    "type": "book",
+    "note": "Barrett, How Emotions Are Made, 29-34; Peirce, Essential Peirce, 1:26-31; Brandom, Articulating Reasons, 50-58."
+  },
+  {
+    "id": "peirce1998work",
+    "type": "book",
+    "note": "Charles Sanders Peirce, The Essential Peirce: Selected Philosophical Writings, vol. 2, ed. Peirce Edition Project (Bloomington: Indiana University Press, 1998), 4-10."
+  },
+  {
+    "id": "cassirer1944work",
+    "type": "book",
+    "note": "Ernst Cassirer, An Essay on Man: An Introduction to a Philosophy of Human Culture (New Haven, CT: Yale University Press, 1944), 25-46."
+  },
+  {
+    "id": "frege1980on2",
+    "type": "book",
+    "note": "Gottlob Frege, \u201cOn Sense and Reference,\u201d in Translations from the Philosophical Writings of Gottlob Frege, ed. Peter Geach and Max Black, 3rd ed. (Oxford: Blackwell, 1980), 56-78."
+  },
+  {
+    "id": "wittgenstein1922work",
+    "type": "book",
+    "note": "Ludwig Wittgenstein, Tractatus Logico-Philosophicus, trans. C. K. Ogden (London: Routledge & Kegan Paul, 1922), \u00a75.6."
+  },
+  {
+    "id": "peirce0000work5",
+    "type": "book",
+    "note": "Peirce, Essential Peirce, 2:10-13."
+  }
+]

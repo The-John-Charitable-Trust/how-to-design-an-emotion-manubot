@@ -1,69 +1,117 @@
 # Chapter 11 — Bibliography
 
-[Return to Chapter 11](../../part-4/chapter-11.md)
+[Back to Chapter 11](../../part-4/chapter-11.md)
 
-Barrett, Lisa Feldman. How Emotions Are Made: The Secret Life of the Brain. Boston: Houghton Mifflin Harcourt, 2017.
+Charles Sanders Peirce, “Logic as Semiotic: The Theory of Signs,” in Philosophical Writings of Peirce, ed. Justus Buchler (New York: Dover, 1955), 98-119; Saul A. Kripke, Naming and Necessity (Cambridge, MA: Harvard University Press, 1980), 48-96; Robert Brandom, Making It Explicit: Reasoning, Representing, and Discursive Commitment (Cambridge, MA: Harvard University Press, 1994), 159-200; Josef Perner, Understanding the Representational Mind (Cambridge, MA: MIT Press, 1991), 7-35.
 
-Brandom, Robert. Making It Explicit: Reasoning, Representing, and Discursive Commitment. Cambridge, MA: Harvard University Press, 1994.
+Jaak Panksepp, Affective Neuroscience: The Foundations of Human and Animal Emotions (New York: Oxford University Press, 1998), 17-45; Antonio Damasio, The Feeling of What Happens: Body and Emotion in the Making of Consciousness (New York: Harcourt, 1999), 35-81.
 
-Call, Josep, and Michael Tomasello. “Does the Chimpanzee Have a Theory of Mind? 30 Years Later.” Trends in Cognitive Sciences 12, no. 5 (2008): 187-92.
+Michael Lewis, The Rise of Consciousness and the Development of Emotional Life (New York: Guilford Press, 1993), 95-128; Susan A. Denham, Emotional Development in Young Children (New York: Guilford Press, 1998), 89-120.
 
-Cheney, Dorothy L., and Robert M. Seyfarth. How Monkeys See the World: Inside the Mind of Another Species. Chicago: University of Chicago Press, 1990.
+Michael Tomasello, Origins of Human Communication (Cambridge, MA: MIT Press, 2008), 3-28; Katherine Nelson, Narratives from the Crib (Cambridge, MA: Harvard University Press, 1989), 105-32.
 
-Clayton, Nicola S., and Anthony Dickinson. “Episodic-Like Memory during Cache Recovery by Scrub Jays.” Nature 395 (1998): 272-74.
+Perner, Understanding the Representational Mind, 7-35.
 
-Clayton, Nicola S., Nathan J. Emery, and Anthony Dickinson. “The Mentality of Crows: Convergent Evolution of Intelligence in Corvids and Apes.” Science 306, no. 5703 (2004): 1903-7.
+Brandom, Making It Explicit, 159-200; Kripke, Naming and Necessity, 48-96.
 
-Damasio, Antonio. The Feeling of What Happens: Body and Emotion in the Making of Consciousness. New York: Harcourt, 1999.
+Peirce, “Logic as Semiotic,” 98-119; Brandom, Making It Explicit, 159-200; Perner, Understanding the Representational Mind, 75-105.
 
-Denham, Susan A. Emotional Development in Young Children. New York: Guilford Press, 1998.
+Panksepp, Affective Neuroscience, 17-45; Lewis, Rise of Consciousness, 95-128.
 
-Dennett, Daniel C. The Intentional Stance. Cambridge, MA: MIT Press, 1987.
+Panksepp, Affective Neuroscience, 17-45; Lewis, Rise of Consciousness, 95-128; Perner, Understanding the Representational Mind, 75-105.
 
-Emery, Nathan J., and Nicola S. Clayton. “Effects of Experience and Social Context on Prospective Caching Strategies by Scrub Jays.” Nature 414 (2001): 443–446
+Dorothy L. Cheney and Robert M. Seyfarth, How Monkeys See the World: Inside the Mind of Another Species (Chicago: University of Chicago Press, 1990), 131-58.
 
-Harris, Paul L. Children and Emotion. Oxford: Blackwell, 1989.
+Nicola S. Clayton and Anthony Dickinson, “Episodic-Like Memory during Cache Recovery by Scrub Jays,” Nature 395 (1998): 272-74; Caroline Raby et al., “Planning for the Future by Western Scrub-Jays,” Nature 445 (2007): 919-21.
 
-Horowitz, Alexandra. “Disambiguating the ‘Guilty Look’: Salient Prompts to a Familiar Dog Behaviour.” Behavioural Processes 81, no. 3 (2009): 447-52.
+Sue Savage-Rumbaugh, Stuart G. Shanker, and Talbot J. Taylor, Apes, Language, and the Human Mind (New York: Oxford University Press, 1998), 23-67.
 
-Horowitz, Alexandra. Inside of a Dog: What Dogs See, Smell, and Know. New York: Scribner, 2009.
+Juliane Kaminski, Josep Call, and Julia Fischer, “Word Learning in a Domestic Dog: Evidence for ‘Fast Mapping,’” Science 304, no. 5677 (2004): 1682-83.
 
-Kaminski, Juliane, Josep Call, and Julia Fischer. “Word Learning in a Domestic Dog: Evidence for ‘Fast Mapping.’” Science 304, no. 5677 (2004): 1682-83.
+Nicky J. Clayton, Nathan J. Emery, and Anthony Dickinson, “The Mentality of Crows: Convergent Evolution of Intelligence in Corvids and Apes,” Science 306, no. 5703 (2004): 1903-7; Josep Call and Michael Tomasello, “Does the Chimpanzee Have a Theory of Mind? 30 Years Later,” Trends in Cognitive Sciences 12, no. 5 (2008): 187-92.
 
-Kripke, Saul A. Naming and Necessity. Cambridge, MA: Harvard University Press, 1980.
+Peirce, “Logic as Semiotic,” 98-119; Cheney and Seyfarth, How Monkeys See the World, 131-58.
 
-Lakatos, Imre. The Methodology of Scientific Research Programmes. Edited by John Worrall and Gregory Currie. Cambridge: Cambridge University Press, 1978.
+Clayton and Dickinson, “Episodic-Like Memory,” 272-74; Raby et al., “Planning for the Future,” 919-21.
 
-LeDoux, Joseph. The Emotional Brain. New York: Simon & Schuster, 1996.
+David Marr, Vision: A Computational Investigation into the Human Representation and Processing of Visual Information (Cambridge, MA: MIT Press, 1982), 24-29.
 
-Lewis, Michael. The Rise of Consciousness and the Development of Emotional Life. New York: Guilford Press, 1993.
+Savage-Rumbaugh, Shanker, and Taylor, Apes, Language, and the Human Mind, 23-67.
 
-Marr, David. Vision: A Computational Investigation into the Human Representation and Processing of Visual Information. Cambridge, MA: MIT Press, 1982.
+Kaminski, Call, and Fischer, “Word Learning in a Domestic Dog,” 1682-83.
 
-McDowell, John. Mind and World. Cambridge, MA: Harvard University Press, 1994.
+Clayton, Emery, and Dickinson, “Mentality of Crows,” 1903-7; Call and Tomasello, “Does the Chimpanzee Have a Theory of Mind?” 187-92.
 
-Merleau-Ponty, Maurice. Phenomenology of Perception. Translated by Donald A. Landes. London: Routledge, 2012.
+Daniel C. Dennett, The Intentional Stance (Cambridge, MA: MIT Press, 1987), 13-35; Tomasello, Origins of Human Communication, 3-28.
 
-Nelson, Katherine. Narratives from the Crib. Cambridge, MA: Harvard University Press, 1989.
+Brandom, Making It Explicit, 159-200; John McDowell, Mind and World (Cambridge, MA: Harvard University Press, 1994), 4-13.
 
-Panksepp, Jaak. Affective Neuroscience: The Foundations of Human and Animal Emotions. New York: Oxford University Press, 1998.
+Karl Popper, The Logic of Scientific Discovery (London: Routledge, 2002), 27-48; Imre Lakatos, The Methodology of Scientific Research Programmes, ed. John Worrall and Gregory Currie (Cambridge: Cambridge University Press, 1978), 8-31.
 
-Peirce, Charles Sanders. “Logic as Semiotic: The Theory of Signs.” In Philosophical Writings of Peirce, edited by Justus Buchler, 98-119. New York: Dover, 1955.
+Brandom, Making It Explicit, 159-200; McDowell, Mind and World, 4-13.
 
-Perner, Josef. Understanding the Representational Mind. Cambridge, MA: MIT Press, 1991.
+Perner, Understanding the Representational Mind, 7-35; Dan Sperber and Deirdre Wilson, Relevance: Communication and Cognition, 2nd ed. (Oxford: Blackwell, 1995), 45-70.
 
-Popper, Karl. The Logic of Scientific Discovery. London: Routledge, 2002.
+Cheney and Seyfarth, How Monkeys See the World, 131-58; Clayton and Dickinson, “Episodic-Like Memory,” 272-74; Kaminski, Call, and Fischer, “Word Learning in a Domestic Dog,” 1682-83; Clayton, Emery, and Dickinson, “Mentality of Crows,” 1903-7.
 
-Premack, David, and Guy Woodruff. “Does the Chimpanzee Have a Theory of Mind?” Behavioral and Brain Sciences 1, no. 4 (1978): 515-26.
+Peirce, “Logic as Semiotic,” 98-119; Tomasello, Origins of Human Communication, 3-28; Savage-Rumbaugh, Shanker, and Taylor, Apes, Language, and the Human Mind, 23-67.
 
-Raby, Caroline R., Deborah M. Alexis, Anthony Dickinson, and Nicola S. Clayton. “Planning for the Future by Western Scrub-Jays.” Nature 445 (2007): 919-21.
+Kripke, Naming and Necessity, 48-96; Brandom, Making It Explicit, 159-200.
 
-Rosch, Eleanor. “Principles of Categorization.” In Cognition and Categorization, edited by Eleanor Rosch and Barbara B. Lloyd, 27-48. Hillsdale, NJ: Lawrence Erlbaum, 1978.
+Peirce, “Logic as Semiotic,” 98-119; Brandom, Making It Explicit, 159-200.
 
-Savage-Rumbaugh, Sue, Stuart G. Shanker, and Talbot J. Taylor. Apes, Language, and the Human Mind. New York: Oxford University Press, 1998.
+Eleanor Rosch, “Principles of Categorization,” in Cognition and Categorization, ed. Eleanor Rosch and Barbara B. Lloyd (Hillsdale, NJ: Lawrence Erlbaum, 1978), 27-48; Lewis, Rise of Consciousness, 95-128.
 
-Sperber, Dan, and Deirdre Wilson. Relevance: Communication and Cognition. 2nd ed. Oxford: Blackwell, 1995.
+Lewis, Rise of Consciousness, 95-128; Denham, Emotional Development in Young Children, 89-120.
 
-Tomasello, Michael. Origins of Human Communication. Cambridge, MA: MIT Press, 2008.
+Panksepp, Affective Neuroscience, 17-45; Alexandra Horowitz, Inside of a Dog: What Dogs See, Smell, and Know (New York: Scribner, 2009), 163-88.
 
-Wellman, Henry M., David Cross, and Julanne Watson. “Meta-Analysis of Theory-of-Mind Development: The Truth about False Belief.” Child Development 72, no. 3 (2001): 655-84.
+Rosch, “Principles of Categorization,” 27-48.
+
+Rosch, “Principles of Categorization,” 27-48; Kripke, Naming and Necessity, 48-96.
+
+Perner, Understanding the Representational Mind, 75-105.
+
+Clayton, Emery, and Dickinson, “Mentality of Crows,” 1903-7; Call and Tomasello, “Does the Chimpanzee Have a Theory of Mind?” 187-92; Alexandra Horowitz, “Disambiguating the ‘Guilty Look’: Salient Prompts to a Familiar Dog Behaviour,” Behavioural Processes 81, no. 3 (2009): 447-52.
+
+Perner, Understanding the Representational Mind, 75-105; David Premack and Guy Woodruff, “Does the Chimpanzee Have a Theory of Mind?” Behavioral and Brain Sciences 1, no. 4 (1978): 515-26.
+
+Clayton, Emery, and Dickinson, “Mentality of Crows,” 1903-7.
+
+Call and Tomasello, “Does the Chimpanzee Have a Theory of Mind?” 187-92.
+
+Horowitz, “Disambiguating the ‘Guilty Look,’” 447-52; Emery and Clayton, “Effects of Experience and Social Context,” 443–446.
+
+Panksepp, Affective Neuroscience, 17-45; Perner, Understanding the Representational Mind, 75-105.
+
+Lewis, Rise of Consciousness, 95-128; Denham, Emotional Development in Young Children, 89-120; Perner, Understanding the Representational Mind, 75-105.
+
+Lewis, Rise of Consciousness, 95-128; Denham, Emotional Development in Young Children, 89-120; Paul L. Harris, Children and Emotion (Oxford: Blackwell, 1989), 45-78.
+
+Nelson, Narratives from the Crib, 105-32; Harris, Children and Emotion, 45-78.
+
+Denham, Emotional Development in Young Children, 89-120; Lewis, Rise of Consciousness, 95-128.
+
+Denham, Emotional Development in Young Children, 89-120; Harris, Children and Emotion, 45-78.
+
+Perner, Understanding the Representational Mind, 75-105; Henry M. Wellman, David Cross, and Julanne Watson, “Meta-Analysis of Theory-of-Mind Development: The Truth about False Belief,” Child Development 72, no. 3 (2001): 655-84.
+
+Brandom, Making It Explicit, 159-200; Perner, Understanding the Representational Mind, 75-105.
+
+Cheney and Seyfarth, How Monkeys See the World, 131-58; Clayton and Dickinson, “Episodic-Like Memory,” 272-74; Call and Tomasello, “Does the Chimpanzee Have a Theory of Mind?” 187-92; Horowitz, “Disambiguating the ‘Guilty Look,’” 447-52.
+
+Lewis, Rise of Consciousness, 95-128; Denham, Emotional Development in Young Children, 89-120; Wellman, Cross, and Watson, “Meta-Analysis of Theory-of-Mind Development,” 655-84.
+
+Tomasello, Origins of Human Communication, 3-28; Dennett, Intentional Stance, 13-35.
+
+Joseph LeDoux, The Emotional Brain (New York: Simon & Schuster, 1996), 69-96; Damasio, Feeling of What Happens, 35-81; Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), 30-45.
+
+Panksepp, Affective Neuroscience, 17-45; Damasio, Feeling of What Happens, 35-81.
+
+Maurice Merleau-Ponty, Phenomenology of Perception, trans. Donald A. Landes (London: Routledge, 2012), 203-34; Damasio, Feeling of What Happens, 35-81.
+
+Peirce, “Logic as Semiotic,” 98-119; Kripke, Naming and Necessity, 48-96; Brandom, Making It Explicit, 159-200.
+
+LeDoux, Emotional Brain, 69-96; Damasio, Feeling of What Happens, 35-81.
+
+Barrett, How Emotions Are Made, 30-45; LeDoux, Emotional Brain, 69-96.

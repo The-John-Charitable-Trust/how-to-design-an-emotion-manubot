@@ -1,61 +1,71 @@
 # Chapter 13 — Bibliography
 
-[Return to Chapter 13](../../part-4/chapter-13.md)
+[Back to Chapter 13](../../part-4/chapter-13.md)
 
-Barrett, Lisa Feldman. How Emotions Are Made: The Secret Life of the Brain. Boston: Houghton Mifflin Harcourt, 2017.
+Antonio Damasio, The Feeling of What Happens: Body and Emotion in the Making of Consciousness (New York: Harcourt, 1999), 42–49; Edmund Husserl, Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy, trans. F. Kersten (Dordrecht: Kluwer, 1983), 66–74.
 
-Bruner, Jerome. Acts of Meaning. Cambridge, MA: Harvard University Press, 1990.
+James A. Russell, “Core Affect and the Psychological Construction of Emotion,” Psychological Review 110, no. 1 (2003): 145–172; Newer source: James A. Russell, “Emotion, Core Affect, and Psychological Construction,” Cognition and Emotion 23, no. 7 (2009): 1259–1283; Jaak Panksepp, Affective Neuroscience (Oxford: Oxford University Press, 1998), 18–23.
 
-Craig, A. D. “How Do You Feel? Interoception: The Sense of the Physiological Condition of the Body.” Nature Reviews Neuroscience 3, no. 8 (2002): 655–666.
+Antonio Damasio, The Feeling of What Happens, 42–49; A. D. Craig, “How Do You Feel? Interoception: The Sense of the Physiological Condition of the Body,” Nature Reviews Neuroscience 3 (2002): 655–666. Newer source: A. D. Craig, “How Do You Feel—Now? The Anterior Insula and Human Awareness,” Nature Reviews Neuroscience 10, no. 1 (2009): 59–70.
 
-Craig, A. D. “How Do You Feel—Now? The Anterior Insula and Human Awareness.” Nature Reviews Neuroscience 10, no. 1 (2009): 59–70.
+John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 27–52; Charles S. Peirce, Collected Papers of Charles Sanders Peirce, vols. 1–8 (Cambridge, MA: Harvard University Press, 1931–1958), esp. 2.228–2.231.
 
-Damasio, Antonio R. The Feeling of What Happens: Body and Emotion in the Making of Consciousness. New York: Harcourt Brace, 1999.
+Fred Feldman, Pleasure and the Good Life: Concerning the Nature, Varieties, and Plausibility of Hedonism (Oxford: Oxford University Press, 2004), 45–70.
 
-Ekman, Paul. “An Argument for Basic Emotions.” Cognition & Emotion 6, nos. 3–4 (1992): 169–200.
+James A. Russell, “Core Affect and the Psychological Construction of Emotion,” 145–172.
 
-Feldman, Fred. Pleasure and the Good Life: Concerning the Nature, Varieties, and Plausibility of Hedonism. Oxford: Oxford University Press, 2004.
+Donald E. Hall, Musical Acoustics, 3rd ed. (Belmont, CA: Wadsworth, 2002), 73–96.
 
-Friston, Karl. “The Free-Energy Principle: A Unified Brain Theory?” Nature Reviews Neuroscience 11, no. 2 (2010): 127–138.
+Hermann von Helmholtz, On the Sensations of Tone, trans. Alexander J. Ellis (New York: Dover, 1954), 19–35.
 
-Friston, Karl, Thomas FitzGerald, Francesco Rigoli, Philipp Schwartenbeck, and Giovanni Pezzulo. “Active Inference: A Process Theory.” Neural Computation 29, no. 1 (2017): 1–49.
+Nelson Goodman, Languages of Art: An Approach to a Theory of Symbols, 2nd ed. (Indianapolis: Hackett, 1976), 104–119; Susanne K. Langer, Philosophy in a New Key, 3rd ed. (Cambridge, MA: Harvard University Press, 1957), 206–220.
 
-Goodman, Nelson. Languages of Art: An Approach to a Theory of Symbols. 2nd ed. Indianapolis: Hackett Publishing, 1976.
+Gilbert Ryle, The Concept of Mind (Chicago: University of Chicago Press, 1949), 15–22, 96–104.
 
-Hacking, Ian. The Social Construction of What? Cambridge, MA: Harvard University Press, 1999.
+Nelson Goodman, Languages of Art: An Approach to a Theory of Symbols, 2nd ed. (Indianapolis: Hackett Publishing, 1976), 104–119; Hermann L. F. von Helmholtz, On the Sensations of Tone as a Physiological Basis for the Theory of Music, trans. Alexander J. Ellis (New York: Dover Publications, 1954), 19–35.
 
-Hall, Donald E. Musical Acoustics. 3rd ed. Belmont, CA: Wadsworth Publishing, 2002.
+Antonio R. Damasio, The Feeling of What Happens: Body and Emotion in the Making of Consciousness (New York: Harcourt Brace, 1999), 42–49; A. D. Craig, “How Do You Feel? Interoception: The Sense of the Physiological Condition of the Body,” Nature Reviews Neuroscience 3, no. 8 (2002): 655–666.
 
-Helmholtz, Hermann L. F. von. On the Sensations of Tone as a Physiological Basis for the Theory of Music. Translated by Alexander J. Ellis. New York: Dover Publications, 1954.
+Thomas Nagel, “What Is It Like to Be a Bat?” The Philosophical Review 83, no. 4 (1974): 435–450.
 
-Husserl, Edmund. Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy. Translated by F. Kersten. Dordrecht: Kluwer Academic Publishers, 1983.
+John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 115–122; Jerome Bruner, Acts of Meaning (Cambridge, MA: Harvard University Press, 1990), 56–73.
 
-Juslin, Patrik N., and Daniel Västfjäll. “Emotional Responses to Music: The Need to Consider Underlying Mechanisms.” Behavioral and Brain Sciences 31, no. 5 (2008): 559–575.
+Paul Ekman, “An Argument for Basic Emotions,” Cognition & Emotion 6, nos. 3–4 (1992): 169–200; Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), 127–146.
 
-Langer, Susanne K. Philosophy in a New Key: A Study in the Symbolism of Reason, Rite, and Art. 3rd ed. Cambridge, MA: Harvard University Press, 1957.
+Avery Li-Chun Wang, “An Industrial-Strength Audio Search Algorithm,” in Proceedings of the 4th International Conference on Music Information Retrieval (ISMIR 2003) (Baltimore, MD, 2003), 7–13.
 
-Meyer, Leonard B. Emotion and Meaning in Music. Chicago: University of Chicago Press, 1956.
+Lisa Feldman Barrett, How Emotions Are Made, 29–34, 89–135, 274–282.
 
-Nagel, Thomas. “What Is It Like to Be a Bat?” The Philosophical Review 83, no. 4 (1974): 435–450.
+Gilbert Ryle, The Concept of Mind, 15–22.
 
-Nussbaum, Martha C. Upheavals of Thought: The Intelligence of Emotions. Cambridge: Cambridge University Press, 2001.
+John B. Watson, “Psychology as the Behaviorist Views It,” Psychological Review 20, no. 2 (1913): 158–177.
 
-Panksepp, Jaak. Affective Neuroscience: The Foundations of Human and Animal Emotions. Oxford: Oxford University Press, 1998.
+Martha C. Nussbaum, Upheavals of Thought: The Intelligence of Emotions (Cambridge: Cambridge University Press, 2001), 19–88.
 
-Peirce, Charles S. Collected Papers of Charles Sanders Peirce. 8 vols. Cambridge, MA: Harvard University Press, 1931–1958.
+Paul Ekman, “An Argument for Basic Emotions,” Cognition & Emotion 6, nos. 3–4 (1992): 169–200.
 
-Rosch, Eleanor. “Principles of Categorization.” In Cognition and Categorization, edited by Eleanor Rosch and Barbara B. Lloyd, 27–48. Hillsdale, NJ: Lawrence Erlbaum Associates, 1978.
+Jaak Panksepp, Affective Neuroscience: The Foundations of Human and Animal Emotions (Oxford: Oxford University Press, 1998), 18–39, 309–315.
 
-Russell, James A. “Core Affect and the Psychological Construction of Emotion.” Psychological Review 110, no. 1 (2003): 145–172.
+Lisa Feldman Barrett, How Emotions Are Made, 29–34, 127–146.
 
-Russell, James A. “Emotion, Core Affect, and Psychological Construction.” Cognition and Emotion 23, no. 7 (2009): 1259–1283.
+Nelson Goodman, Languages of Art: An Approach to a Theory of Symbols, 2nd ed. (Indianapolis: Hackett Publishing, 1976), 127–151; Leonard B. Meyer, Emotion and Meaning in Music (Chicago: University of Chicago Press, 1956), 39–56; Newer source: Patrik N. Juslin and Daniel Västfjäll, “Emotional Responses to Music: The Need to Consider Underlying Mechanisms,” Behavioral and Brain Sciences 31, no. 5 (2008): 559–575.
 
-Ryle, Gilbert. The Concept of Mind. Chicago: University of Chicago Press, 1949.
+Ludwig Wittgenstein, Philosophical Investigations, 4th ed., trans. G. E. M. Anscombe, P. M. S. Hacker, and Joachim Schulte (Malden, MA: Wiley-Blackwell, 2009), §§65–71; Eleanor Rosch, “Principles of Categorization,” in Cognition and Categorization, ed. Eleanor Rosch and Barbara B. Lloyd (Hillsdale, NJ: Lawrence Erlbaum Associates, 1978), 27–48.
 
-Searle, John R. The Construction of Social Reality. New York: Free Press, 1995.
+Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), 29–34, 127–146, 274–282.
 
-Wang, Avery Li-Chun. “An Industrial-Strength Audio Search Algorithm.” In Proceedings of the 4th International Conference on Music Information Retrieval (ISMIR 2003), 7–13. Baltimore, MD, 2003.
+Ian Hacking, The Social Construction of What? (Cambridge, MA: Harvard University Press, 1999), 99–124; Nelson Goodman, Languages of Art, 127–151.
 
-Watson, John B. “Psychology as the Behaviorist Views It.” Psychological Review 20, no. 2 (1913): 158–177.
+Ian Hacking, The Social Construction of What?, 99–124; John R. Searle, The Construction of Social Reality (New York: Free Press, 1995), 115–122.
 
-Wittgenstein, Ludwig. Philosophical Investigations. 4th ed. Translated by G. E. M. Anscombe, P. M. S. Hacker, and Joachim Schulte. Malden, MA: Wiley-Blackwell, 2009.
+Ludwig Wittgenstein, Philosophical Investigations, §§43, 65–71; Nelson Goodman, Languages of Art, 225–241.
+
+Karl Friston, “The Free-Energy Principle: A Unified Brain Theory?” Nature Reviews Neuroscience 11, no. 2 (2010): 127–138; Newer source: Karl Friston, Thomas FitzGerald, Francesco Rigoli, Philipp Schwartenbeck, and Giovanni Pezzulo, “Active Inference: A Process Theory,” Neural Computation 29, no. 1 (2017): 1–49; Lisa Feldman Barrett, How Emotions Are Made, 274–282.
+
+Fred Feldman, Pleasure and the Good Life: Concerning the Nature, Varieties, and Plausibility of Hedonism (Oxford: Oxford University Press, 2004), 45–70; Nelson Goodman, Languages of Art: An Approach to a Theory of Symbols, 2nd ed. (Indianapolis: Hackett Publishing, 1976), 104–119.
+
+Antonio R. Damasio, The Feeling of What Happens: Body and Emotion in the Making of Consciousness (New York: Harcourt Brace, 1999), 42–49; A. D. Craig, “How Do You Feel? Interoception: The Sense of the Physiological Condition of the Body,” Nature Reviews Neuroscience 3, no. 8 (2002): 655–666; Gilbert Ryle, The Concept of Mind (Chicago: University of Chicago Press, 1949), 15–22.
+
+Ludwig Wittgenstein, Philosophical Investigations, 4th ed., trans. G. E. M. Anscombe, P. M. S. Hacker, and Joachim Schulte (Malden, MA: Wiley-Blackwell, 2009), §§65–71; Nelson Goodman, Languages of Art, 127–151; Lisa Feldman Barrett, How Emotions Are Made: The Secret Life of the Brain (Boston: Houghton Mifflin Harcourt, 2017), 274–282.
+
+Nelson Goodman, Languages of Art, 225–241; Susanne K. Langer, Philosophy in a New Key, 3rd ed. (Cambridge, MA: Harvard University Press, 1957), 206–220.
