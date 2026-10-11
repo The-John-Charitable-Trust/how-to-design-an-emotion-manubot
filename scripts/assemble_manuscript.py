@@ -52,7 +52,7 @@ def assemble(manifest, output_path='build/manuscript.md'):
         if 'related-books' in f or f.endswith('introduction.md'):
             content = '<div class="section-breaker">\n\n' + content + '\n\n</div>'
         sections.append(content)
-        sections.append('\n\n<div class="page-break"></div>\n\n')
+        sections.append('\n\n```{=openxml}\n<w:p><w:r><w:br w:type="page"/></w:r></w:p>\n```\n\n')
     
     # Parts
     for part in manifest.get('parts', []):
@@ -64,17 +64,17 @@ def assemble(manifest, output_path='build/manuscript.md'):
             elif '_metamorphosis.md' in f:
                 content = '<div class="section-breaker metamorphosis">\n\n' + content + '\n\n</div>'
             sections.append(content)
-            sections.append('\n\n<div class="page-break"></div>\n\n')
+            sections.append('\n\n```{=openxml}\n<w:p><w:r><w:br w:type="page"/></w:r></w:p>\n```\n\n')
     
     # Appendices
     for f in manifest.get('appendices', []):
         sections.append(read_file(f))
-        sections.append('\n\n<div class="page-break"></div>\n\n')
+        sections.append('\n\n```{=openxml}\n<w:p><w:r><w:br w:type="page"/></w:r></w:p>\n```\n\n')
     
     # Back matter
     for f in manifest.get('back_matter', []):
         sections.append(read_file(f))
-        sections.append('\n\n<div class="page-break"></div>\n\n')
+        sections.append('\n\n```{=openxml}\n<w:p><w:r><w:br w:type="page"/></w:r></w:p>\n```\n\n')
     
     # Combine bibliography JSON files
     import json

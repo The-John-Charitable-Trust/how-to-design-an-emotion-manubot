@@ -16,7 +16,9 @@ Published by New Intellectual LLC
 
 
 
-<div class="page-break"></div>
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
 
 
 # Copyright
@@ -42,7 +44,9 @@ Printed in the United States of America
 
 
 
-<div class="page-break"></div>
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
 
 
 # Acknowledgments
@@ -69,7 +73,9 @@ Finally, I express my gratitude to the readers willing to engage seriously with 
 
 
 
-<div class="page-break"></div>
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
 
 
 # Preface
@@ -118,7 +124,9 @@ I therefore invite the reader to fulfill what philosophy demands at its best: de
 
 
 
-<div class="page-break"></div>
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
 
 
 <div class="section-breaker">
@@ -225,7 +233,9 @@ Alongside the treatise and the novel, I bring this architecture into public disc
 </div>
 
 
-<div class="page-break"></div>
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
 
 
 # About the NFT
@@ -234,7 +244,9 @@ Alongside the treatise and the novel, I bring this architecture into public disc
 
 
 
-<div class="page-break"></div>
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
 
 
 # UNIVERSAL MORAL CONCEPTS
@@ -261,7 +273,9 @@ Father Abel, a devout Catholic priest, emerges as a formidable intellectual adve
 
 
 
-<div class="page-break"></div>
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
 
 
 <div class="section-breaker">
@@ -288,7 +302,9 @@ Father Abel, a devout Catholic priest, emerges as a formidable intellectual adve
 </div>
 
 
-<div class="page-break"></div>
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
 
 
 # Methodology of an Ontology
@@ -476,7 +492,9 @@ It is earned.
 
 
 
-<div class="page-break"></div>
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
 
 
 <div class="section-breaker part-divider">
@@ -489,7 +507,9 @@ It is earned.
 </div>
 
 
-<div class="page-break"></div>
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
 
 
 # Chapter 1 — What the Bleep Is an Emotion?
@@ -610,7 +630,9 @@ I turn to Chapter 2 not as a detour from emotion, but as the necessary path towa
 
 
 
-<div class="page-break"></div>
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
 
 
 <div class="section-breaker metamorphosis">
@@ -625,7 +647,9 @@ I turn to Chapter 2 not as a detour from emotion, but as the necessary path towa
 </div>
 
 
-<div class="page-break"></div>
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
 
 
 <div class="section-breaker part-divider">
@@ -638,7 +662,9 @@ I turn to Chapter 2 not as a detour from emotion, but as the necessary path towa
 </div>
 
 
-<div class="page-break"></div>
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
 
 
 # Chapter 2: What Is an Idea, Anyway?
@@ -959,7 +985,9 @@ Why Our Concepts Collapse and How to Repair Them
 
 
 
-<div class="page-break"></div>
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
 
 
 # Chapter 3: Chasing Ghosts in the Brain
@@ -1110,7 +1138,9 @@ The next chapter examines how theorists misappropriate the concept when they sev
 
 
 
-<div class="page-break"></div>
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
 
 
 # Chapter 4: The Misappropriation of the Concept
@@ -1327,7 +1357,9 @@ CHAPTER V
 
 
 
-<div class="page-break"></div>
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
 
 
 # Chapter 5: Rules vs. Prototypes
@@ -1448,7 +1480,9 @@ Chapter 6 now states that account positively as a goal-governed model of concept
 
 
 
-<div class="page-break"></div>
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
 
 
 # Chapter 6: The Blueprint of Mind
@@ -1605,7 +1639,9 @@ That is the task of Chapter 7. I now move from the architecture of conceptual id
 
 
 
-<div class="page-break"></div>
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
 
 
 <div class="section-breaker metamorphosis">
@@ -1620,7 +1656,9 @@ That is the task of Chapter 7. I now move from the architecture of conceptual id
 </div>
 
 
-<div class="page-break"></div>
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
 
 
 <div class="section-breaker part-divider">
@@ -1633,7 +1671,9 @@ That is the task of Chapter 7. I now move from the architecture of conceptual id
 </div>
 
 
-<div class="page-break"></div>
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
 
 
 # Chapter 7: The Constructivist Semiotics
@@ -2109,7 +2149,9 @@ The next chapter applies the architecture, its governing principles, and its for
 
 
 
-<div class="page-break"></div>
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
 
 
 [Contents](../../README.md) · [Notes](../references/notes/chapter-08.md) · [Bibliography](../references/bibliography/chapter-08.md)
@@ -2419,7 +2461,9 @@ The next chapter applies this architecture to emotion. If agents make meaning th
 This is the task of the next chapter:
 
 
-<div class="page-break"></div>
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
 
 
 <div class="section-breaker metamorphosis">
@@ -2434,7 +2478,9 @@ This is the task of the next chapter:
 </div>
 
 
-<div class="page-break"></div>
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
 
 
 <div class="section-breaker part-divider">
@@ -2447,7 +2493,9 @@ This is the task of the next chapter:
 </div>
 
 
-<div class="page-break"></div>
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
 
 
 [Contents](../../README.md) · [Notes](../references/notes/chapter-09.md) · [Bibliography](../references/bibliography/chapter-09.md)
@@ -3218,7 +3266,9 @@ The Making of Meaning.
 
 
 
-<div class="page-break"></div>
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
 
 
 [Contents](../../README.md) · [Notes](../references/notes/chapter-10.md) · [Bibliography](../references/bibliography/chapter-10.md)
@@ -3441,7 +3491,9 @@ These are not rhetorical questions. They are architectural tests. Emotional mean
 
 
 
-<div class="page-break"></div>
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
 
 
 [Contents](../../README.md) · [Notes](../references/notes/chapter-11.md) · [Bibliography](../references/bibliography/chapter-11.md)
@@ -3612,7 +3664,9 @@ The next chapter examines that distinction directly. It asks whether emotions ar
 
 
 
-<div class="page-break"></div>
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
 
 
 [Contents](../../README.md) · [Notes](../references/notes/chapter-12.md) · [Bibliography](../references/bibliography/chapter-12.md)
@@ -4099,7 +4153,9 @@ To understand emotion, I must first understand the sound of feeling.[@langer1957
 
 
 
-<div class="page-break"></div>
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
 
 
 [Contents](../../README.md) · [Notes](../references/notes/chapter-13.md) · [Bibliography](../references/bibliography/chapter-13.md)
@@ -4196,7 +4252,9 @@ The final chapter completes that remaining task. I integrate the Constructivist 
 
 
 
-<div class="page-break"></div>
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
 
 
 <div class="section-breaker metamorphosis">
@@ -4211,7 +4269,9 @@ The final chapter completes that remaining task. I integrate the Constructivist 
 </div>
 
 
-<div class="page-break"></div>
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
 
 
 <div class="section-breaker part-divider">
@@ -4224,7 +4284,9 @@ The final chapter completes that remaining task. I integrate the Constructivist 
 </div>
 
 
-<div class="page-break"></div>
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
 
 
 [Contents](../../README.md) · [Notes](../references/notes/chapter-14.md) · [Bibliography](../references/bibliography/chapter-14.md)
@@ -4311,7 +4373,9 @@ And that is what it means to design an emotion.[@peirce0000work]
 
 
 
-<div class="page-break"></div>
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
 
 
 <div class="section-breaker metamorphosis">
@@ -4326,7 +4390,9 @@ And that is what it means to design an emotion.[@peirce0000work]
 </div>
 
 
-<div class="page-break"></div>
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
 
 
 # Appendix A: Basic Emotion Theory
@@ -4437,7 +4503,9 @@ Tarski, Alfred. "On the Concept of Logical Consequence." In *Logic, Semantics, M
 
 
 
-<div class="page-break"></div>
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
 
 
 # Appendix B: Complex Affective UML Architecture Diagrams
@@ -4693,7 +4761,9 @@ Wittgenstein, Ludwig. *Philosophical Investigations*. Translated by G. E. M. Ans
 
 
 
-<div class="page-break"></div>
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
 
 
 # Appendix C: Reconstructing Goal-Based Concepts
@@ -5043,7 +5113,9 @@ Booch, Grady, James Rumbaugh, and Ivar Jacobson. *The Unified Modeling Language 
 
 
 
-<div class="page-break"></div>
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
 
 
 # Appendix D: Formal Reconstruction of the Posner-Keele Paradigm
@@ -5126,7 +5198,9 @@ Posner, Michael I., and Stephen W. Keele. “*On the Genesis of Abstract Ideas*.
 
 
 
-<div class="page-break"></div>
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
 
 
 # Appendix E: Chrome DevTools
@@ -5344,7 +5418,9 @@ Appendix E: Chrome DevTools Demonstration of Layered Ontology
 
 
 
-<div class="page-break"></div>
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
 
 
 # Appendix F: Selecting the Candidates
@@ -5431,7 +5507,9 @@ Appendix G: Weighting Rationale and Methodological Justification for the Compara
 
 
 
-<div class="page-break"></div>
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
 
 
 # Appendix G: The Metric of Emotion
@@ -5450,7 +5528,9 @@ Appendix H Macro- and Micro-Level Weighting Across the Governing Domains
 
 
 
-<div class="page-break"></div>
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
 
 
 # Appendix H: Macro to Micro
@@ -5521,7 +5601,9 @@ Appendix I Detailed Scoring Rationales and Consolidated Weighted Scoring Matrix
 
 
 
-<div class="page-break"></div>
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
 
 
 # Appendix I: Detailed Scoring Rationales and Consolidated Weighted Scoring Matrix
@@ -5931,7 +6013,9 @@ A Constructivist Semiotic Model of Emotions
 [^fn-i-2]: The completion of the comparative trade study is an internal organizational conclusion marking the completion of the scoring and elimination procedures established in Appendices F through I; it requires no independent external authority.
 
 
-<div class="page-break"></div>
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
 
 
 # Appendix J: Constructivist Computational Model of  Emotions
@@ -6217,7 +6301,9 @@ The agent does not calculate meaning; the agent achieves it.[@russell2003core4]
 
 
 
-<div class="page-break"></div>
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
 
 
 # Appendix K: The Constructivist Interpretation Theory of Emotion
@@ -6298,7 +6384,9 @@ The Constructivist Interpretation Theory of Emotion therefore does not reject ap
 
 
 
-<div class="page-break"></div>
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
 
 
 # Appendix L: Emotional Constructivism
@@ -6411,7 +6499,9 @@ The world gives us experiences. We give them meaning. Within biological, develop
 [^fn-l-1]: (No external citation recommended. Original discussion of your departure from Peirce.)
 
 
-<div class="page-break"></div>
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
 
 
 # Appendix M: Formal CSS Walkthrough
@@ -6552,7 +6642,9 @@ Wittgenstein, Ludwig. Philosophical Investigations. Translated by G. E. M. Ansco
 
 
 
-<div class="page-break"></div>
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
 
 
 # Appendix N: Mathematical Realism and Emotional Grammar
@@ -6581,7 +6673,9 @@ The debate over mathematics thus exposes the deeper architecture of the debate o
 
 
 
-<div class="page-break"></div>
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
 
 
 # Glossary
@@ -6846,7 +6940,9 @@ The debate over mathematics thus exposes the deeper architecture of the debate o
 
 
 
-<div class="page-break"></div>
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
 
 
 # About the Author
@@ -6875,5 +6971,7 @@ Understanding the intersection of ethics, emotions, and the architecture of huma
 [^1]: Pronunciation guide.
 
 
-<div class="page-break"></div>
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
 
