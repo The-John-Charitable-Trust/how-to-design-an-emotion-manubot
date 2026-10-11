@@ -407,7 +407,6 @@ Meaning: '7' refers to the value 7 (int) in the context of days in a week, for t
 
 This output is the evidence of the system. It is the dependent achievement of a rational agent who has successfully navigated the structural requirements of meaning to produce an interpreted result.
 
-![Chapter 7 illustration 23](../../assets/figures/chapter-07/figure-23.png)
 
 
 *Figure 7-5. Integer Constructivist Semiotic Sign UML Activity Diagram*
