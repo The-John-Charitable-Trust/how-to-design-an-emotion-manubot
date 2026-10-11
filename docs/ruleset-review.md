@@ -29,25 +29,17 @@ going through pull request review. This is intentional per author request:
 
 The bypass does NOT disable deletion or force-push protection for other actors.
 
-## Recommended Changes (Require Author Approval)
+## Changes Applied (Author Approved 2026-10-11)
 
-The following changes are recommended but NOT applied, pending author approval
-per QA feedback item #8:
+1. **Required status checks:** Added `validate` job from `validate-manuscript.yml`
+   - Manuscript validation must pass before merge to main
 
-1. **Add required status checks:**
-   - `validate` job from `validate-manuscript.yml` workflow
-   - This ensures manuscript validation passes before merge
+2. **Code owner review:** Enabled `require_code_owner_review: true`
+   - CODEOWNERS covers `/.github/workflows/`, `/publishing/`, `/scripts/`
+   - Infrastructure changes now require owner review
 
-2. **Enable code owner review:**
-   - Set `require_code_owner_review: true`
-   - CODEOWNERS already covers `/.github/workflows/`, `/publishing/`, `/scripts/`
-   - This ensures infrastructure changes get owner review
+3. **Strict status checks:** Not enabled (left as `false` per conservative default)
 
-3. **Consider strict status checks:**
-   - Set `strict_required_status_checks_policy: true`
-   - Requires branches to be up-to-date before merging
+## Bypass Exception
 
-## Approval Request
-
-These administrative changes require explicit author approval before implementation.
-See QA feedback item #8.
+Unchanged. cezjah retains `bypass_mode: always` per author request.
