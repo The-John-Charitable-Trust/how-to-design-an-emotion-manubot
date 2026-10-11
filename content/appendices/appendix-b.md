@@ -1,5 +1,7 @@
 # Appendix B: Complex Affective UML Architecture Diagrams
 
+[Bibliography](../references/bibliography/appendix-b.md)
+
 ## Modeling How Emotions Are Made
 
 In Chapter 2, I argued that a definition can do its work only when it specifies the architecture that governs identity. Appendix A then tested Basic Emotion Theory against the demands of identity, non-circularity, and analytic consequence. This appendix turns from critique to formal construction. If I treat emotion as something the mind constructs rather than something the body simply reveals, then I must show how construction can preserve identity without collapsing into arbitrariness.<sup>1</sup> <sup>2</sup>

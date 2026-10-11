@@ -1,0 +1,32 @@
+[
+  {
+    "id": "press1993work",
+    "type": "book",
+    "note": "Aristotle. *Posterior Analytics*. Translated by Jonathan Barnes. Oxford: Clarendon Press, 1993."
+  },
+  {
+    "id": "barrett2017work",
+    "type": "book",
+    "note": "Barrett, Lisa Feldman. *How Emotions **Are Made**: The Secret Life of the B**rain*. Boston: Houghton Mifflin Harcourt, 2017."
+  },
+  {
+    "id": "barsalou1983ad",
+    "type": "book",
+    "note": "Barsalou, Lawrence W. \"*Ad Hoc Categories*.\" *Memory & Cognition* 11, no. 3 (1983): 211-27."
+  },
+  {
+    "id": "barsalou1999perceptual",
+    "type": "book",
+    "note": "Barsalou, Lawrence W. \"*Perceptual Symbol Systems*.\" *Behavioral and Brain Sciences* 22, no. 4 (1999): 577-660."
+  },
+  {
+    "id": "barsalou2003situated",
+    "type": "book",
+    "note": "Barsalou, Lawrence W. \"*Situated Conceptualization*.\" *Cognitive Processing* 4 (2003): 61-84."
+  },
+  {
+    "id": "booch2005work",
+    "type": "book",
+    "note": "Booch, Grady, James Rumbaugh, and Ivar Jacobson. *The Unified Modeling Language User Guide*. 2nd ed. Boston: Addison-Wesley, 2005."
+  }
+]

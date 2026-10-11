@@ -1,5 +1,7 @@
 # Appendix C: Reconstructing Goal-Based Concepts
 
+[Bibliography](../references/bibliography/appendix-c.md)
+
 ## A Constraint Analysis of Feldman Barrett's Theory of Concepts
 
 Barrett argues that concepts can adapt to changing purposes. She describes goal-based concepts as "super flexible and adaptable to the situation."<sup>1</sup> She immediately ties that flexibility to goal variation, adding that concepts are malleable and context-dependent because goals can change with the situation.<sup>2</sup> She illustrates the point with the fish example: when someone asks what kind of fish they would like, the active purpose constrains the answer. One may answer "goldfish" under one purpose and reject "poached salmon" under another.<sup>3</sup> She then generalizes the same mechanism with an artifact example: a single car can enter different concepts depending on the active purpose. In different contexts, a car may function as transportation, a status symbol, a bed, a murder weapon, or an artificial reef.<sup>4</sup>

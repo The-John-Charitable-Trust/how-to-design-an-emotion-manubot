@@ -1,0 +1,82 @@
+[
+  {
+    "id": "press1924work",
+    "type": "book",
+    "note": "Aristotle. *Metaphysics*. Translated by W. D. Ross. Oxford: Oxford University Press, 1924."
+  },
+  {
+    "id": "barrett2017work",
+    "type": "book",
+    "note": "Barrett, Lisa Feldman. *How Emotions Are Made: The Secret Life of the Brain*. Boston: Houghton Mifflin Harcourt, 2017."
+  },
+  {
+    "id": "barrett2019emotional",
+    "type": "book",
+    "note": "Barrett, Lisa Feldman, Ralph Adolphs, Stacy Marsella, Aleix M. Martinez, and Seth D. Pollak. \"Emotional Expressions Reconsidered: Challenges to Inferring Emotion From Human Facial Movements.\" *Psychological Science in the Public Interest* 20, no. 1 (2019): 1-68."
+  },
+  {
+    "id": "carnap1947work",
+    "type": "book",
+    "note": "Carnap, Rudolf. *Meaning and Necessity*. Chicago: University of Chicago Press, 1947."
+  },
+  {
+    "id": "ekman1992argument",
+    "type": "book",
+    "note": "Ekman, Paul. \"An Argument for Basic Emotions.\" *Cognition and Emotion* 6, nos. 3-4 (1992): 169-200."
+  },
+  {
+    "id": "ekman1994work",
+    "type": "book",
+    "note": "Ekman, Paul, and Richard J. Davidson, eds. *The Nature of Emotion: Fundamental Questions*. Oxford: Oxford University Press, 1994."
+  },
+  {
+    "id": "frege1980work",
+    "type": "book",
+    "note": "Frege, Gottlob. *The Foundations of Arithmetic*. Translated by J. L. Austin. Evanston, IL: Northwestern University Press, 1980."
+  },
+  {
+    "id": "frege1956thought",
+    "type": "book",
+    "note": "Frege, Gottlob. \"The Thought: A Logical Inquiry.\" *Mind* 65, no. 259 (1956): 289-311."
+  },
+  {
+    "id": "hale2001work",
+    "type": "book",
+    "note": "Hale, Bob, and Crispin Wright. *The Reason's Proper Study: Essays towards a Neo-Fregean Philosophy of Mathematics*. Oxford: Oxford University Press, 2001."
+  },
+  {
+    "id": "kant1998work",
+    "type": "book",
+    "note": "Kant, Immanuel. *Critique of Pure Reason*. Translated by Paul Guyer and Allen W. Wood. Cambridge: Cambridge University Press, 1998."
+  },
+  {
+    "id": "mesquita2016cultural",
+    "type": "book",
+    "note": "Mesquita, Batja, Michael Boiger, and Iris Fischer. \"Cultural Psychology of Emotion.\" In *Handbook of Emotions*, 4th ed., edited by Lisa Feldman Barrett, Michael Lewis, and Jeannette M. Haviland-Jones, 393-411. New York: Guilford Press, 2016."
+  },
+  {
+    "id": "panksepp1998work",
+    "type": "book",
+    "note": "Panksepp, Jaak. *Affective Neuroscience: The Foundations of Human and Animal Emotions*. New York: Oxford University Press, 1998."
+  },
+  {
+    "id": "quine1951two",
+    "type": "book",
+    "note": "Quine, W. V. O. \"Two Dogmas of Empiricism.\" *Philosophical Review* 60, no. 1 (1951): 20-43."
+  },
+  {
+    "id": "scherer2005what",
+    "type": "book",
+    "note": "Scherer, Klaus R. \"What Are Emotions? And How Can They Be Measured?\" *Social Science Information* 44, no. 4 (2005): 695-729."
+  },
+  {
+    "id": "strawson1959work",
+    "type": "book",
+    "note": "Strawson, P. F. *Individuals: An Essay in Descriptive Metaphysics*. London: Methuen, 1959."
+  },
+  {
+    "id": "tarski1956on",
+    "type": "book",
+    "note": "Tarski, Alfred. \"On the Concept of Logical Consequence.\" In *Logic, Semantics, Metamathematics*, translated by J. H. Woodger, 409-20. Oxford: Oxford University Press, 1956."
+  }
+]

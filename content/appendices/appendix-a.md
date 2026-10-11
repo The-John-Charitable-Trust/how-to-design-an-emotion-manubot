@@ -1,5 +1,7 @@
 # Appendix A: Basic Emotion Theory
 
+[Bibliography](../references/bibliography/appendix-a.md)
+
 ## An Assessment by Formal Identity and Truth Conditions
 
 This appendix applies the conceptual principles I  established in Chapter 2 to Basic Emotion Theory. In that chapter, I argued that a theory cannot use a concept with authority unless it first specifies the identity conditions that govern the concept's meaning. Definition specifies identity conditions. Analytic truth enforces consequence. Without that sequence, theory mistakes familiar categories for concepts under constraint.<sup>1</sup>

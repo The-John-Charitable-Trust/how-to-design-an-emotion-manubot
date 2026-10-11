@@ -1,0 +1,117 @@
+[
+  {
+    "id": "press1984work",
+    "type": "book",
+    "note": "Aristotle. *Metaphysics*. Translated by W. D. Ross. Princeton: Princeton University Press, 1984."
+  },
+  {
+    "id": "barrett2017work",
+    "type": "book",
+    "note": "Barrett, Lisa Feldman. *How Emotions Are Made: The Secret Life of the Brain*. Boston: Houghton Mifflin Harcourt, 2017."
+  },
+  {
+    "id": "booch2007work",
+    "type": "book",
+    "note": "Booch, Grady. *Object-Oriented Analysis and Design with Applications*. 3rd ed. Boston: Addison-Wesley, 2007."
+  },
+  {
+    "id": "booch2005work",
+    "type": "book",
+    "note": "Booch, Grady, James Rumbaugh, and Ivar Jacobson. *The Unified Modeling Language User Guide*. 2nd ed. Boston: Addison-Wesley, 2005."
+  },
+  {
+    "id": "carnap1950work",
+    "type": "book",
+    "note": "Carnap, Rudolf. *Logical Foundations of Probability*. Chicago: University of Chicago Press, 1950."
+  },
+  {
+    "id": "chandler2017work",
+    "type": "book",
+    "note": "Chandler, Daniel. *Semiotics: The Basics*. 3rd ed. London: Routledge, 2017."
+  },
+  {
+    "id": "dennett1987work",
+    "type": "book",
+    "note": "Dennett, Daniel C. *The Intentional Stance*. Cambridge, MA: MIT Press, 1987."
+  },
+  {
+    "id": "fowler2003work",
+    "type": "book",
+    "note": "Fowler, Martin. *Patterns of Enterprise Application Architecture*. Boston: Addison-Wesley, 2003."
+  },
+  {
+    "id": "frijda1986work",
+    "type": "book",
+    "note": "Frijda, Nico H. *The Emotions*. Cambridge: Cambridge University Press, 1986."
+  },
+  {
+    "id": "gamma1994work",
+    "type": "book",
+    "note": "Gamma, Erich, Richard Helm, Ralph Johnson, and John Vlissides. *Design Patterns: Elements of Reusable Object-Oriented Software*. Reading, MA: Addison-Wesley, 1994."
+  },
+  {
+    "id": "hempel1965work",
+    "type": "book",
+    "note": "Hempel, Carl G. *Aspects of Scientific Explanation*. New York: Free Press, 1965."
+  },
+  {
+    "id": "husserl2001work",
+    "type": "book",
+    "note": "Husserl, Edmund. *Logical Investigations*. Vol. 1. Translated by J. N. Findlay. London: Routledge, 2001."
+  },
+  {
+    "id": "specification2017work",
+    "type": "book",
+    "note": "Object Management Group. Unified Modeling Language (UML) Specification, Version 2.5.1. Needham, MA: OMG, 2017."
+  },
+  {
+    "id": "panksepp1998work",
+    "type": "book",
+    "note": "Panksepp, Jaak. *Affective Neuroscience: The Foundations of Human and Animal Emotions*. New York: Oxford University Press, 1998."
+  },
+  {
+    "id": "quine1980work",
+    "type": "book",
+    "note": "Quine, W. V. O. *From a Logical Point of View*. 2nd ed. Cambridge, MA: Harvard University Press, 1980."
+  },
+  {
+    "id": "quine1960work",
+    "type": "book",
+    "note": "Quine, W. V. O. *Word and Object*. Cambridge, MA: MIT Press, 1960."
+  },
+  {
+    "id": "rand1990work",
+    "type": "book",
+    "note": "Rand, Ayn. *Introduction to Objectivist Epistemology*. Expanded 2nd ed. Edited by Harry Binswanger and Leonard Peikoff. New York: Meridian, 1990."
+  },
+  {
+    "id": "russell2003core",
+    "type": "book",
+    "note": "Russell, James A. \"Core Affect and the Psychological Construction of Emotion.\" *Psychological Review* 110, no. 1 (2003): 145-72."
+  },
+  {
+    "id": "saussure1959work",
+    "type": "book",
+    "note": "Saussure, Ferdinand de. *Course in General Linguistics*. Edited by Charles Bally and Albert Sechehaye. Translated by Wade Baskin. New York: McGraw-Hill, 1959."
+  },
+  {
+    "id": "scherer2001work",
+    "type": "book",
+    "note": "Scherer, Klaus R. *Appraisal Processes in Emotion: Theory, Methods, Research*. Oxford: Oxford University Press, 2001."
+  },
+  {
+    "id": "scherer2005what",
+    "type": "book",
+    "note": "Scherer, Klaus R. \"What Are Emotions? And How Can They Be Measured?\" *Social Science Information* 44, no. 4 (2005): 695-729."
+  },
+  {
+    "id": "sowa2000work",
+    "type": "book",
+    "note": "Sowa, John F. *Knowledge Representation: Logical, Philosophical, and Computational Foundations*. Pacific Grove, CA: Brooks/Cole, 2000."
+  },
+  {
+    "id": "wittgenstein1953work",
+    "type": "book",
+    "note": "Wittgenstein, Ludwig. *Philosophical Investigations*. Translated by G. E. M. Anscombe. Oxford: Blackwell, 1953."
+  }
+]
