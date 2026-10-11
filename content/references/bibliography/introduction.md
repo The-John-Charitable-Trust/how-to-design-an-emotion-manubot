@@ -1,6 +1,6 @@
 # Introduction — Bibliography
 
-[Back to Introduction](../../front-matter/introduction.md) · [Notes](../notes/introduction.md)
+[Back to Introduction](../../front-matter/introduction.md)
 
 A. D. Craig, "How Do You Feel? Interoception: The Sense of the Physiological Condition of the Body," Nature Reviews Neuroscience 3, no. 8 (2002): 655-666, https://doi.org/10.1038/nrn894.
 

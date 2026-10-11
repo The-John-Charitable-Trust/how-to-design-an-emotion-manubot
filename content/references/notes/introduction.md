@@ -89,4 +89,3 @@
 <a id="note-22"></a>
 
 22. Jaroslav Peregrin, "Inferentialism," in The Stanford Encyclopedia of Philosophy, Winter 2023 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/inferentialism/. Access basis: Open scholarly reference.
-

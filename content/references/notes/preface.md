@@ -97,4 +97,3 @@
 <a id="note-24"></a>
 
 24. Plato, Apology, trans. G. M. A. Grube, rev. John M. Cooper, in Plato: Complete Works, ed. John M. Cooper (Indianapolis: Hackett, 1997), 17a-42a. Access basis: Standard primary text edition metadata verified.
-

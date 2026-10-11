@@ -1,6 +1,6 @@
 # Preface — Bibliography
 
-[Back to Preface](../../front-matter/preface.md) · [Notes](../notes/preface.md)
+[Back to Preface](../../front-matter/preface.md)
 
 Andrea Scarantino and Ronald de Sousa, "Emotion," in The Stanford Encyclopedia of Philosophy, Spring 2024 ed., ed. Edward N. Zalta and Uri Nodelman, https://plato.stanford.edu/entries/emotion/.
 
