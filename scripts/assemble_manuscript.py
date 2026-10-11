@@ -100,6 +100,20 @@ def assemble(manifest, output_path='build/manuscript.md'):
     print(f'Manuscript assembled: {output_path} ({len(sections)} sections)')
 
 if __name__ == '__main__':
-    manifest = load_manifest()
-    output = sys.argv[1] if len(sys.argv) > 1 else 'build/manuscript.md'
+    import argparse
+    parser = argparse.ArgumentParser(description='Assemble manuscript from manifest')
+    parser.add_argument('--manifest', default='publishing/manuscript.yml',
+                        help='Path to manuscript manifest YAML')
+    parser.add_argument('--output', default='build/manuscript.md',
+                        help='Output path for assembled markdown')
+    # Backwards compat: positional arg as output path
+    parser.add_argument('positional_output', nargs='?',
+                        help='Output path (positional, deprecated)')
+    args = parser.parse_args()
+
+    output = args.output
+    if args.positional_output and args.output == 'build/manuscript.md':
+        output = args.positional_output
+
+    manifest = load_manifest(args.manifest)
     assemble(manifest, output)

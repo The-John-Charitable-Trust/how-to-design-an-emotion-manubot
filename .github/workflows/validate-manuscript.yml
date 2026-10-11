@@ -28,6 +28,9 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Install Python dependencies
+        run: pip install -r publishing/requirements.lock
+
       - name: Validate manuscript manifest
         run: python scripts/validate_manuscript.py --manifest publishing/manuscript.yml
 
